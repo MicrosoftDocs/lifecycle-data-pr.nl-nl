@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Outlook 2010
+  description: Outlook 2010 volgt het beleid voor vaste levenscyclus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 54e6783e437f7a61c6e49b3b81ff496cc8a765f9
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: nl-NL
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "812299"
+name: Outlook 2010
+summary: >+
+  Outlook 2010 volgt het beleid [voor](/lifecycle/policies/fixed) vaste levenscyclus.
+
+
+  Dit geldt voor de volgende edities: Standard, met Business Contact Manager
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 07/15/2010
+  end: 10/13/2015
+  extendedEnd: 10/13/2020
+releases:
+- version: Original Release
+  startDate: 07/15/2010
+  endDate: 10/13/2020
+content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Migratiebegeleiding](/DeployOffice/office-2010-end-support-roadmap)\n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edities \n* Standaard\n* met Business Contact Manager"
