@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 7
+  description: Windows 7 volgt het beleid voor vaste levenscyclus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: a1b1b370fe7d15abae83da62603b4522ea79a307
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: nl-NL
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "811751"
+name: Windows 7
+summary: "Windows 7 volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.\n\nDit geldt voor de volgende edities: Enterprise, Enterprise N, Home Basic, Home Premium, Home Premium N, Professional, Professional for Embedded Systems, Professional N, Starter, Starter N, Ultimate, Ultimate for Embedded Systems, Ultimate N\n\n> [!IMPORTANT]\n> Ondersteuning voor dit product is beëindigd. Zie de migratiebegeleiding hieronder. \n"
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/22/2009
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Extended Security Update Year 3*
+  startDate: 01/11/2022
+  endDate: 01/10/2023
+- version: Extended Security Update Year 2*
+  startDate: 01/12/2021
+  endDate: 01/11/2022
+- version: Extended Security Update Year 1*
+  startDate: 01/14/2020
+  endDate: 01/12/2021
+- version: Service Pack 1
+  startDate: 02/22/2011
+  endDate: 01/14/2020
+- version: Original Release
+  startDate: 10/22/2009
+  endDate: 04/09/2013
+content: "> [!TIP]\n> '* Extended Security Updates (ESU) zijn beschikbaar via specifieke volumelicentieprogramma's voor Windows 7 Professional, Enterprise en Professional for Embedded Systems-edities van dit product, voor maximaal drie jaar na het einde van de ondersteuning. Neem contact op met uw Microsoft-partner of -account voor meer informatie. \n\n## <a name=\"links\"></a>Verwijzigingen \n* [Migratiebegeleiding](https://support.microsoft.com/help/4057281)\n* [Een upgrade uitvoeren van Windows 7 naar Windows 10](/microsoft-365/enterprise/desktop-deployment-center-home?view=o365-worldwide) \n* [Uitgebreid beveiligingsupdateprogramma (ESU)](/lifecycle/faq/extended-security-updates)\n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edities \n* Enterprise\n* Onderneming N\n* Home Basic\n* Home Premium\n* Home Premium N\n* Professionele\n* Professional voor embedded systemen\n* Professioneel N\n* Starter\n* Starter N\n* Ultimate\n* Ultimate voor embedded systemen\n* Ultieme N"
