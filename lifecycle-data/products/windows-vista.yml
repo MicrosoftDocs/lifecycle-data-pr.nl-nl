@@ -1,0 +1,40 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Vista
+  description: Windows Vista volgt het beleid voor vaste levenscyclus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: e2e6ab946bf405ed524f07047d055a786d7174dc
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: nl-NL
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "811894"
+name: Windows Vista
+summary: >
+  Windows Vista volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+
+
+  Dit geldt voor de volgende edities: Business, Business N, Enterprise, Enterprise X64, Home Basic, Home Basic 64-bits, Home Basic N, Home Basic N 64-bits, Home Premium, Home Premium 64-bits, Starter, Ultimate, Ultimate 64-bits
+
+
+  > [!IMPORTANT]
+
+  > Ondersteuning voor dit product is beëindigd, zie hieronder voor migratie-informatie.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 01/25/2007
+  end: 04/10/2012
+  extendedEnd: 04/11/2017
+releases:
+- version: Service Pack 2
+  startDate: 04/29/2009
+  endDate: 04/11/2017
+- version: Service Pack 1
+  startDate: 02/04/2008
+  endDate: 07/12/2011
+- version: Original Release
+  startDate: 01/25/2007
+  endDate: 04/13/2010
+content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Migratiebegeleiding](https://support.microsoft.com/help/22882/windows-vista-end-of-support)\n* [Windows-upgrade- en migratieoverwegingen](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edities \n* Bedrijven\n* Business N\n* Enterprise\n* Onderneming X64\n* Home Basic\n* Home Basic 64-bits\n* Home Basic N\n* Home Basic N 64-bits\n* Home Premium\n* Home Premium 64-bits\n* Starter\n* Ultimate\n* Ultieme 64-bits"
