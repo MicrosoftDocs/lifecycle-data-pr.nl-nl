@@ -1,0 +1,42 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Embedded Standard 7
+  description: Windows Embedded Standard 7 volgt het beleid voor vaste levenscyclus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 2e4b6119250a574a9526e74a7ccea090e02ed61d
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: nl-NL
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "812262"
+name: Windows Embedded Standard 7
+summary: >+
+  Windows Embedded Standard 7 volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+
+
+  Dit geldt voor de volgende edities: Standaard
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 07/29/2010
+  end: 10/13/2015
+  extendedEnd: 10/13/2020
+releases:
+- version: Extended Security Update Year 3*
+  startDate: 10/11/2022
+  endDate: 10/10/2023
+- version: Extended Security Update Year 2*
+  startDate: 10/12/2021
+  endDate: 10/11/2022
+- version: Extended Security Update Year 1*
+  startDate: 10/13/2020
+  endDate: 10/12/2021
+- version: Service Pack 1
+  startDate: 02/28/2011
+  endDate: 10/13/2020
+- version: Original Release
+  startDate: 07/29/2010
+  endDate: 04/09/2013
+content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [* Extended Security Update Program (ESU) - Uitgebreide beveiligingsupdates voor bepaalde embedded producten zijn beschikbaar via OEM's](/lifecycle/faq/extended-security-updates)\n* [Migratiebegeleiding](https://support.microsoft.com/help/4057281)\n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> '*Extended Security Updates (ESU) zijn beschikbaar voor Windows Embedded Standard 7 voor maximaal drie jaar na het einde van de ondersteuning via OEM's. Neem contact op met uw Microsoft-partner of -account voor meer informatie.\n\n## <a name=\"editions\"></a>Edities \n* Standaard"
