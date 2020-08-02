@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft-oplossing voor gehoste berichten en samenwerking 4.0
+  description: Microsoft-oplossing voor gehoste berichten en samenwerking 4.0 volgt het beleid voor vaste levenscyclus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: d5aad6d836257bdbd054a1e385c6268769a1da05
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: nl-NL
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "811935"
+name: Microsoft-oplossing voor gehoste berichten en samenwerking 4.0
+summary: >+
+  Microsoft-oplossing voor gehoste berichten en samenwerking 4.0 volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 07/15/2007
+  end: 12/12/2011
+releases:
+- version: Original Release
+  startDate: 07/15/2007
+  endDate: 12/12/2011
+content: ''
