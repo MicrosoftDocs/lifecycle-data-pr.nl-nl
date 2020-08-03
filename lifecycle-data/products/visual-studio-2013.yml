@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Visual Studio 2013
+  description: Visual Studio 2013 volgt het beleid voor vaste levenscyclus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b94d9b3d87ff3c971739be3ca2ebbb2446764e1b
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: nl-NL
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "852123"
+name: Visual Studio 2013
+summary: >+
+  Visual Studio 2013 volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+
+
+  Dit geldt voor de volgende edities: Agents, All, Community, Express for Web, Express for Windows, Express for Windows Desktop, IntelliTrace Collector, Modeling SDK, Multibyte MFC Library, Premium, Professional, Release Management, Remote Tools, SDK, Shell (Integrated), Shell (Geïsoleerd), Team Explorer, Test Professional, Ultimate, Visual C++ Redistributable, Web Tools Extensions Extensions
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 01/15/2014
+  end: 04/09/2019
+  extendedEnd: 04/09/2024
+releases:
+- version: Update 5
+  startDate: 07/20/2015
+  endDate: 04/09/2024
+- version: Original Release
+  startDate: 01/15/2014
+  endDate: 04/09/2024
+content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Onderhoudsinformatie](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Edities \n* Agenten\n* Alle\n* Community\n* Express voor web\n* Express voor Windows\n* Express voor Windows-bureaublad\n* IntelliTrace Verzamelaar\n* Modellering SDK\n* Multibyte MFC-bibliotheek\n* Premium\n* Professionele\n* Releasebeheer\n* Hulpprogramma's voor op afstand\n* Sdk\n* Shell (geïntegreerd)\n* Shell (geïsoleerd)\n* Teamverkenner\n* Test Professional\n* Ultimate\n* Visueel C++ herverdeelbaar\n* Extensies voor webgereedschappen"

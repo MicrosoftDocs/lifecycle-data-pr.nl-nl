@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Phone 7.8
+  description: Windows Phone 7.8 volgt het beleid voor vaste levenscyclus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 7ca5bd0f56f415c7c686e60ef7931172ce97a495
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: nl-NL
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "852114"
+name: Windows Phone 7.8
+summary: >
+  Windows Phone 7.8 volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+
+
+
+  > [!IMPORTANT]
+
+  > Ondersteuning voor dit product is beëindigd.
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 02/09/2013
+  end: 10/14/2014
+releases:
+- version: Original Release
+  startDate: 02/09/2013
+  endDate: 10/14/2014
+content: "\n\n> [!NOTE]\n> Microsoft stelt updates beschikbaar voor het besturingssysteem op uw telefoon, inclusief beveiligingsupdates, gedurende een periode van 18 maanden na de begindatum van de levenscyclus. De distributie van de updates kan worden geregeld door de mobiele provider of de telefoonfabrikant van wie u uw telefoon hebt gekocht. De beschikbaarheid van updates verschilt ook per land, regio en hardware."
