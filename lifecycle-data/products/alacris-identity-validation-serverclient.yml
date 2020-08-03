@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Alacris Identity Validation Server/Client
+  description: Alacris Identity Validation Server/Client volgt het beleid voor vaste levenscyclus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 3c817b079ec484ac744b3c1d50059fec448161a8
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: nl-NL
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "812673"
+name: Alacris Identity Validation Server/Client
+summary: >
+  Alacris Identity Validation Server/Client volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+
+
+
+  > [!IMPORTANT]
+
+  > Ondersteuning voor dit product is beëindigd.
+products:
+- m365
+policyType: fixed-mainstream-only
+supportDates:
+  start: 03/07/2006
+  end: 12/31/2007
+releases:
+- version: Original Release
+  startDate: 03/07/2006
+  endDate: 12/31/2007
+content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Veelgestelde vragen over de levenscyclus - Algemeen](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> Hiermee worden versies die eerder zijn niet ondersteund, uitgesloten. Ondersteuning voor dit product is onderworpen aan de voorwaarden van de overname."
