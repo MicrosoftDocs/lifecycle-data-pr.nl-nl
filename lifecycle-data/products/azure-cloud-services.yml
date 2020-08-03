@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Azure Cloud Services
+  description: Azure Cloud Services volgt het beleid voor moderne levenscyclus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: aab601bc296dcf08a3f860220bf93b35fa67e335
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: nl-NL
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "812669"
+name: Azure Cloud Services
+summary: >+
+  Azure Cloud Services volgt het beleid voor [moderne](/lifecycle/policies/modern) levenscyclus.
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 10/27/2008
+releases:
+- version: Original Release
+  startDate: 10/27/2008
+content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Informatie over azure guest OS-ondersteuning en pensioenbeleid](/azure/cloud-services/cloud-services-guestos-retirement-policy)"

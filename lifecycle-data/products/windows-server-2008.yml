@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server 2008
+  description: Windows Server 2008 volgt het beleid voor vaste levenscyclus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: cb16ce7326c75c0c560a1b8a0078d03656d58c21
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: nl-NL
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "812617"
+name: Windows Server 2008
+summary: >
+  Windows Server 2008 volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+
+
+  Dit geldt voor de volgende edities: Datacenter, Datacenter zonder Hyper-V, Enterprise, Enterprise zonder Hyper-V, voor Itanium-gebaseerde systemen, Foundation, Standard, Standard zonder Hyper-V, Web
+
+
+  > [!IMPORTANT]
+
+  > Ondersteuning voor dit product is beëindigd. Zie de migratiebegeleiding hieronder.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/06/2008
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Service Pack 2
+  startDate: 04/29/2009
+  endDate: 01/14/2020
+- version: Original Release
+  startDate: 05/06/2008
+  endDate: 07/12/2011
+content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Migratiebegeleiding](https://aka.ms/AA1ovn4)\n* [Serverupgradegegevens](/windows-server/upgrade/upgrade-overview)\n* [Uitgebreid beveiligingsupdateprogramma (ESU)](/lifecycle/faq/extended-security-updates)\n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Uitgebreide beveiligingsupdates (ESU) zijn beschikbaar via specifieke volumelicentieprogramma's voor datacenter-, standaard-, onderneming- en embedded-edities van deze productedities, voor maximaal drie jaar na het einde van de ondersteuning. Neem contact op met uw Microsoft-partner of -account voor meer informatie. \n\nRelease-------------------------------Startdatum----Datum\n\nVerlengde beveiligingsupdate jaar 3---01/11/2022---01/10/2023\n\nVerlengde beveiligingsupdate jaar 2---01/12/2021---01/11/2022\n\nVerlengde beveiligingsupdate jaar 1---01/14/2020---01/12/2021\n> [!NOTE]\n> Windows Server 2008 Foundation uitgebracht op 21 mei 2009\n\n## <a name=\"editions\"></a>Edities \n* Datacenter\n* Datacenter zonder Hyper-V\n* Enterprise\n* Onderneming zonder Hyper-V\n* voor Itanium-gebaseerde systemen\n* Stichting\n* Standaard\n* Standaard zonder Hyper-V\n* Web"
