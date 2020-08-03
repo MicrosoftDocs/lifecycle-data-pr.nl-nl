@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 10 Mobile Enterprise, uitgebracht in oktober 2017
+  description: Windows 10 Mobile Enterprise, uitgebracht in oktober 2017, volgt het beleid voor vaste levenscyclus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: eca2b57c1fc69d610cf6f8cf0232c11eccf06ead
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: nl-NL
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "868757"
+name: Windows 10 Mobile Enterprise, uitgebracht in oktober 2017
+summary: >
+  Windows 10 Mobile Enterprise, uitgebracht in oktober 2017, volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+
+
+
+  > [!IMPORTANT]
+
+  > Ondersteuning voor dit product is beëindigd.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/17/2017
+  end: 12/10/2019
+  extendedEnd: 01/14/2020
+releases:
+- version: Original Release
+  startDate: 10/17/2017
+content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Veelgestelde vragen over de levenscyclus van apparaatbesturingssysteem](/lifecycle/faq/device-operating-systems)\n* [Windows 10 Mobile beëindigde de ondersteuning op 10 december 2019](/lifecycle/announcements/windows-10-mobile-end-of-support)"
