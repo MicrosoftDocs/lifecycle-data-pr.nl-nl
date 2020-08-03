@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Verzameling Azure Power BI-werkruimte
+  description: Azure Power BI Workspace Collection volgt het beleid voor moderne levenscyclus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: a95f325fa895563c498eca76aaa2b7978d393473
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: nl-NL
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "851652"
+name: Verzameling Azure Power BI-werkruimte
+summary: >
+  Azure Power BI Workspace Collection volgt het beleid voor [moderne](/lifecycle/policies/modern) levenscyclus.
+
+
+
+  > [!IMPORTANT]
+
+  > De ondersteuning is beëindigd. Zie de migratiebegeleiding hieronder.
+products:
+- sql-server
+policyType: modern-online
+supportDates:
+  start: 03/31/2016
+  end: 07/30/2018
+releases:
+- version: Original Release
+  startDate: 03/31/2016
+  endDate: 07/30/2018
+content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Migratiebegeleiding](/power-bi/developer/embedded/migrate-from-powerbi-embedded)"

@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Dynamics 365 Business Central
+  description: Dynamics 365 Business Central volgt het Modern Lifecycle Policy.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: d4bcea33ffede77bb781ed2167ad9097af8fbe57
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: nl-NL
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "851927"
+name: Dynamics 365 Business Central
+summary: >+
+  Dynamics 365 Business Central volgt het [Modern](/lifecycle/policies/modern) Lifecycle Policy.
+
+
+products:
+- dynamics
+policyType: modern-online
+supportDates:
+  start: 11/01/2016
+releases:
+- version: Original Release
+  startDate: 11/01/2016
+content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Microsoft Dynamics 365-routekaart](https://aka.ms/businessappsreleasenotes)\n* [Onderhoudsinformatie](/dynamics365/business-central/dev-itpro/faq)\n* [Systeemvereisten](/dynamics365/business-central/product-requirements)"

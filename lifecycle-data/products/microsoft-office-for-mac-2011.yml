@@ -1,0 +1,38 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Office voor Mac 2011
+  description: Microsoft Office voor Mac 2011 volgt het beleid voor vaste levenscyclus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b2469fc1a66c94cb7a3d71ea25595ed2eb4be125
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: nl-NL
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "851751"
+name: Microsoft Office voor Mac 2011
+summary: >+
+  Microsoft Office voor Mac 2011 volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+
+
+  Dit geldt voor de volgende edities: Academic, Home and Business, Home and Business Home Use Program, Home and Student, Standard
+
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 12/09/2010
+  end: 10/10/2017
+releases:
+- version: Service Pack 3
+  startDate: 01/29/2013
+  endDate: 10/10/2017
+- version: Service Pack 2
+  startDate: 04/12/2012
+  endDate: 04/08/2014
+- version: Service Pack 1
+  startDate: 04/15/2011
+  endDate: 07/09/2013
+- version: Original Release
+  startDate: 12/09/2010
+  endDate: 01/10/2012
+content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> De algemene ondersteuning voor Microsoft Office voor Mac 2011 wordt uitgebreid, zoals wordt weergegeven om alle klanten de standaard tijdlijn voor de overgang van de levenscyclus te bieden.\n\n## <a name=\"editions\"></a>Edities \n* Academische\n* Thuis en zakelijk\n* Home en Business Home Use Program\n* Thuis en student\n* Standaard"

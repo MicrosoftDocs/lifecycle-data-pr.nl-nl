@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Embedded 8-industrie
+  description: Windows Embedded 8 Industry volgt het beleid voor vaste levenscyclus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9ea7dea72b8c455d30007ba3b166f43cf59a4822
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: nl-NL
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "851680"
+name: Windows Embedded 8-industrie
+summary: >
+  Windows Embedded 8 Industry volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+
+
+  Dit geldt voor de volgende edities: Enterprise, Pro
+
+
+  > [!IMPORTANT]
+
+  > Klanten moeten migreren naar Windows 8.1 om ondersteund te blijven.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 06/24/2013
+  end: 01/12/2016
+  extendedEnd: 01/12/2016
+releases:
+- version: Original Release
+  startDate: 06/24/2013
+  endDate: 01/12/2016
+content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Richtlijnen migreren](https://www.microsoft.com/download/details.aspx?id=40279)\n* [Veelgestelde vragen over de levenscyclus - Windows-producten](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Edities \n* Enterprise\n* Pro"

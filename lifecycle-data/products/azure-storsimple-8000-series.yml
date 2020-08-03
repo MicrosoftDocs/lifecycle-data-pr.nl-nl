@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Azure StorSimple 8000-serie
+  description: Azure StorSimple 8000-serie volgt het beleid voor vaste levenscyclus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b7f4d4313e664c1d52d52ee6394c8cad97f69e85
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: nl-NL
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "851660"
+name: Azure StorSimple 8000-serie
+summary: >+
+  Azure StorSimple 8000-serie volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+
+
+products:
+- azure
+policyType: fixed
+supportDates:
+  start: 11/01/2014
+  end: 07/01/2020
+  extendedEnd: 12/31/2022
+releases:
+- version: Original Release
+  startDate: 11/01/2014
+content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Ondersteuning voor StorSimple-oplossingen](https://msdn.microsoft.com/library/mt433077(TechNet.10).aspx)\n* [Migratiebegeleiding](/azure/storage/files/storage-files-migration-storsimple-8000)\n\n> [!NOTE]\n> Ondersteuning voor Azure StorSimple 8000-serie wordt uitgebreid, zoals blijkt dat klanten de standaard tijdlijn voor de levenscyclus kunnen bieden. Uitgebreide ondersteuning omvat alleen hardwarevervangende en beveiligingsupdates."

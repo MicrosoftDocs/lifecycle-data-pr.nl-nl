@@ -1,0 +1,43 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 10 IoT Core
+  description: Windows 10 IoT Core volgt het beleid voor moderne levenscyclus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 4de1aecc88c37d87a38cd5eca9274bcb4c854739
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: nl-NL
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "851944"
+name: Windows 10 IoT Core
+summary: >
+  Windows 10 IoT Core volgt het beleid [voor moderne](/lifecycle/policies/modern) levenscyclus.
+
+
+
+  > [!IMPORTANT]
+
+  > Microsoft blijft ten minste één Windows 10 Semi-Annual Channel ondersteunen tot 14 oktober 2025.
+products:
+- windows
+policyType: modern-on-prem
+supportDates:
+  start: 08/02/2016
+  end: 10/14/2025
+releases:
+- version: Version 1809
+  startDate: 11/13/2018
+  endDate: 11/10/2020
+- version: Version 1803
+  startDate: 04/30/2018
+  endDate: 11/12/2019
+- version: Version 1709
+  startDate: 10/17/2017
+  endDate: 04/09/2019
+- version: Version 1703
+  startDate: 04/11/2017
+  endDate: 10/09/2018
+- version: Version 1607
+  startDate: 08/02/2016
+  endDate: 04/10/2018
+content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Productinformatie](/windows/iot-core/windows-iot-core)\n* [Factsheet levenscyclus van Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Veelgestelde vragen over de levenscyclus - Windows-producten](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Tenzij uitgesteld, kunnen latere Windows 10 Semi-Annual Channel-functie-updates worden geïnstalleerd vóór het vermelde einde van de algemene ondersteuningsdatum."
