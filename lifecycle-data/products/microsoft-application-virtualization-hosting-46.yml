@@ -1,0 +1,39 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Application Virtualization Hosting 4.6 voor Windows-desktops
+  description: Microsoft Application Virtualization Hosting 4.6 voor Windows Desktops volgt het beleid voor vaste levenscyclus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 21ed557cd6333e43a274796a3b25791c0d7f96cd
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: nl-NL
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "812460"
+name: Microsoft Application Virtualization Hosting 4.6 voor Windows-desktops
+summary: >+
+  Microsoft Application Virtualization Hosting 4.6 voor Windows Desktops volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+
+
+  Dit geldt voor de volgende edities: voor Windows-desktops
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/27/2010
+  end: 07/14/2015
+  extendedEnd: 07/14/2020
+releases:
+- version: Service Pack 3
+  startDate: 12/02/2013
+  endDate: 07/14/2020
+- version: Service Pack 2
+  startDate: 10/01/2012
+  endDate: 01/13/2015
+- version: Service Pack 1
+  startDate: 01/26/2011
+  endDate: 10/08/2013
+- version: Original Release
+  startDate: 05/27/2010
+  endDate: 04/10/2012
+content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Product- en migratieinformatie](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Aangezien App-V 4.6-client gebruik maakt van de App-V 4.5-server, blijft de App-V 4.5-server worden ondersteund op basis van de levenscyclusdata van App-V 4.6 wanneer deze wordt gebruikt met de ondersteunde App-V 4.6-client.\n\n## <a name=\"editions\"></a>Edities \n* voor Windows-bureaubladen"

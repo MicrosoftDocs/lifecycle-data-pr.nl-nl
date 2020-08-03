@@ -1,0 +1,40 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft-toepassingsvirtualisatie 4.5
+  description: Microsoft Application Virtualization 4.5 volgt het beleid voor vaste levenscyclus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9280ac5223f15be20ed2c04fe29b25fd57417b6a
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: nl-NL
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "812468"
+name: Microsoft-toepassingsvirtualisatie 4.5
+summary: >
+  Microsoft Application Virtualization 4.5 volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+
+
+  Dit geldt voor de volgende edities: voor Terminal Services, voor Windows Desktops
+
+
+  > [!IMPORTANT]
+
+  > Ondersteuning voor dit product is beëindigd. Zie de migratiebegeleiding hieronder.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 11/23/2008
+  end: 01/14/2014
+  extendedEnd: 01/08/2019
+releases:
+- version: Service Pack 2
+  startDate: 08/15/2010
+  endDate: 01/08/2019
+- version: Service Pack 1
+  startDate: 12/13/2009
+  endDate: 10/11/2011
+- version: Original Release
+  startDate: 11/23/2008
+  endDate: 01/11/2011
+content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Migratiebegeleiding](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Aangezien App-V 4.6-client gebruik maakt van de App-V 4.5-server, blijft de App-V 4.5-server worden ondersteund op basis van de levenscyclusdata van App-V 4.6 wanneer deze wordt gebruikt met de ondersteunde App-V 4.6-client.\n\n## <a name=\"editions\"></a>Edities \n* voor Terminal Services\n* voor Windows-bureaubladen"
