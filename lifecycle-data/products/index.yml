@@ -1,11 +1,11 @@
 ### YamlMime:ContentBrowser
 title: Levenscyclusgegevens van product en services doorzoeken (voorbeeld)
 browseType: lifecycle
-summary: "\n\n> [!IMPORTANT]\n> Deze pagina is in ontwikkeling. Ga naar [aka.ms/lifecycle/search](https://aka.ms/lifecycle/search/)voor een volledige lijst met Microsoft-producten en hun ondersteuningstijdlijnen en -details.\n\n\nMicrosoft Lifecycle biedt consistente en voorspelbare richtlijnen voor ondersteuning gedurende de hele levensduur van een product, zodat klanten hun IT-investeringen en -omgevingen kunnen beheren en tegelijkertijd strategisch plannen voor de toekomst.\n\n\nZoek hieronder naar een lijst met commerciële producten en services van Microsoft en selecteer vervolgens uw resultaat om tijdlijnen, vereiste updates, migratiegegevens en systeemvereisten te vinden."
+summary: "\n\n> [!IMPORTANT]\n> Deze pagina is in ontwikkeling. Ga naar [aka.ms/lifecycle/search](https://aka.ms/lifecycle/search/)voor een volledige lijst met Microsoft-producten en hun ondersteuningstijdlijnen en -details.\n> [!NOTE]\n> Levenscyclusgegevens exporteren vanaf de pagina [Levenscyclusexport.](/lifecycle/export/products)\n\n\nMicrosoft Lifecycle biedt consistente en voorspelbare richtlijnen voor ondersteuning gedurende de hele levensduur van een product, zodat klanten hun IT-investeringen en -omgevingen kunnen beheren en tegelijkertijd strategisch plannen voor de toekomst.\n\n\nZoek hieronder naar een lijst met commerciële producten en services van Microsoft en selecteer vervolgens uw resultaat om tijdlijnen, vereiste updates, migratiegegevens en systeemvereisten te vinden."
 metadata:
-  ms.openlocfilehash: 6bb48cf842d75b6dec70a1d057d9a732e245a823
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.openlocfilehash: d412a8110fc64c4cb346fd9b7056fa35a59c8260
+  ms.sourcegitcommit: 0c5dc5388beb299272e01efb037b964e49ca1fb0
   ms.translationtype: MT
   ms.contentlocale: nl-NL
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "812489"
+  ms.lasthandoff: 08/04/2020
+  ms.locfileid: "882431"
