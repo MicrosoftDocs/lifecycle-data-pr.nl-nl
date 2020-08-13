@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Uitgever 2016
-  description: Publisher 2016 volgt het beleid voor vaste levenscyclus.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 6398615c256c3272267a6996e66f6bddb0a7eb13
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  title: Publisher 2016
+  description: Publisher 2016 volgt het vaste levenscyclus beleid.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: a322719add91ae148f88f299df8b002f076400e0
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: nl-NL
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "852135"
-name: Uitgever 2016
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893012"
+name: Publisher 2016
 summary: >+
-  Publisher 2016 volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+  Publisher 2016 volgt het [vaste](/lifecycle/policies/fixed) levenscyclus beleid.
 
 
-  Dit geldt voor de volgende edities: Standaard
+  Dit geldt voor de volgende edities: standaard
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 09/22/2015
   endDate: 10/14/2025
-content: "\n\n\n## <a name=\"editions\"></a>Edities \n* Standaard"
+content: "\n\n\n## <a name=\"editions\"></a>Edition \n* Verre"

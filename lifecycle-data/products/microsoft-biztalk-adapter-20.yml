@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft BizTalk adapter 2,0
+  description: Microsoft BizTalk adapter 2,0 volgt het vaste levenscyclus beleid.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 807011d58eb9c568bd6d71b1ce3e616a4451e0bd
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.translationtype: MT
+  ms.contentlocale: nl-NL
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893903"
+name: Microsoft BizTalk adapter 2,0
+summary: >+
+  Microsoft BizTalk adapter 2,0 volgt het [vaste](/lifecycle/policies/fixed) levenscyclus beleid.
+
+
+  Dit geldt voor de volgende edities: voor MSMQ, voor mySAP Business Suite voor SAP
+
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 10/20/2004
+  end: 01/12/2010
+  extendedEnd: 01/13/2015
+releases:
+- version: Original Release
+  startDate: 10/20/2004
+  endDate: 01/13/2015
+content: "\n\n> [!NOTE]\n> De begindatum van Microsoft BizTalk adapter 2,0 voor SAP is 2 november 2004. De begindatum van Microsoft BizTalk adapter voor MSMQ 2,0 is 10 december 2004\n\n## <a name=\"editions\"></a>Edition \n* voor MSMQ\n* voor mySAP Business Suite\n* voor SAP"
