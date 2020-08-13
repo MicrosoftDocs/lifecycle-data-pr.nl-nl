@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Internet Explorer 11
-  description: Internet Explorer 11 volgt het beleid voor de levenscyclus van componenten.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 4c247083877fd4640384b3a038a13888e2f4ddcd
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  description: In Internet Explorer 11 wordt het onderdeel levenscyclus beleid gevolgd.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 62c563784a27bf046f85b65ff75c31ec969d0bb6
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: nl-NL
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "851805"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893641"
 name: Internet Explorer 11
 summary: >+
-  Internet Explorer 11 volgt het beleid voor de levenscyclus [van componenten.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+  In Internet Explorer 11 wordt het [onderdeel](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) levenscyclus beleid gevolgd.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/13/2013
-content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Migratiebegeleiding](https://www.microsoft.com/itpro/microsoft-edge)\n* [Veelgestelde vragen over het levenscyclusbeleid van Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Vanaf 12 januari 2016 ontvangt alleen de meest recente versie van Internet Explorer die beschikbaar is voor een ondersteund besturingssysteem technische ondersteuning en beveiligingsupdates."
+content: "\n## <a name=\"links\"></a>Verbindingen \n* [Richtlijnen voor migratie](https://www.microsoft.com/itpro/microsoft-edge)\n* [Veelgestelde vragen over het levenscyclus beleid van Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Vanaf 12 januari 2016 ontvangen alleen de meest recente versie van Internet Explorer die beschikbaar is voor een ondersteund besturingssysteem, met technische ondersteuning en beveiligingsupdates."

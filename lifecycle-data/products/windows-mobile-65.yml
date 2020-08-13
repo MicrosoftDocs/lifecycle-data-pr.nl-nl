@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Mobile 6.5
-  description: Windows Mobile 6.5 volgt het beleid voor een vaste levenscyclus.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 28da232d32da22a3b3ad4d3bf76e3bcf17609a1e
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Windows Mobile 6,5
+  description: Windows Mobile 6,5 volgt het vaste levenscyclus beleid.
+  ms.date: 08/13/2020
+  ms.openlocfilehash: 7dedd3bd65fb6266b94a65e9b61addc1521602fc
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: nl-NL
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "812253"
-name: Windows Mobile 6.5
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893905"
+name: Windows Mobile 6,5
 summary: >
-  Windows Mobile 6.5 volgt het beleid [voor een vaste](/lifecycle/policies/fixed) levenscyclus.
+  Windows Mobile 6,5 volgt het [vaste](/lifecycle/policies/fixed) levenscyclus beleid.
 
 
   Dit geldt voor de volgende edities: Professional, Standard
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 09/10/2009
   endDate: 01/08/2013
-content: "\n\n\n## <a name=\"editions\"></a>Edities \n* Professionele\n* Standaard"
+content: "\n\n\n## <a name=\"editions\"></a>Edition \n* Professional\n* Verre"

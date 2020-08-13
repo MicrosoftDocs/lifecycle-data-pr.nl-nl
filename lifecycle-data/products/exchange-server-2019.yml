@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Exchange Server 2019
-  description: Exchange Server 2019 volgt het beleid voor vaste levenscyclus.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 2b89856ef853d493fbe844e99ba7fb0df8c8a722
-  ms.sourcegitcommit: e3a3bd051020add66386d68528657bb59240d90b
+  description: Exchange Server 2019 volgt het vaste levenscyclus beleid.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: bdb446d3018cd0b854d01572662f0d39a1778df5
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: nl-NL
-  ms.lasthandoff: 07/30/2020
-  ms.locfileid: "879037"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "892457"
 name: Exchange Server 2019
 summary: >+
-  Exchange Server 2019 volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+  Exchange Server 2019 volgt het [vaste](/lifecycle/policies/fixed) levenscyclus beleid.
 
 
   Dit geldt voor de volgende edities: Enterprise, Standard
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 10/22/2018
   endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Richtlijnen voor onderhoud](/Exchange/new-features/updates?view=exchserver-2019)\n\n\n## <a name=\"editions\"></a>Edities \n* Enterprise\n* Standaard"
+content: "\n## <a name=\"links\"></a>Verbindingen \n* [Richtlijnen voor onderhoud](/Exchange/new-features/updates?view=exchserver-2019)\n\n\n## <a name=\"editions\"></a>Edition \n* Enterprise\n* Verre"

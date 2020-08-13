@@ -1,28 +1,29 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Voorloopbeveiliging voor Exchange Server
-  description: Forefront Security for Exchange Server volgt het beleid voor vaste levenscyclus.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 0c3d1542acc20b211ef41984c07656ca0f74be61
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Forefront beveiliging voor Exchange Server
+  description: Forefront beveiliging voor Exchange Server volgt het beleid voor de vaste levenscyclus.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 0053b2aaf2be3d4c6ecbc29a6396bade882e16dc
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: nl-NL
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "812501"
-name: Voorloopbeveiliging voor Exchange Server
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893715"
+name: Forefront beveiliging voor Exchange Server
 summary: >
-  Forefront Security for Exchange Server volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+  Forefront beveiliging voor Exchange Server volgt het beleid voor de [vaste](/lifecycle/policies/fixed) levenscyclus.
 
 
 
   > [!IMPORTANT]
 
-  > De roadmap voor beveiligingsproducten onder het merk Forefront is veranderd. Dit product wordt stopgezet per 31 december 2015.
+  > De routekaart voor beveiligingsproducten onder het Forefront-merk is gewijzigd. Dit product wordt stopgezet vanaf 31 december 2015.
 products:
 - windows
 policyType: fixed
 supportDates:
   start: 03/08/2007
+  end: 12/31/2015
   extendedEnd: 12/31/2015
 releases:
 - version: Service Pack 2
@@ -34,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 03/08/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Migratiebegeleiding](https://www.microsoft.com/security/business/explore/cybersecurity)"
+content: "\n## <a name=\"links\"></a>Verbindingen \n* [Richtlijnen voor migratie](https://www.microsoft.com/security/business/explore/cybersecurity)"
