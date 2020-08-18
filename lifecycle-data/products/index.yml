@@ -1,11 +1,11 @@
 ### YamlMime:ContentBrowser
-title: Levenscyclusgegevens van product en services doorzoeken (voorbeeld)
+title: Zoeken naar informatie over de levenscyclus van producten en services (preview)
 browseType: lifecycle
-summary: "\n\n> [!IMPORTANT]\n> Deze pagina is in ontwikkeling. Ga naar [aka.ms/lifecycle/search](https://aka.ms/lifecycle/search/)voor een volledige lijst met Microsoft-producten en hun ondersteuningstijdlijnen en -details.\n> [!NOTE]\n> Levenscyclusgegevens exporteren vanaf de pagina [Levenscyclusexport.](/lifecycle/export/products)\n\n\nMicrosoft Lifecycle biedt consistente en voorspelbare richtlijnen voor ondersteuning gedurende de hele levensduur van een product, zodat klanten hun IT-investeringen en -omgevingen kunnen beheren en tegelijkertijd strategisch plannen voor de toekomst.\n\n\nZoek hieronder naar een lijst met commerciële producten en services van Microsoft en selecteer vervolgens uw resultaat om tijdlijnen, vereiste updates, migratiegegevens en systeemvereisten te vinden."
+summary: "\n\n> [!IMPORTANT]\n> Deze pagina bevindt zich onder ontwikkeling en gaat volledig online op 2 september. Ondertussen kunt u een volledige lijst met Microsoft-producten bekijken met hun ondersteunings tijdlijnen en Details op [aka.MS/Lifecycle/Search](https://aka.ms/lifecycle/search/).\n> [!NOTE]\n> Export van de levenscyclus van de [export pagina levensduur](/lifecycle/export/products) .\n\n\nMicrosoft Lifecycle biedt consistente en voorspelbare richtlijnen voor de ondersteuning gedurende de levensduur van een product, zodat klanten hun IT-investeringen en omgevingen kunnen beheren terwijl ze strategisch plannen voor de toekomst.\n\n\nHieronder vindt u een lijst met producten en services van Microsoft Commercial en selecteert u het resultaat om ondersteunings-en onderhouds tijdlijnen, vereiste updates, migratie informatie en systeemvereisten te zoeken."
 metadata:
-  ms.openlocfilehash: d412a8110fc64c4cb346fd9b7056fa35a59c8260
-  ms.sourcegitcommit: 0c5dc5388beb299272e01efb037b964e49ca1fb0
+  ms.openlocfilehash: 5099408b03db5a7d520128dfd1da8271e4289aaa
+  ms.sourcegitcommit: 7479dd5eeb9cabdd9c8ad4f401261cbc4d7c6e27
   ms.translationtype: MT
   ms.contentlocale: nl-NL
-  ms.lasthandoff: 08/04/2020
-  ms.locfileid: "882431"
+  ms.lasthandoff: 08/17/2020
+  ms.locfileid: "899834"
