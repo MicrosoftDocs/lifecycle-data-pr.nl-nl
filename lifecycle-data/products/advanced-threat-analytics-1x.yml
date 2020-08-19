@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Advanced Threat Analytics 1. X
+  description: Advanced Threat Analytics 1. X volgt het vaste levenscyclus beleid.
+  ms.date: 08/19/2020
+  ms.openlocfilehash: acfca59a1c834c55c8fdb6f8d3eddbd34d6070b2
+  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  ms.translationtype: MT
+  ms.contentlocale: nl-NL
+  ms.lasthandoff: 08/19/2020
+  ms.locfileid: "903980"
+name: Advanced Threat Analytics 1. X
+summary: >+
+  Advanced Threat Analytics 1. X volgt het [vaste](/lifecycle/policies/fixed) levenscyclus beleid.
+
+
+products:
+- m365
+policyType: fixed
+supportDates:
+  start: 11/25/2015
+  end: 01/12/2021
+  extendedEnd: 01/13/2026
+releases:
+- version: Original Release
+  startDate: 11/25/2015
+  endDate: 01/13/2026
+content: "\n## <a name=\"links\"></a>Verbindingen \n* [Richtlijnen voor geavanceerde Threat Analytics-Servicing](/advanced-threat-analytics/understand-explore/ata-versions)\n\n> [!NOTE]\n> Updates zijn cumulatief, waarbij elke update op alle updates werd gebaseerd. Een apparaat moet de meest recente update installeren om ondersteuning te blijvenen."
