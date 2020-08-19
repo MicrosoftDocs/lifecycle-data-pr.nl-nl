@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Beleidsmaker
+  description: De beleidsinstelling van de beleidsregels voor de vaststelling van de levenscyclus.
+  ms.date: 08/19/2020
+  ms.openlocfilehash: d1b7d7ac98ec91c5118023494257fde96fbf2c6f
+  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  ms.translationtype: MT
+  ms.contentlocale: nl-NL
+  ms.lasthandoff: 08/19/2020
+  ms.locfileid: "903989"
+name: Beleidsmaker
+summary: >+
+  De beleidsinstelling van de beleidsregels voor de [vaststelling](/lifecycle/policies/fixed) van de levenscyclus.
+
+
+  Dit geldt voor de volgende edities: toepassingsbeveiliging, Outlook-versie, Professional 9,0, register extensie 2,0, share Manager 1,0, software update 1,0, software-update 2,0, Standard 1,0, Standard 2,0
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 01/01/2007
+  end: 01/12/2010
+releases:
+- version: Original Release
+  startDate: 01/01/2007
+  endDate: 01/12/2010
+content: "\n\n> [!NOTE]\n> Ondersteuning voor dit product is onderworpen aan de voorwaarden van de aankoop.\n\n## <a name=\"editions\"></a>Edition \n* Toepassingsbeveiliging\n* Outlook-versie\n* Professionele 9,0\n* Register extensie 2,0\n* Share Manager 1,0\n* Software-update 1,0\n* Software-update 2,0\n* Standaard 1,0\n* Standaard 2,0"
