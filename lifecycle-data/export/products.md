@@ -1,27 +1,27 @@
 ---
-title: Producten exporteren
+title: Levensduur gegevensexport
 description: Productlevenscyclus informatie exporteren
-ms.date: 08/17/2020
-ms.openlocfilehash: 01a34995c0dd1fc9fb0c5f75c4460357e091ccce
-ms.sourcegitcommit: 7479dd5eeb9cabdd9c8ad4f401261cbc4d7c6e27
+ms.date: 08/18/2020
+ms.openlocfilehash: 80145edf59e6406d32292d846ae3f263cddd294a
+ms.sourcegitcommit: 6bed901441570ef084842edd1b7e5dfbc192c99a
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "899797"
+ms.lasthandoff: 08/18/2020
+ms.locfileid: "902397"
 ---
-# <a name="export"></a>Voeren
+# <a name="lifecycle-data-export"></a>Levensduur gegevensexport
 
 > [!IMPORTANT]
 > Deze pagina wordt momenteel ontwikkeld.
 
 ## <a name="export-all-products"></a>Alle producten exporteren
-Exporteer alle producten zonder filters.
+Export levensduur gegevens voor alle producten door hieronder te klikken:
 
 > [!div class="nextstepaction"]
 > [Alle producten exporteren](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-category"></a>Producten exporteren per categorie
-Selecteer een groepering die u wilt exporteren:
+## <a name="export-products-by-family-and-group"></a>Producten exporteren op basis van familie en groep
+Selecteer een familie en vervolgens een groep die u wilt exporteren. Opmerking: exporteren begint wanneer groepswaarde is geselecteerd. 
 
 > [!div class="op_multi_selector" title1="Families" title2="Groep"]
 > - [(.NET | Al](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
@@ -80,8 +80,8 @@ Selecteer een groepering die u wilt exporteren:
 > - [(Windows | Waardepapier](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Security')
 > - [(Windows | Server](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Server')
 
-## <a name="export-products-by-end-of-support-year"></a>Producten exporteren op einde van ondersteunings jaar
-Selecteer een jaar voor het exporteren van producten die in dat jaar eindigen.
+## <a name="export-products-by-end-of-support-date"></a>Producten exporteren vanaf het einde van de ondersteunings datum
+Selecteer een jaar om producten te zien die het einde van de ondersteuning bereiken. Opmerking: de export begint wanneer de waarde Year is geselecteerd.
 
 > [!div class="op_single_selector"]
 > - [2002](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2002))
