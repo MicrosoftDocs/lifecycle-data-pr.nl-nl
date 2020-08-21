@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Phone 8.1
-  description: Windows Phone 8.1 volgt het beleid voor vaste levenscyclus.
+  description: Windows Phone 8.1 volgt het vaste levenscyclusbeleid.
   ms.date: 07/28/2020
   ms.openlocfilehash: d81cd34117e63701bf48f128d7d3aafdd93ac581
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "851942"
 name: Windows Phone 8.1
 summary: >
-  Windows Phone 8.1 volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+  Windows Phone 8.1 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
 
   > [!IMPORTANT]
 
-  > Ondersteuning voor dit product is beëindigd.
+  > De ondersteuning voor dit product is beëindigd.
 products:
 - windows
 policyType: fixed-mainstream-only
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 06/24/2014
   endDate: 07/11/2017
-content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Veelgestelde vragen over Windows Phone 8.1](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)\n\n> [!NOTE]\n> Microsoft stelt updates beschikbaar voor het besturingssysteem, inclusief beveiligingsupdates, gedurende minimaal 36 maanden na de begindatum van de levenscyclus. Deze updates zullen incrementeel zijn, waarbij elke update is gebouwd op de update die eraan voorafging. Klanten moeten elke update installeren om ondersteund te blijven. De distributie van deze incrementele updates kan worden gecontroleerd door de mobiele provider of de telefoonfabrikant van waaruit u uw telefoon hebt gekocht, en de installatie vereist dat uw telefoon vooraf wordt bijgewerkt. De beschikbaarheid van updates verschilt ook per land, regio en hardware."
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Veelgestelde vragen over Windows Phone 8.1](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)\n\n> [!NOTE]\n> Microsoft zal updates beschikbaar stellen voor het besturingssysteem, inclusief beveiligingsupdates, gedurende minimaal 36 maanden na de begindatum van de levenscyclus. Deze updates zullen incrementeel zijn, waarbij elke update is gebaseerd op de update die eraan voorafging. Klanten moeten elke uitgebrachte update installeren om ondersteund te blijven. De distributie van deze incrementele updates kan worden gecontroleerd door de mobiele provider of de telefoonfabrikant van wie u uw telefoon hebt gekocht, en de installatie vereist dat uw telefoon vooraf wordt bijgewerkt. De beschikbaarheid van updates verschilt ook per land, regio en hardwaremogelijkheden."

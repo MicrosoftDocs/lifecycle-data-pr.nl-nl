@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office 2013
-  description: Microsoft Office 2013 volgt het beleid voor vaste levenscyclus.
+  description: Microsoft Office 2013 volgt het vaste levenscyclusbeleid.
   ms.date: 07/28/2020
   ms.openlocfilehash: 57eeaf9939d11f53914fef0e92795621dfb9db44
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "852097"
 name: Microsoft Office 2013
 summary: >+
-  Microsoft Office 2013 volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+  Microsoft Office 2013 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
-  Dit geldt voor de volgende edities: Home and Business, Home and Student, Professional, Professional Plus, Professional Plus Home Use Program, Standard, Web Apps Server
+  Dit is van toepassing op de volgende edities: Thuisgebruik en Zelfstandigen, Thuisgebruik en Studenten, Professional, Professional Plus, Professional Plus Home Use Program, Standard, Web Apps Server
 
 products:
 - office
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/14/2015
-content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Migratiebegeleiding](https://www.microsoft.com/microsoft-365/previous-versions/microsoft-office-2013)\n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Service Pack 1 is niet van toepassing op de Web Apps Server-editie. \n\n## <a name=\"editions\"></a>Edities \n* Thuis en zakelijk\n* Thuis en student\n* Professionele\n* Professioneel Plus\n* Professioneel Plus Home Use-programma\n* Standaard\n* Web Apps Server"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Richtlijnen voor migratie](https://www.microsoft.com/microsoft-365/previous-versions/microsoft-office-2013)\n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Servicepack 1 is niet van toepassing op de Web Apps Server-editie. \n\n## <a name=\"editions\"></a>Edities \n* Thuisgebruik en Zelfstandigen\n* Thuisgebruik en Studenten\n* Professional\n* Professional Plus\n* Professional Plus Home Use Program\n* Standard\n* Web Apps Server"

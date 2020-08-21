@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio 2015
-  description: Visual Studio 2015 volgt het beleid voor vaste levenscyclus.
+  description: Visual Studio 2015 volgt het vaste levenscyclusbeleid.
   ms.date: 07/28/2020
   ms.openlocfilehash: 4300bd472c7f836c9d93e7f7e3da2005da410bac
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "851901"
 name: Visual Studio 2015
 summary: >+
-  Visual Studio 2015 volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+  Visual Studio 2015 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
-  Dit geldt voor de volgende edities: Agents, Community, Enterprise, Express for Web, Express for Windows 10, Express for Windows Desktop, Modeling SDK, Professional, Release Management, Remote Tools, SDK, Shell (Integrated), Shell (Isolated), Test Professional, Visual C++ Redistributable
+  Dit is van toepassing op de volgende edities: Agents, Community, Enterprise, Express voor Web, Express voor Windows 10, Express voor Windows Desktop, Modeling SDK, Professional, Release Management, Remote Tools, SDK, Shell (geïntegreerde modus), Shell (geïsoleerde modus), Test Professional, Visual C++ herdistribueerbaar
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 07/20/2015
   endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Onderhoudsinformatie](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Edities \n* Agenten\n* Community\n* Enterprise\n* Express voor web\n* Express voor Windows 10\n* Express voor Windows-bureaublad\n* Modellering SDK\n* Professionele\n* Releasebeheer\n* Hulpprogramma's voor op afstand\n* Sdk\n* Shell (geïntegreerd)\n* Shell (geïsoleerd)\n* Test Professional\n* Visueel C++ herverdeelbaar"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Onderhoudsinformatie](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Edities \n* Agents\n* Community\n* Enterprise\n* Express voor Web\n* Express voor Windows 10\n* Express voor Windows Desktop\n* Modeling SDK\n* Professional\n* Releasebeheer\n* Werkbalk extern\n* SDK\n* Shell (geïntegreerde modus)\n* Shell (geïsoleerde modus)\n* Test Professional\n* Visual C++ herdistribueerbaar"
