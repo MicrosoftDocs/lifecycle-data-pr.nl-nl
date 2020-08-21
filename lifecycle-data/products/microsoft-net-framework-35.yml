@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft .NET Framework 3.5
-  description: Microsoft .NET Framework 3.5 volgt het beleid voor vaste levenscyclus.
+  description: Microsoft .NET Framework 3.5 volgt het vaste levenscyclusbeleid.
   ms.date: 07/28/2020
   ms.openlocfilehash: c5b5899c1b89f49d5795e0514b17c0385346a671
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "812755"
 name: Microsoft .NET Framework 3.5
 summary: >+
-  Microsoft .NET Framework 3.5 volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+  Microsoft .NET Framework 3.5 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/19/2007
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Veelgestelde vragen over levenscyclus - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Productinformatie](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-35)\n\n> [!NOTE]\n> Ondersteuning voor de .NET Framework 3.x-versies voorafgaand aan 3,5 SP1 eindigde op 12 juli 2011. \n> [!NOTE]\n> Levenscyclusdatums zijn van toepassing op .NET 3.5 SP1 wanneer deze wordt uitgevoerd op Windows 10-versie 1809, Windows Server 2019 of hoger. Op oudere versies van Windows neemt .NET 3.5 SP1 de levenscyclus van het onderliggende Windows-besturingssysteem over."
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Veelgestelde vragen over de levenscyclus - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Productgegevens](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-35)\n\n> [!NOTE]\n> De ondersteuning voor .NET Framework 3.x versies vóór 3.5 SP1 is beëindigd op 12 juli 2011. \n> [!NOTE]\n> Levenscyclusdatums gelden voor .NET 3.5 SP1 uitgevoerd op Windows 10 versie 1809, Windows Server 2019 of later. Bij oudere versies van Windows neemt .NET 3.5 SP1 de levenscyclus van het onderliggende Windows-besturingssysteem over."

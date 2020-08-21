@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft System Center Configuration Manager 2007 R2
-  description: Microsoft System Center Configuration Manager 2007 R2 volgt het beleid voor vaste levenscyclus.
+  description: Microsoft System Center Configuration Manager 2007 R2 volgt het vaste levenscyclusbeleid.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0da71b9a2886e1a7012339ebef9a5fbe64f8811e
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "812342"
 name: Microsoft System Center Configuration Manager 2007 R2
 summary: >
-  Microsoft System Center Configuration Manager 2007 R2 volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+  Microsoft System Center Configuration Manager 2007 R2 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
 
   > [!IMPORTANT]
 
-  > Ondersteuning voor dit product is beëindigd. Zie de migratiebegeleiding hieronder.
+  > De ondersteuning voor dit product is beëindigd. Zie hieronder de richtlijnen voor migratie.
 products:
 - msc
 policyType: fixed
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 11/29/2008
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Migratiebegeleiding](/mem/configmgr/core/migration/planning-for-migration)\n* [Aanvullende migratierichtlijnen](/mem/configmgr/core/migration/migrate-data-between-hierarchies)"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Richtlijnen voor migratie](/mem/configmgr/core/migration/planning-for-migration)\n* [Aanvullende migratierichtlijnen](/mem/configmgr/core/migration/migrate-data-between-hierarchies)"

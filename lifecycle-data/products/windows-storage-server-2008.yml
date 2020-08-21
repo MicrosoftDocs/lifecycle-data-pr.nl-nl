@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Storage Server 2008
-  description: Windows Storage Server 2008 volgt het beleid voor vaste levenscyclus.
+  description: Windows Storage Server 2008 volgt het vaste levenscyclusbeleid.
   ms.date: 07/28/2020
   ms.openlocfilehash: 5fcd64fc253504e9ffb8db1c34a0597cc550b12b
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "811729"
 name: Windows Storage Server 2008
 summary: >
-  Windows Storage Server 2008 volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+  Windows Storage Server 2008 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
-  Dit geldt voor de volgende edities: Basic, Basic 32-Bit, Basic 64-bits, Basic Embedded, Basic Embedded 32-bits, Enterprise, Enterprise Embedded, Standard, Standard Embedded, Workgroup
+  Dit is van toepassing op de volgende edities: Basic, Basic 32-bits, Basic 64-bits, Basic Embedded, Basic Embedded 32-bits, Enterprise, Enterprise Embedded, Standard, Standard Embedded, Workgroup
 
 
   > [!IMPORTANT]
 
-  > Dit product heeft het einde van de ondersteuning bereikt. Zie hieronder voor migratiebegeleiding.
+  > De ondersteuning voor dit product is beëindigd. Zie hieronder de richtlijnen voor migratie.
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Service Pack 2
   startDate: 07/19/2009
   endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Migratiebegeleiding](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Serverupgradegegevens](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>Edities \n* Basic\n* Basis 32-bits\n* Basis 64-bits\n* Basic Embedded\n* Basic Embedded 32-bits\n* Enterprise\n* Onderneming ingesloten\n* Standaard\n* Standaard ingesloten\n* Werkgroep"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Richtlijnen voor migratie](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Serverupgradegegevens](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>Edities \n* Basic\n* Basic 32-bits\n* Basic 64-bits\n* Basic Embedded\n* Basic Embedded 32-bits\n* Enterprise\n* Enterprise Embedded\n* Standard\n* Standard Embedded\n* Workgroup"

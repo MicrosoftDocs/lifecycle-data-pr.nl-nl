@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft-voorspeller 7.0
-  description: Microsoft Forecaster 7.0 volgt het beleid voor vaste levenscyclus.
+  title: Microsoft Forecaster 7.0
+  description: Microsoft Forecaster 7.0 volgt het vaste levenscyclusbeleid.
   ms.date: 07/28/2020
   ms.openlocfilehash: e9af608bbdf2d19517b58ebe46d545b09078be8d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "812395"
-name: Microsoft-voorspeller 7.0
+name: Microsoft Forecaster 7.0
 summary: >+
-  Microsoft Forecaster 7.0 volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+  Microsoft Forecaster 7.0 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
 products:
@@ -40,4 +40,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Migratiebegeleiding](https://mbs.microsoft.com/customersource/northamerica/news-events/news-events/news/ForecasterDiscontinuationNoticeGP)\n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Ondersteuning voor voorspellers eindigt op de aangegeven datum, tenzij deze wordt gedistribueerd als onderdeel van een Dynamics-product. Wanneer de dynamics-levenscyclusdatums worden gedistribueerd met een Dynamics-product, worden de datum van de forecaster overschrijven."
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Richtlijnen voor migratie](https://mbs.microsoft.com/customersource/northamerica/news-events/news-events/news/ForecasterDiscontinuationNoticeGP)\n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> De ondersteuning van Forecaster eindigt op de aangegeven datum, tenzij deze wordt verdeeld als onderdeel van een Dynamics-product. De datums van de levenscyclus van Dynamics hebben voorrang op de datum van Forecaster wanneer deze met een Dynamics-product wordt verdeeld."

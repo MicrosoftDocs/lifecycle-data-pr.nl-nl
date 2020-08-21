@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft SharePoint Server 2010
-  description: Microsoft SharePoint Server 2010 volgt het beleid voor vaste levenscyclus.
+  description: Microsoft SharePoint Server 2010 volgt het vaste levenscyclusbeleid.
   ms.date: 07/28/2020
   ms.openlocfilehash: 71adef7342f1471a67bd170430b3470dc6ea1a87
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "811788"
 name: Microsoft SharePoint Server 2010
 summary: >+
-  Microsoft SharePoint Server 2010 volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+  Microsoft SharePoint Server 2010 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
-  Dit geldt voor de volgende edities: Access Services, All applicable, Excel Services, Performance Point Services
+  Dit is van toepassing op de volgende edities: Access Services, alles wat van toepassing is, Excel Services, Performance Point Services
 
 products:
 - office
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Ondersteuningsextensie](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Migratiebegeleiding](/office365/enterprise/upgrade-from-sharepoint-2010)\n\n> [!NOTE]\n> De einddatum van dit product is verlengd van 13 oktober 2020 tot 13 april 2021.\n\n## <a name=\"editions\"></a>Edities \n* Access Services\n* Alle van toepassing\n* Excel Services\n* Performance Point Services"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Ondersteuningsextensie](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Richtlijnen voor migratie](/office365/enterprise/upgrade-from-sharepoint-2010)\n\n> [!NOTE]\n> De datum voor het einde van de ondersteuning voor dit product is uitgesteld van 13 oktober 2020 naar 13 april 2021.\n\n## <a name=\"editions\"></a>Edities \n* Access Services\n* Alles wat van toepassing is\n* Excel Services\n* Performance Point Services"

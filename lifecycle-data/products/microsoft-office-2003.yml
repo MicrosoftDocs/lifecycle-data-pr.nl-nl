@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office 2003
-  description: Microsoft Office 2003 volgt het beleid voor vaste levenscyclus.
+  description: Microsoft Office 2003 volgt het vaste levenscyclusbeleid.
   ms.date: 07/28/2020
   ms.openlocfilehash: f02602c99f6318f55290a629a507a1f33df8f32f
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "812055"
 name: Microsoft Office 2003
 summary: >+
-  Microsoft Office 2003 volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+  Microsoft Office 2003 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
-  Dit geldt voor de volgende edities: Basic, Professional, Professional Enterprise, Small Business, Standard, Student and Teacher, Web Components
+  Dit is van toepassing op de volgende edities: Basic, Professional, Professional Enterprise, Professionals en Kleine Bedrijven, Standard, Student en Teacher, Web Components
 
 products:
 - office
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 11/17/2003
   endDate: 07/27/2005
-content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edities \n* Basic\n* Professionele\n* Professionele onderneming\n* Small Business\n* Standaard\n* Student en leraar\n* Webcomponenten"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edities \n* Basic\n* Professional\n* Professional Enterprise\n* Small Business\n* Standard\n* Student en Teacher\n* Web Components"

@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 6c04194a3d405101429475ce7fd4561743790151
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "811776"
 name: Project Server 2010
 summary: >+
-  Project Server 2010 volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+  Project Server 2010 volgt het beleid voor [vaste](/lifecycle/policies/fixed) levenscyclus.
 
 
 products:
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Migratiebegeleiding](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Ondersteuningsextensie](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Projectserverroadmap](/office365/enterprise/project-server-2010-end-of-support)\n\n> [!NOTE]\n> De einddatum van dit product is verlengd van 13 oktober 2020 tot 13 april 2021."
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Richtlijnen voor migratie](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Ondersteuningsextensie](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Project Server Roadmap](/office365/enterprise/project-server-2010-end-of-support)\n\n> [!NOTE]\n> De datum voor het einde van de ondersteuning voor dit product is uitgesteld van 13 oktober 2020 naar 13 april 2021."

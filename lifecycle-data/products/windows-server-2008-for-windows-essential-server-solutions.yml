@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Server 2008 voor Windows Essential Server-oplossingen
-  description: Windows Server 2008 voor Windows Essential Server Solutions volgt het beleid voor vaste levenscyclus.
+  title: Windows Server 2008 voor Windows Essential Server Solutions
+  description: Windows Server 2008 voor Windows Essential Server Solutions volgt het vaste levenscyclusbeleid.
   ms.date: 07/28/2020
   ms.openlocfilehash: a0f008702c636963333da20217a32768124fe020
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "812246"
-name: Windows Server 2008 voor Windows Essential Server-oplossingen
+name: Windows Server 2008 voor Windows Essential Server Solutions
 summary: >
-  Windows Server 2008 voor Windows Essential Server Solutions volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+  Windows Server 2008 voor Windows Essential Server Solutions volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
-  Dit geldt voor de volgende edities: Standaard, zonder Hyper-V
+  Dit is van toepassing op de volgende edities: Standaard, zonder Hyper-V
 
 
   > [!IMPORTANT]
 
-  > Ondersteuning voor dit product is beëindigd. Zie de migratiebegeleiding hieronder.
+  > De ondersteuning voor dit product is beëindigd. Zie hieronder de richtlijnen voor migratie.
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 02/18/2009
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Migratiebegeleiding](https://aka.ms/AA1ovn4)\n* [Productinformatie](https://cloudblogs.microsoft.com/windowsserver/2008/02/20/introducing-windows-essential-server-solutions/)\n\n\n## <a name=\"editions\"></a>Edities \n* Standaard\n* zonder Hyper-V"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Richtlijnen voor migratie](https://aka.ms/AA1ovn4)\n* [Productgegevens](https://cloudblogs.microsoft.com/windowsserver/2008/02/20/introducing-windows-essential-server-solutions/)\n\n\n## <a name=\"editions\"></a>Edities \n* Standard\n* zonder Hyper-V"

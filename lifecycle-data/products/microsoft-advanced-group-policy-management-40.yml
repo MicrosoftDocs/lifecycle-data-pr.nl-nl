@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Advanced Group Policy Management 4.0
-  description: Microsoft Advanced Group Policy Management 4.0 volgt het beleid voor vaste levenscyclus.
+  description: Microsoft Advanced Group Policy Management 4.0 volgt het vaste levenscyclusbeleid.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9ee2407b159ab7e8573aa39ebff7de6fd8002bde
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "812473"
 name: Microsoft Advanced Group Policy Management 4.0
 summary: >+
-  Microsoft Advanced Group Policy Management 4.0 volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+  Microsoft Advanced Group Policy Management 4.0 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
 products:
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 11/19/2009
   endDate: 04/08/2014
-content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [MDOP-informatie-ervaring](https://technet.microsoft.com/en-us/windows/bb899442)\n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [MDOP-informatie-ervaring](https://technet.microsoft.com/en-us/windows/bb899442)\n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)"

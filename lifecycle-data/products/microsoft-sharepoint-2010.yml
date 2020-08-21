@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft SharePoint 2010 (voor internetsites)
-  description: Microsoft SharePoint 2010 (voor internetsites) volgt het beleid voor vaste levenscyclus.
+  description: Microsoft SharePoint 2010 (voor internetsites) volgt het vaste levenscyclusbeleid.
   ms.date: 07/28/2020
   ms.openlocfilehash: 91cbc237303d2c4f7f73f93be5375206006b7909
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "812353"
 name: Microsoft SharePoint 2010 (voor internetsites)
 summary: >+
-  Microsoft SharePoint 2010 (voor internetsites) volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+  Microsoft SharePoint 2010 (voor internetsites) volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
-  Dit geldt voor de volgende edities: voor Internet Sites Enterprise, voor Internet Sites Standard
+  Dit geldt voor de volgende edities: voor Internetsites Enterprise, voor Internetsites Standard
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 06/15/2010
   endDate: 04/13/2021
-content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Productdocumentatie](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Documentatie voor ontwikkelaars](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n> [!NOTE]\n> De einddatum van dit product is verlengd van 13 oktober 2020 tot 13 april 2021.\n\n## <a name=\"editions\"></a>Edities \n* voor Internet Sites Enterprise\n* voor Internet Sites Standard"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Productdocumentatie](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Documentatie voor ontwikkelaars](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n> [!NOTE]\n> De datum voor het einde van de ondersteuning voor dit product is uitgesteld van 13 oktober 2020 naar 13 april 2021.\n\n## <a name=\"editions\"></a>Edities \n* voor internetsites Enterprise\n* voor internetsites, Standard"

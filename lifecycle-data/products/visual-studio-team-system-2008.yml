@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio Team System 2008
-  description: Visual Studio Team System 2008 volgt het beleid voor vaste levenscyclus.
+  description: Visual Studio Team System 2008 volgt het vaste levenscyclusbeleid.
   ms.date: 07/28/2020
   ms.openlocfilehash: 38c593193296d428c6e0f74bb2e039ac2fa8f3d7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "812277"
 name: Visual Studio Team System 2008
 summary: >
-  Visual Studio Team System 2008 volgt het [beleid voor vaste](/lifecycle/policies/fixed) levenscyclus.
+  Visual Studio Team System 2008 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
-  Dit geldt voor de volgende edities: All, Architecture, Database, Development, Team Explorer, Team Test Load Agent
+  Dit is van toepassing op de volgende edities: Alles, Architectuur, Database, Development, Team Explorer, Team Test Load Agent
 
 
   > [!IMPORTANT]
 
-  > De ondersteuning is beëindigd. Zie de migratiebegeleiding hieronder.
+  > De ondersteuning is beëindigd. Zie hieronder de richtlijnen voor migratie.
 products:
 - vs
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 02/19/2008
   endDate: 10/13/2009
-content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Migratiebegeleiding](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Migratiebegeleiding](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year)\n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edities \n* Alle\n* Architectuur\n* Database\n* Ontwikkeling\n* Teamverkenner\n* Teamtestbelastingagent"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Richtlijnen voor migratie](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Richtlijnen voor migratie](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year)\n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edities \n* Alles\n* Architectuur\n* Database\n* Development\n* Team Explorer\n* Team Test Load Agent"
