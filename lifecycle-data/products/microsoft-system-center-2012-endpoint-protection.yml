@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft System Center 2012-eindpuntbeveiliging
-  description: Microsoft System Center 2012 Endpoint Protection volgt het beleid voor vaste levenscyclus.
+  title: Microsoft System Center 2012 Endpoint Protection
+  description: Microsoft System Center 2012 Endpoint Protection volgt het vaste levenscyclusbeleid.
   ms.date: 07/28/2020
   ms.openlocfilehash: 831df2c41a088376f7cb34fb117163dc45ade4ed
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "851865"
-name: Microsoft System Center 2012-eindpuntbeveiliging
+name: Microsoft System Center 2012 Endpoint Protection
 summary: >+
-  Microsoft System Center 2012 Endpoint Protection volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+  Microsoft System Center 2012 Endpoint Protection volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
   Dit geldt voor de volgende edities: voor Mac
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Onderhoudsinformatie](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n* [Migratiebegeleiding](https://techcommunity.microsoft.com/t5/Configuration-Manager-Blog/End-of-Support-for-SCEP-for-Mac-and-SCEP-for-Linux-on-December/ba-p/286257)\n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n* [Systeemcentrumdocumentatie](/system-center/#pivot=components&panel=components-all)\n\n> [!NOTE]\n> Klanten moeten op de hoogte blijven van de nieuwste anti-malware platform update om volledig te worden ondersteund.\n\n## <a name=\"editions\"></a>Edities \n* voor Mac"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Onderhoudsinformatie](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n* [Richtlijnen voor migratie](https://techcommunity.microsoft.com/t5/Configuration-Manager-Blog/End-of-Support-for-SCEP-for-Mac-and-SCEP-for-Linux-on-December/ba-p/286257)\n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n* [System Center-documentatie](/system-center/#pivot=components&panel=components-all)\n\n> [!NOTE]\n> De klanten moeten op de hoogte blijven van de nieuwste antimalware platformupdate om volledig te worden ondersteund.\n\n## <a name=\"editions\"></a>Edities \n* Voor Mac"

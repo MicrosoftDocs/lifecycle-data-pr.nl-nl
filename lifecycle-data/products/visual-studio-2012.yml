@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio 2012
-  description: Visual Studio 2012 volgt het beleid voor vaste levenscyclus.
+  description: Visual Studio 2012 volgt het vaste levenscyclusbeleid.
   ms.date: 07/28/2020
   ms.openlocfilehash: 31d437b362fc9cdf06165caca18202e49cd7624b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "851853"
 name: Visual Studio 2012
 summary: >+
-  Visual Studio 2012 volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+  Visual Studio 2012 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
-  Dit geldt voor de volgende edities: Agents, Community 2013, Express for Web, Express for Windows 8, Express for Windows Desktop, IntelliTrace Collector, Microsoft Azure Tools, Premium, Professional, Remote Tools, Shell (Integrated), Shell (Isolated), SQL Server Data Tools, Team Explorer, Test Professional 2013, Ultimate, Visual C++ Redistributable, Web Tools Extensions Extensions
+  Dit is van toepassing op de volgende edities: Agents, Community 2013, Express voor Web, Express voor Windows 8, Express voor Windows Desktop, IntelliTrace Collector, Microsoft Azure Tools, Premium, Professional, Werkbalk extern, Shell (geïntegreerde modus), Shell (geïsoleerde modus), SQL Server Data Tools, Team Explorer, Test Professional 2013, Ultimate, Visual C++ herdistribueerbaar, Web Tools Extensions
 
 products:
 - vs
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 10/31/2012
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Visual Studio Product Lifecycle en Onderhoud](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Edities \n* Agenten\n* Gemeenschap 2013\n* Express voor web\n* Express voor Windows 8\n* Express voor Windows-bureaublad\n* IntelliTrace Verzamelaar\n* Microsoft Azure-hulpprogramma's\n* Premium\n* Professionele\n* Hulpprogramma's voor op afstand\n* Shell (geïntegreerd)\n* Shell (geïsoleerd)\n* SQL Server-gegevenshulpprogramma's\n* Teamverkenner\n* Test Professional 2013\n* Ultimate\n* Visueel C++ herverdeelbaar\n* Extensies voor webgereedschappen"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Levenscyclus en onderhoud van Visual Studio-product](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Edities \n* Agents\n* Community 2013\n* Express voor Web\n* Express voor Windows 8\n* Express voor Windows Desktop\n* IntelliTrace Collector\n* Microsoft Azure Tools\n* Premium\n* Professional\n* Werkbalk extern\n* Shell (geïntegreerde modus)\n* Shell (geïsoleerde modus)\n* SQL Server Data Tools\n* Team Explorer\n* Test Professional 2013\n* Ultimate\n* Visual C++ herdistribueerbaar\n* Uitbreidingen webwerkset"

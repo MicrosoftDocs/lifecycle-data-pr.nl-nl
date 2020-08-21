@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 10 IoT Core
-  description: Windows 10 IoT Core volgt het beleid voor moderne levenscyclus.
+  description: Windows 10 IoT Core volgt het moderne levenscyclusbeleid.
   ms.date: 07/28/2020
   ms.openlocfilehash: 4de1aecc88c37d87a38cd5eca9274bcb4c854739
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "851944"
 name: Windows 10 IoT Core
 summary: >
-  Windows 10 IoT Core volgt het beleid [voor moderne](/lifecycle/policies/modern) levenscyclus.
+  Windows 10 IoT Core volgt het [moderne](/lifecycle/policies/modern) levenscyclusbeleid.
 
 
 
   > [!IMPORTANT]
 
-  > Microsoft blijft ten minste één Windows 10 Semi-Annual Channel ondersteunen tot 14 oktober 2025.
+  > Microsoft blijft ten minste één Windows 10 Semi-Annual-kanaal ondersteunen tot 14 oktober 2025.
 products:
 - windows
 policyType: modern-on-prem
@@ -40,4 +40,4 @@ releases:
 - version: Version 1607
   startDate: 08/02/2016
   endDate: 04/10/2018
-content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Productinformatie](/windows/iot-core/windows-iot-core)\n* [Factsheet levenscyclus van Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Veelgestelde vragen over de levenscyclus - Windows-producten](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Tenzij uitgesteld, kunnen latere Windows 10 Semi-Annual Channel-functie-updates worden geïnstalleerd vóór het vermelde einde van de algemene ondersteuningsdatum."
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Productgegevens](/windows/iot-core/windows-iot-core)\n* [Factsheet levenscyclus van Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows als een service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Veelgestelde vragen over de levenscyclus - Windows-producten](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Tenzij uitgesteld, kunnen verdere functie-updates van Windows 10 Semi-Annual-kanaal geïnstalleerd worden vóór de vermelde einddatum van de basisondersteuning."

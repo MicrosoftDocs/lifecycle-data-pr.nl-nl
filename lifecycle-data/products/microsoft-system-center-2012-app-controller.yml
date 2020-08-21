@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft System Center 2012-appcontroller
-  description: Microsoft System Center 2012 App Controller volgt het beleid voor vaste levenscyclus.
+  title: Microsoft System Center 2012 App Controller
+  description: Microsoft System Center 2012 App Controller volgt het vaste levenscyclusbeleid.
   ms.date: 07/28/2020
   ms.openlocfilehash: 955c3d74c044c24548fc2173c8d454e739b25505
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "851868"
-name: Microsoft System Center 2012-appcontroller
+name: Microsoft System Center 2012 App Controller
 summary: >+
-  Microsoft System Center 2012 App Controller volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+  Microsoft System Center 2012 App Controller volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Systeemcentrum informatie](/system-center/#pivot=components&panel=components-all)\n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft System Center 2012 bestaat uit componenten: Configuration Manager Data Protection Manager Operations Manager Orchestrator Service Manager Service Management Automation Virtual Machine Manager Service Provider Foundation"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [System Center Information](/system-center/#pivot=components&panel=components-all)\n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft System Center 2012 bestaat uit de onderdelen: Configuration Manager Data Protection Manager Operations Manager Orchestrator Service Manager Service Management Automation Virtual Machine Manager Service Provider Foundation"
