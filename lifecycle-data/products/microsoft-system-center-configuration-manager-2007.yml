@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Configuratiebeheer 2007 van Microsoft System Center
-  description: Microsoft System Center Configuration Manager 2007 volgt het beleid voor vaste levenscyclus.
+  title: Microsoft System Center Configuration Manager 2007
+  description: Microsoft System Center Configuration Manager 2007 volgt het vaste levenscyclusbeleid.
   ms.date: 07/28/2020
   ms.openlocfilehash: 796670fd93547cc79f69c544085070efb0116650
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "812341"
-name: Configuratiebeheer 2007 van Microsoft System Center
+name: Microsoft System Center Configuration Manager 2007
 summary: >
-  Microsoft System Center Configuration Manager 2007 volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+  Microsoft System Center Configuration Manager 2007 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
 
   > [!IMPORTANT]
 
-  > Ondersteuning voor dit product is beëindigd. Zie de migratiebegeleiding hieronder.
+  > De ondersteuning voor dit product is beëindigd. Zie hieronder de richtlijnen voor migratie.
 products:
 - msc
 policyType: fixed
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 11/29/2007
   endDate: 07/14/2009
-content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Migratiebegeleiding](/mem/configmgr/core/migration/migrate-data-between-hierarchies)\n* [Productinformatie](/mem/configmgr/core/understand/introduction)\n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Richtlijnen voor migratie](/mem/configmgr/core/migration/migrate-data-between-hierarchies)\n* [Productgegevens](/mem/configmgr/core/understand/introduction)\n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)"

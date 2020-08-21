@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft-toepassingsvirtualisatie 4.6
-  description: Microsoft Application Virtualization 4.6 volgt het beleid voor vaste levenscyclus.
+  title: Microsoft Application Virtualization 4.6
+  description: Microsoft Application Virtualization 4.6 volgt het vaste levenscyclusbeleid.
   ms.date: 07/28/2020
   ms.openlocfilehash: 868274b4468e663afe8e1b9f36069490ab4da025
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "812466"
-name: Microsoft-toepassingsvirtualisatie 4.6
+name: Microsoft Application Virtualization 4.6
 summary: >+
-  Microsoft Application Virtualization 4.6 volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+  Microsoft Application Virtualization 4.6 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
   Dit geldt voor de volgende edities: voor Extern bureaublad-services, voor Windows-desktops, Sequencer
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 05/27/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Product- en migratieinformatie](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Migratiebegeleiding](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Aangezien App-V 4.6-client gebruik maakt van de App-V 4.5-server, blijft de App-V 4.5-server worden ondersteund op basis van de levenscyclusdata van App-V 4.6 wanneer deze wordt gebruikt met de ondersteunde App-V 4.6-client.\n\n## <a name=\"editions\"></a>Edities \n* voor Extern bureaublad-services\n* voor Windows-bureaubladen\n* Sequencer"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Product- en migratiegegevens](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Richtlijnen voor migratie](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Aangezien App-V 4.6-client gebruikmaakt van de App-V 4.5-server, wordt de App-V 4.5-server verder ondersteund op basis van de datums van de levenscyclus van App-V 4.6 wanneer deze wordt gebruikt met de ondersteunde App-V 4.6-client.\n\n## <a name=\"editions\"></a>Edities \n* Voor Extern bureaublad-services\n* voor Windows Desktops\n* Sequencer"

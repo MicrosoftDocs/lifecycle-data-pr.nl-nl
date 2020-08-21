@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Application Virtualization Hosting 4.5 voor Windows-desktops
-  description: Microsoft Application Virtualization Hosting 4.5 voor Windows Desktops volgt het beleid voor vaste levenscyclus.
+  description: Microsoft Application Virtualization Hosting 4.5 voor Windows Desktops volgt het vaste levenscyclusbeleid.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3cb5049ed11ed567b8b7c1f3bd51de8b00b27ee8
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "812461"
 name: Microsoft Application Virtualization Hosting 4.5 voor Windows-desktops
 summary: >
-  Microsoft Application Virtualization Hosting 4.5 voor Windows Desktops volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+  Microsoft Application Virtualization Hosting 4.5 voor Windows Desktops volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
-  Dit geldt voor de volgende edities: voor Windows-desktops
+  Dit geldt voor de volgende edities: voor Windows Desktops
 
 
   > [!IMPORTANT]
 
-  > Ondersteuning voor dit product is beëindigd. Zie onderstaande migratiegegevens.
+  > De ondersteuning voor dit product is beëindigd. Zie onderstaande migratiegegevens.
 products:
 - windows
 policyType: fixed
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 11/23/2008
   endDate: 01/11/2011
-content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Product- en migratieinformatie](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edities \n* voor Windows-bureaubladen"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Product- en migratiegegevens](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edities \n* voor Windows Desktops"

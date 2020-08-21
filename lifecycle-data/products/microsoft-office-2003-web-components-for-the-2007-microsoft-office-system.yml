@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office 2003-webonderdelen voor het Microsoft Office-systeem van 2007
-  description: Microsoft Office 2003-webcomponenten voor het Microsoft Office-systeem van 2007 volgen het beleid voor de levenscyclus van componenten.
+  title: Microsoft Office 2003 Web Components voor het 2007 Microsoft Office-systeem
+  description: Microsoft Office 2003 Web Components voor het 2007 Microsoft Office-systeem volgt het levenscyclusbeleid voor onderdelen.
   ms.date: 07/28/2020
   ms.openlocfilehash: 82cc956a80008bea8b985ccf8b1b6c3c4927b4c7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "811811"
-name: Microsoft Office 2003-webonderdelen voor het Microsoft Office-systeem van 2007
+name: Microsoft Office 2003 Web Components voor het 2007 Microsoft Office-systeem
 summary: >+
-  Microsoft Office 2003-webcomponenten voor het Microsoft Office-systeem van 2007 volgen het beleid voor de levenscyclus [van componenten.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+  Microsoft Office 2003 Web Components voor het 2007 Microsoft Office-systeem volgt het levenscyclusbeleid voor [onderdelen](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 10/10/2017
-content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Migratiebegeleiding](/office/troubleshoot/support/office-2007-not-support)"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Richtlijnen voor migratie](/office/troubleshoot/support/office-2007-not-support)"

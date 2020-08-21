@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows XP Embedded
-  description: Windows XP Embedded volgt het beleid voor vaste levenscyclus.
+  description: Windows XP Embedded volgt het vaste levenscyclusbeleid.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2259d8ae34d4c63ad67bf4966d15bf71f2faa04c
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "811893"
 name: Windows XP Embedded
 summary: >
-  Windows XP Embedded volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+  Windows XP Embedded volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
-  Dit geldt voor de volgende edities: Embedded
+  Dit is van toepassing op de volgende edities: Embedded
 
 
   > [!IMPORTANT]
 
-  > Ondersteuning voor dit product is beëindigd.
+  > De ondersteuning voor dit product is beëindigd.
 products:
 - windows
 policyType: fixed
@@ -40,4 +40,4 @@ releases:
 - version: Original Release
   startDate: 01/30/2002
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Ondersteuning voor Windows XP Embedded](https://support.microsoft.com/help/18581)\n\n\n## <a name=\"editions\"></a>Edities \n* Ingesloten"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Windows XP Embedded-ondersteuning](https://support.microsoft.com/help/18581)\n\n\n## <a name=\"editions\"></a>Edities \n* Embedded"

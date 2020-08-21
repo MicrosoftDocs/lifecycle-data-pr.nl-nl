@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: HPC Pack 2008 R2
-  description: HPC Pack 2008 R2 volgt het beleid voor vaste levenscyclus.
+  description: HPC Pack 2008 R2 volgt het vaste levenscyclusbeleid.
   ms.date: 07/28/2020
   ms.openlocfilehash: 85ea9272f46481e504a5c283c962a8ef7f5ace53
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "812495"
 name: HPC Pack 2008 R2
 summary: >
-  HPC Pack 2008 R2 volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+  HPC Pack 2008 R2 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
 
   > [!IMPORTANT]
 
-  > Ondersteuning voor dit product is beëindigd. Zie de migratiebegeleiding hieronder.
+  > De ondersteuning voor dit product is beëindigd. Zie hieronder de richtlijnen voor migratie.
 products:
 - windows
 policyType: fixed
@@ -41,4 +41,4 @@ releases:
 - version: Original Release
   startDate: 10/17/2010
   endDate: 01/08/2013
-content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Windows Server-migratie](https://azure.microsoft.com/migration/windows-server/)\n* [Migratiebegeleiding](/powershell/high-performance-computing/overview?view=hpc19-ps)\n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Windows Servermigratie](https://azure.microsoft.com/migration/windows-server/)\n* [Richtlijnen voor migratie](/powershell/high-performance-computing/overview?view=hpc19-ps)\n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)"
