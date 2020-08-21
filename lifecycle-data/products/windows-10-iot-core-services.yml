@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 10 IoT Core-services
-  description: Windows 10 IoT Core-services volgen het beleid voor moderne levenscyclus.
+  description: Windows 10 IoT Core-services volgt het moderne levenscyclusbeleid.
   ms.date: 07/28/2020
   ms.openlocfilehash: e2e64958c91092f2890a4d871de3fd7b96614d65
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "868729"
 name: Windows 10 IoT Core-services
 summary: >+
-  Windows 10 IoT Core-services volgen het beleid voor [moderne](/lifecycle/policies/modern) levenscyclus.
+  Windows 10 IoT Core-services volgt het [moderne](/lifecycle/policies/modern) levenscyclusbeleid.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/13/2018
-content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Windows 10 IoT Core Services](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n\n> [!NOTE]\n> Windows 10 IoT Core Services is een abonnement met softwareondersteuning als service, inclusief updatecontrole met Device Update Center en verbeterde beveiliging met Device Health Attestation, zolang u een ondersteunde versie van Windows 10 IoT Core Software uitvoert."
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Windows 10 IoT Core Services](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n\n> [!NOTE]\n> Windows 10 IoT Core-services is een abonnement met softwareondersteuning als service, inclusief updatecontrole met Device Update Center en verbeterde beveiliging met Device Health Attestation, zolang u een ondersteunde versie van Windows 10 IoT Core-software uitvoert."

@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 10 Enterprise en Onderwijs
-  description: Windows 10 Enterprise and Education volgt het beleid voor moderne levenscyclus.
+  title: Windows 10 Enterprise en Education
+  description: Windows 10 Enterprise en Education volgen het moderne levenscyclusbeleid.
   ms.date: 07/30/2020
   ms.openlocfilehash: 959937e0ef4ac9c0cc65ecb1a6ef8aa332a835a8
   ms.sourcegitcommit: e3a3bd051020add66386d68528657bb59240d90b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/30/2020
   ms.locfileid: "879137"
-name: Windows 10 Enterprise en Onderwijs
+name: Windows 10 Enterprise en Education
 summary: >
-  Windows 10 Enterprise and Education volgt het beleid [voor moderne](/lifecycle/policies/modern) levenscyclus.
+  Windows 10 Enterprise en Education volgen het [moderne](/lifecycle/policies/modern) levenscyclusbeleid.
 
 
-  Dit geldt voor de volgende edities: Education, Enterprise
+  Dit is van toepassing op de volgende edities: Education, Enterprise
 
 
   > [!IMPORTANT]
 
-  > Microsoft blijft ten minste één Windows 10 Semi-Annual Channel ondersteunen tot 14 oktober 2025.
+  > Microsoft blijft ten minste één Windows 10 Semi-Annual-kanaal ondersteunen tot 14 oktober 2025.
 products:
 - windows
 policyType: modern-on-prem
@@ -57,4 +57,4 @@ releases:
 - version: Version 1507
   startDate: 07/29/2015
   endDate: 05/09/2017
-content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Productinformatie](/windows/windows-10/)\n* [Factsheet levenscyclus van Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Veelgestelde vragen over de levenscyclus - Windows-producten](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Tenzij uitgesteld, kunnen latere Windows 10 Semi-Annual Channel-functie-updates worden geïnstalleerd vóór het vermelde einde van de algemene ondersteuningsdatum.\n\n## <a name=\"editions\"></a>Edities \n* Onderwijs\n* Enterprise"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Windows als een service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Productgegevens](/windows/windows-10/)\n* [Factsheet levenscyclus van Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Veelgestelde vragen over de levenscyclus - Windows-producten](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Tenzij uitgesteld, kunnen verdere functie-updates van Windows 10 Semi-Annual-kanaal geïnstalleerd worden vóór de vermelde einddatum van de basisondersteuning.\n\n## <a name=\"editions\"></a>Edities \n* Education\n* Enterprise"

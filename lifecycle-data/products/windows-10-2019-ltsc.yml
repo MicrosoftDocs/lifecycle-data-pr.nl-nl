@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 10 2019 LTSC
-  description: Windows 10 2019 LTSC volgt het beleid voor vaste levenscyclus.
+  description: Windows 10 2019 LTSC volgt het vaste levenscyclusbeleid.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9d9eeef3c451afda756aff4666fb85da889772e9
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "868758"
 name: Windows 10 2019 LTSC
 summary: >+
-  Windows 10 2019 LTSC volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+  Windows 10 2019 LTSC volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
-  Dit geldt voor de volgende edities: Enterprise
+  Dit is van toepassing op de volgende edities: Enterprise
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2018
   endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Windows 10 October Update (versie 1809) opnieuw uit te brengen](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n* [Veelgestelde vragen over Windows 10 LTSC](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n\n\n## <a name=\"editions\"></a>Edities \n* Enterprise"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Windows 10-update van oktober (versie 1809) opnieuw uitgebracht](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n* [Veelgestelde vragen over Windows 10 LTSC](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n* [Windows als een service (WaaS)](/windows/deployment/update/waas-quick-start)\n\n\n## <a name=\"editions\"></a>Edities \n* Enterprise"
