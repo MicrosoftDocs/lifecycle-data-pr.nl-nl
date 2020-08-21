@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics 365 Business Central on-premises (Modern Policy)
-  description: Dynamics 365 Business Central on-premises (Modern Policy) volgt het Modern Lifecycle Policy.
+  title: Dynamics 365 Business Central on-premises (Modern beleid)
+  description: Dynamics 365 Business Central on-premises (Modern beleid) volgt het moderne levenscyclusbeleid.
   ms.date: 07/28/2020
   ms.openlocfilehash: 90a0c0c35688097614382dcffd624f46c4bac173
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "868698"
-name: Dynamics 365 Business Central on-premises (Modern Policy)
+name: Dynamics 365 Business Central on-premises (Modern beleid)
 summary: >+
-  Dynamics 365 Business Central on-premises (Modern Policy) volgt het [Modern](/lifecycle/policies/modern) Lifecycle Policy.
+  Dynamics 365 Business Central on-premises (Modern beleid) volgt het [moderne](/lifecycle/policies/modern) levenscyclusbeleid.
 
 
 products:
@@ -26,4 +26,4 @@ releases:
 - version: 2019 release wave 2, version 15.x
   startDate: 10/01/2019
   endDate: 04/13/2021
-content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Onderhoudsinformatie](/dynamics365/business-central/dev-itpro/terms/lifecycle-policy-on-premises#modern-lifecycle-policy)\n* [Microsoft Dynamics 365-routekaart](https://aka.ms/businessappsreleasenotes)\n* [Systeemvereisten](/dynamics365/business-central/product-requirements)\n* [Veelgestelde vragen](/dynamics365/business-central/dev-itpro/faq)"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Onderhoudsgegevens](/dynamics365/business-central/dev-itpro/terms/lifecycle-policy-on-premises#modern-lifecycle-policy)\n* [Microsoft Dynamics 365 Roadmap](https://aka.ms/businessappsreleasenotes)\n* [Systeemvereisten](/dynamics365/business-central/product-requirements)\n* [Veelgestelde vragen](/dynamics365/business-central/dev-itpro/faq)"

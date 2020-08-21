@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 8
-  description: Windows 8 volgt het beleid voor vaste levenscyclus.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 1204c4097b59cb5449cb8145f06b6d755b3a4d27
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  description: Windows 8 volgt het vaste levenscyclus beleid.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 125ef61a36e4958dd5b87525ae6f5c53181c6e28
+  ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
   ms.translationtype: MT
   ms.contentlocale: nl-NL
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "851898"
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "906688"
 name: Windows 8
 summary: >
-  Windows 8 volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+  Windows 8 volgt het [vaste](/lifecycle/policies/fixed) levenscyclus beleid.
 
 
-  Dit geldt voor de volgende edities: Enterprise, Enterprise N, N, Pro with Media Center, Professional, Professional N
+  Dit geldt voor de volgende edities: Enterprise, Enterprise N, N, Pro met Media Center, Professional, Professional N, SL
 
 
   > [!IMPORTANT]
 
-  > Ondersteuning voor dit product is beëindigd. Klanten moeten updaten naar Windows 8.1 om ondersteund te blijven.
+  > Ondersteuning voor dit product is beëindigd. Klanten moeten updates voor Windows 8,1 bijwerken om deze ondersteuning te kunnen blijven ondersteunen.
 products:
 - windows
 policyType: fixed
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Veelgestelde vragen over de levenscyclus - Windows 8.1](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>Edities \n* Enterprise\n* Onderneming N\n* N\n* Pro met Media Center\n* Professionele\n* Professioneel N"
+content: "\n## <a name=\"links\"></a>Verbindingen \n* [Veelgestelde vragen over de levenscyclus-Windows 8,1](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>Edition \n* Enterprise\n* Enterprise N\n* P\n* Pro met Media Center\n* Professional\n* Professionele N\n* LINEAIR"
