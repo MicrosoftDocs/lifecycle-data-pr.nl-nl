@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Forefront Client Security
+  description: Microsoft Forefront Client Security volgt het vaste levenscyclus beleid.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 802c6836324ac39b0b8ffc99c1f7f6734906445b
+  ms.sourcegitcommit: 2f3e18a9447115504ef274bd044dbcdb08231f5b
+  ms.translationtype: MT
+  ms.contentlocale: nl-NL
+  ms.lasthandoff: 08/25/2020
+  ms.locfileid: "908690"
+name: Microsoft Forefront Client Security
+summary: >+
+  Microsoft Forefront Client Security volgt het [vaste](/lifecycle/policies/fixed) levenscyclus beleid.
+
+
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 08/02/2007
+  extendedEnd: 07/14/2015
+releases:
+- version: Original Release
+  startDate: 08/02/2007
+  endDate: 07/14/2015
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [System Center-beveiliging](http://www.microsoft.com/server-cloud/products/system-center-2012-r2-configuration-manager/default.aspx)\n\n> [!NOTE]\n> Forefront Client Security is stopgezet. Ondersteuning loopt op 14 juli 2015. Updates voor antimalware en antispyware-definities zijn niet meer beschikbaar na het einde van de ondersteuning voor de productversie. Evalueer het System Center-Endpoint Protection als vervangende functie."

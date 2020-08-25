@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Excel 2010
-  description: Excel 2010 volgt het beleid voor vaste levenscyclus.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: b87f39a5d41d37ea9ea0c6f9e9871319d92b89c9
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  description: Excel 2010 volgt het vaste levenscyclus beleid.
+  ms.date: 08/24/2020
+  ms.openlocfilehash: bc8805039d86091798248251f13a1af772825198
+  ms.sourcegitcommit: 2f3e18a9447115504ef274bd044dbcdb08231f5b
   ms.translationtype: MT
   ms.contentlocale: nl-NL
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "812513"
+  ms.lasthandoff: 08/25/2020
+  ms.locfileid: "908467"
 name: Excel 2010
 summary: >+
-  Excel 2010 volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+  Excel 2010 volgt het [vaste](/lifecycle/policies/fixed) levenscyclus beleid.
 
 
-  Dit geldt voor de volgende edities: Home and Student, Standard
+  Dit geldt voor de volgende edities: voor Thuisgebruik en studenten, mobiel, standaard
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 10/13/2020
-content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Migratiebegeleiding](/DeployOffice/office-2010-end-support-roadmap)\n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edities \n* Thuis en student\n* Standaard"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Richtlijnen voor migratie](/DeployOffice/office-2010-end-support-roadmap)\n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edities \n* Thuisgebruik en Studenten\n* Mobiele\n* Standard"
