@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Server 2012
-  description: Windows Server 2012 volgt het vaste levenscyclusbeleid.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 3afe3de568f6e9b7eef58b6af132ff3ad4526724
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  description: Windows Server 2012 volgt het beleid voor de vaste levenscyclus.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: c6ef77a2f2ee2a4579f3258e26b189e3600db600
+  ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
   ms.translationtype: HT
   ms.contentlocale: nl-NL
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "852110"
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "906947"
 name: Windows Server 2012
 summary: >+
-  Windows Server 2012 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
+  Windows Server 2012 volgt het beleid voor de [vaste](/lifecycle/policies/fixed) levenscyclus.
 
 
-  Dit is van toepassing op de volgende edities: Datacenter, Essentials, voor Embedded Systems, Foundation, Standard
+  Dit is van toepassing op de volgende edities: Datacenter, Essentials, Externe connector, voor Embedded Systems, Foundation, Standaard
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Koppelingen \n* [Richtlijnen voor migratie](/windows-server/upgrade/upgrade-overview)\n* [Productgegevens](/windows/release-information/status-windows-server-2012)\n\n> [!NOTE]\n> De basis- en uitgebreide ondersteuning voor dit product is uitgebreid om klanten de standaard tijdlijn voor de overgang van de levenscyclus te bieden. Windows Server Essentials is uitgebracht op 2 januari 2013.\n\n## <a name=\"editions\"></a>Edities \n* Datacenter\n* Essentials\n* voor Embedded Systems\n* Foundation\n* Standard"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Richtlijnen voor migratie](/windows-server/upgrade/upgrade-overview)\n* [Productgegevens](/windows/release-information/status-windows-server-2012)\n\n> [!NOTE]\n> De basis- en uitgebreide ondersteuning voor dit product is uitgebreid om klanten de standaard tijdlijn voor de overgang van de levenscyclus te bieden. Windows Server Essentials is uitgebracht op 2 januari 2013.\n\n## <a name=\"editions\"></a>Edities \n* Datacenter\n* Essentials\n* Externe connector\n* voor Embedded Systems\n* Foundation\n* Standard"

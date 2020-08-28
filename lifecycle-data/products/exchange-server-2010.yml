@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Exchange Server 2010
-  description: Exchange Server 2010 volgt het vaste levenscyclusbeleid.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 5452228ee7f953f50a2f034c9cf646e7c85b53b3
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  description: Exchange Server 2010 volgt het beleid voor de vaste levenscyclus.
+  ms.date: 08/19/2020
+  ms.openlocfilehash: 0fb8c1867012e70acb9bd4530922b29de20c4edb
+  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
   ms.translationtype: HT
   ms.contentlocale: nl-NL
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "811832"
+  ms.lasthandoff: 08/19/2020
+  ms.locfileid: "903611"
 name: Exchange Server 2010
 summary: >+
-  Exchange Server 2010 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
+  Exchange Server 2010 volgt het beleid voor de [vaste](/lifecycle/policies/fixed) levenscyclus.
 
 
   Dit is van toepassing op de volgende edities: Enterprise, Standard
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 11/09/2009
   endDate: 10/11/2011
-content: "\n## <a name=\"links\"></a>Koppelingen \n* [Datumverlenging](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/Microsoft-Extending-End-of-Support-for-Exchange-Server-2010-to/ba-p/753591)\n* [Richtlijnen voor migratie](https://blogs.technet.microsoft.com/exchange/2018/04/10/exchange-2010-end-of-support-is-coming/)\n\n> [!NOTE]\n> De levenscyclus van Exchange Server 2010 is verlengd.\n\n## <a name=\"editions\"></a>Edities \n* Enterprise\n* Standard"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Datumverlenging](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/Microsoft-Extending-End-of-Support-for-Exchange-Server-2010-to/ba-p/753591)\n* [Richtlijnen voor migratie](/microsoft-365/enterprise/exchange-2010-end-of-support?view=o365-worldwide)\n\n> [!NOTE]\n> De levenscyclus van Exchange Server 2010 is verlengd.\n\n## <a name=\"editions\"></a>Edities \n* Enterprise\n* Standard"
