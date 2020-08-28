@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows XP Media Center Editie 2005
+  description: Windows XP Media Center Editie 2005 volgt het beleid voor de vaste levenscyclus.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 51d0bb29320a507fba4ea0c18e11bfa85f92dccf
+  ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
+  ms.translationtype: HT
+  ms.contentlocale: nl-NL
+  ms.lasthandoff: 08/12/2020
+  ms.locfileid: "892009"
+name: Windows XP Media Center Editie 2005
+summary: >+
+  Windows XP Media Center Editie 2005 volgt het beleid voor de [vaste](/lifecycle/policies/fixed) levenscyclus.
+
+
+  Dit is van toepassing op de volgende edities: Extender
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 12/30/2004
+  end: 04/14/2009
+  extendedEnd: 04/08/2014
+releases:
+- version: Original Release
+  startDate: 12/30/2004
+  endDate: 04/08/2014
+content: "\n\n> [!NOTE]\n> Media Center Extender bood alleen basisondersteuning en eindigde op 12 januari 2010. \n\n## <a name=\"editions\"></a>Edities \n* Extender"

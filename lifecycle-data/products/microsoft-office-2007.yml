@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office 2007
-  description: Microsoft Office 2007 volgt het vaste levenscyclusbeleid.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 5a73d67d99002146bfa145d66037a0bb9080f684
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  description: Microsoft Office 2007 volgt het beleid voor de vaste levenscyclus.
+  ms.date: 08/19/2020
+  ms.openlocfilehash: c0763a56b447d205c916b2580626e636114ee67f
+  ms.sourcegitcommit: 9d254d51934063ec1dd8c7e0e5fcb53ccc7257b3
   ms.translationtype: HT
   ms.contentlocale: nl-NL
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "812052"
+  ms.lasthandoff: 08/20/2020
+  ms.locfileid: "904723"
 name: Microsoft Office 2007
 summary: >+
-  Microsoft Office 2007 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
+  Microsoft Office 2007 volgt het beleid voor de [vaste](/lifecycle/policies/fixed) levenscyclus.
 
 
-  Dit is van toepassing op de volgende edities: Basic, Enterprise, Thuisgebruik en Studenten, Professional, Professional Plus, Professionals en Kleine Bedrijven, Standaard, Ultimate
+  Dit is van toepassing op de volgende edities: Basic, Enterprise, Thuisgebruik en Studenten, Multi-Language Pack, Professional, Professional Plus, Kleine Bedrijven, Standaard, Ultimate
 
 products:
 - office
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Koppelingen \n* [Richtlijnen voor migratie](https://support.microsoft.com/kb/3198497)\n\n\n## <a name=\"editions\"></a>Edities \n* Basic\n* Enterprise\n* Thuisgebruik en Studenten\n* Professional\n* Professional Plus\n* Professionals en Kleine Bedrijven\n* Standard\n* Ultimate"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Richtlijnen voor migratie](https://support.microsoft.com/kb/3198497)\n\n\n## <a name=\"editions\"></a>Edities \n* Basic\n* Enterprise\n* Thuisgebruik en Studenten\n* Multi-Language Pack\n* Professional\n* Professional Plus\n* Small Business\n* Standard\n* Ultimate"
