@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visio 2016
-  description: Visio 2016 volgt het beleid voor vaste levenscyclus.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 5354506665e61cfd1a1d5d1f8f67afbe607f32f6
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  description: Visio 2016 volgt het vaste levenscyclus beleid.
+  ms.date: 09/01/2020
+  keywords: Professional,Standard
+  ms.openlocfilehash: ad39988786cefb44a3e6ff8aa66363673d590a7e
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: nl-NL
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "851952"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "937775"
 name: Visio 2016
 summary: >+
-  Visio 2016 volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+  Visio 2016 volgt het [vaste](/lifecycle/policies/fixed) levenscyclus beleid.
 
 
-  Dit geldt voor de volgende edities: Professional, Standard
+  Dit is van toepassing op de volgende edities: Professional, Standard
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 09/22/2015
   endDate: 10/14/2025
-content: "\n\n\n## <a name=\"editions\"></a>Edities \n* Professionele\n* Standaard"
+content: "\n\n\n## <a name=\"editions\"></a>Edities \n* Professional\n* Standard"

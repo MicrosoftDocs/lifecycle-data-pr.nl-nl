@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: InfoPath 2010
-  description: InfoPath 2010 volgt het beleid voor vaste levenscyclus.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 89a24a2dbfa198829abde7e854cfb1a775c8f6e2
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  description: InfoPath 2010 volgt het vaste levenscyclus beleid.
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: b70d3170dfa8f1a3c2c08ae73564470d3d956b90
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: nl-NL
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "812486"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "936073"
 name: InfoPath 2010
 summary: >+
-  InfoPath 2010 volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+  InfoPath 2010 volgt het [vaste](/lifecycle/policies/fixed) levenscyclus beleid.
 
 
-  Dit geldt voor de volgende edities: Standaard
+  Dit is van toepassing op de volgende edities: Standard
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 10/13/2020
-content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Migratiebegeleiding](https://support.microsoft.com/help/4086176/office-2010-approaching-end-of-extended-support)\n\n\n## <a name=\"editions\"></a>Edities \n* Standaard"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Richtlijnen voor migratie](https://support.microsoft.com/help/4086176/office-2010-approaching-end-of-extended-support)\n\n\n## <a name=\"editions\"></a>Edities \n* Standard"
