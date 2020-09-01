@@ -2,15 +2,16 @@
 metadata:
   title: Microsoft Internet Security en Acceleration Server 2004
   description: Microsoft Internet Security en Acceleration Server 2004 volgt het vaste levenscyclus beleid.
-  ms.date: 08/19/2020
-  ms.openlocfilehash: c6473b773066fa46704ea1ecb65cad0453712d36
-  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  ms.date: 09/01/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: ca985b778607eed3132ccd8345127d379543f4ff
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: nl-NL
-  ms.lasthandoff: 08/19/2020
-  ms.locfileid: "903981"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "933483"
 name: Microsoft Internet Security en Acceleration Server 2004
-summary: "Microsoft Internet Security en Acceleration Server 2004 volgt het [vaste](/lifecycle/policies/fixed) levenscyclus beleid.\n\nDit geldt voor de volgende edities: Enterprise, Standard\n\n> [!IMPORTANT]\n> Ondersteuning voor dit product is beëindigd. \n"
+summary: "Microsoft Internet Security en Acceleration Server 2004 volgt het [vaste](/lifecycle/policies/fixed) levenscyclus beleid.\n\nDit is van toepassing op de volgende edities: Enterprise, Standard\n\n> [!IMPORTANT]\n> De ondersteuning voor dit product is beëindigd. \n"
 products:
 - microsoft-servers
 policyType: fixed
@@ -31,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 09/08/2004
   endDate: 03/11/2006
-content: "\n## <a name=\"links\"></a>Verbindingen \n* [Beleid voor het service pakket](/lifecycle/policies/fixed#service-packs)\n* [Richtlijnen voor migratie](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)\n\n\n## <a name=\"editions\"></a>Edition \n* Enterprise\n* Verre"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n* [Richtlijnen voor migratie](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)\n\n\n## <a name=\"editions\"></a>Edities \n* Enterprise\n* Standard"

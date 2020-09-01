@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft OneNote 2013
-  description: Microsoft OneNote 2013 volgt het beleid voor een vaste levenscyclus.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 8bb63a60952c80abd00cac4785199d2b0a98bd4e
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  description: Microsoft OneNote 2013 volgt het vaste levenscyclus beleid.
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 7a07605f91f495b4b6b7c3eeecebd907f403b9f1
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: nl-NL
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "852089"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "932558"
 name: Microsoft OneNote 2013
 summary: >+
-  Microsoft OneNote 2013 volgt het beleid [voor een vaste](/lifecycle/policies/fixed) levenscyclus.
+  Microsoft OneNote 2013 volgt het [vaste](/lifecycle/policies/fixed) levenscyclus beleid.
 
 
-  Dit geldt voor de volgende edities: Standaard
+  Dit is van toepassing op de volgende edities: Standard
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/11/2023
-content: "\n\n\n## <a name=\"editions\"></a>Edities \n* Standaard"
+content: "\n\n\n## <a name=\"editions\"></a>Edities \n* Standard"
