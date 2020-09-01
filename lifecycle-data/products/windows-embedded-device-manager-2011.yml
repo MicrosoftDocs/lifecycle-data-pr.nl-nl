@@ -2,13 +2,14 @@
 metadata:
   title: Windows Embedded Device Manager 2011
   description: Windows Embedded Device Manager 2011 volgt het vaste levenscyclus beleid.
-  ms.date: 08/21/2020
-  ms.openlocfilehash: 7d43dfd6726e8314bd4c05bb6d54c91aca80ab7b
-  ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
+  ms.date: 09/01/2020
+  keywords: Client,SDK,Server
+  ms.openlocfilehash: 8d46a10b12894b95bfb25872c893b3148aa7a550
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: nl-NL
-  ms.lasthandoff: 08/21/2020
-  ms.locfileid: "906762"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "939921"
 name: Windows Embedded Device Manager 2011
 summary: >
   Windows Embedded Device Manager 2011 volgt het [vaste](/lifecycle/policies/fixed) levenscyclus beleid.
@@ -19,7 +20,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Ondersteuning voor dit product is beëindigd.
+  > De ondersteuning voor dit product is beëindigd.
 products:
 - windows
 policyType: fixed
@@ -34,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 05/29/2011
   endDate: 01/08/2013
-content: "\n## <a name=\"links\"></a>Verbindingen \n* [Beleid voor het service pakket](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edition \n* Client\n* SDK\n* Server"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edities \n* Client\n* SDK\n* Server"
