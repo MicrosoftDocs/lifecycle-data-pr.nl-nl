@@ -2,13 +2,13 @@
 metadata:
   title: System Center-beveiliging
   description: Endpoint Protection van System Center volgt het moderne levenscyclus beleid.
-  ms.date: 08/28/2020
-  ms.openlocfilehash: 2b8878c629a27bc6960a9cbceb4447b7757e61d2
-  ms.sourcegitcommit: 90c2bb5823fb637bc42baaba1512486144104f70
+  ms.date: 08/31/2020
+  ms.openlocfilehash: 9eff57919f329c3c5897ef2697cd20ff9ce65dba
+  ms.sourcegitcommit: ea12743df11002fd494c7843707a3628dfedb425
   ms.translationtype: MT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 08/31/2020
-  ms.locfileid: "924637"
+  ms.locfileid: "924922"
 name: System Center-beveiliging
 summary: >+
   Endpoint Protection van System Center volgt het [moderne](/lifecycle/policies/modern) levenscyclus beleid.
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 12/08/2015
-content: "\n## <a name=\"links\"></a>Koppelingen \n* [Ondersteuning voor de versies van het System Center-Endpoint Protection (voorheen Configuration Manager Current tak genoemd)](/mem/configmgr/core/servers/manage/current-branch-versions-supported?redirectedfrom=MSDN)"
+content: ''
