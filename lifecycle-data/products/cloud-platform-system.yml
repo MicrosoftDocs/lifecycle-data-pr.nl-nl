@@ -2,19 +2,20 @@
 metadata:
   title: Cloud platform System
   description: Het beleid van de Cloud platform volgt het vaste levens Duurbeleid.
-  ms.date: 08/12/2020
-  ms.openlocfilehash: 132fd3832cd1d0927fe7ce6af7eb8e0a21e8d308
-  ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 77f8b0e296d10279130459a1c0917c04382c26bc
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: nl-NL
-  ms.lasthandoff: 08/12/2020
-  ms.locfileid: "891874"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "932040"
 name: Cloud platform System
 summary: >+
   Het beleid van de Cloud platform volgt het [vaste](/lifecycle/policies/fixed) levens duurbeleid.
 
 
-  Dit geldt voor de volgende edities: standaard
+  Dit is van toepassing op de volgende edities: Standard
 
 products:
 - azure
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/29/2015
   endDate: 07/12/2022
-content: "\n\n> [!NOTE]\n> Ondersteuning voor het Cloud platform System wordt uitgebreid, zoals weergegeven om alle klanten met de standaardlevenscyclus van de overgang te bieden.\n> [!NOTE]\n> Het Cloud platform System Standard is gestart op 18 september 2017.\n\n## <a name=\"editions\"></a>Edition \n* Verre"
+content: "\n\n> [!NOTE]\n> Ondersteuning voor het Cloud platform System wordt uitgebreid, zoals weergegeven om alle klanten met de standaardlevenscyclus van de overgang te bieden.\n> [!NOTE]\n> Het Cloud platform System Standard is gestart op 18 september 2017.\n\n## <a name=\"editions\"></a>Edities \n* Standard"
