@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics Retail Management System 1.3
-  description: Dynamics Retail Management System 1.3 volgt het beleid voor vaste levenscyclus.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 6ffb2235d34709672f16dea371e142cca0af0ef1
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Dynamics Retail Management System 1,3
+  description: Dynamics Retail Management System 1,3 volgt het vaste levenscyclus beleid.
+  ms.date: 09/01/2020
+  keywords: Headquarters,Store Operations
+  ms.openlocfilehash: a3713fd375b666673f687b89fe23492b072c8c3b
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: nl-NL
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "812078"
-name: Dynamics Retail Management System 1.3
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "931691"
+name: Dynamics Retail Management System 1,3
 summary: >+
-  Dynamics Retail Management System 1.3 volgt het [beleid voor vaste](/lifecycle/policies/fixed) levenscyclus.
+  Dynamics Retail Management System 1,3 volgt het [vaste](/lifecycle/policies/fixed) levenscyclus beleid.
 
 
-  Dit geldt voor de volgende edities: Headquarters, Store Operations
+  Dit is van toepassing op de volgende edities: Hoofdkantoor, winkelactiviteiten
 
 products:
 - dynamics
@@ -26,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/31/2006
   endDate: 04/12/2011
-content: "\n\n\n## <a name=\"editions\"></a>Edities \n* Hoofdkantoor\n* Winkelbewerkingen"
+content: "\n\n\n## <a name=\"editions\"></a>Edities \n* Hoofdkantoor\n* Winkelactiviteiten"
