@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: PowerPoint 2016
-  description: PowerPoint 2016 volgt het beleid voor vaste levenscyclus.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: a27ef2e49e73976a5b4f40f13a9d0145bd98b1d0
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  description: PowerPoint 2016 volgt het vaste levenscyclus beleid.
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 04955ff5fa53a1585bf767879b4f0882dda8c613
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: nl-NL
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "851703"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "926749"
 name: PowerPoint 2016
 summary: >+
-  PowerPoint 2016 volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+  PowerPoint 2016 volgt het [vaste](/lifecycle/policies/fixed) levenscyclus beleid.
 
 
-  Dit geldt voor de volgende edities: Standaard
+  Dit is van toepassing op de volgende edities: Standard
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 09/22/2015
   endDate: 10/14/2025
-content: "\n\n\n## <a name=\"editions\"></a>Edities \n* Standaard"
+content: "\n\n\n## <a name=\"editions\"></a>Edities \n* Standard"
