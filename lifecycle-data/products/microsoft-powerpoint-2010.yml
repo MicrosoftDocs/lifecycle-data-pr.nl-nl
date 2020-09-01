@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft PowerPoint 2010
-  description: Microsoft PowerPoint 2010 volgt het beleid voor een vaste levenscyclus.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 9ac5bd4ad99a87aad19471a01a295dacc94f5933
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  description: Microsoft PowerPoint 2010 volgt het vaste levenscyclus beleid.
+  ms.date: 09/01/2020
+  keywords: Home and Student,Standard
+  ms.openlocfilehash: 456aacd4e7c600f852b3a7fb169afc68163bf95c
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: nl-NL
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "811934"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930042"
 name: Microsoft PowerPoint 2010
 summary: >+
-  Microsoft PowerPoint 2010 volgt het beleid [voor een vaste](/lifecycle/policies/fixed) levenscyclus.
+  Microsoft PowerPoint 2010 volgt het [vaste](/lifecycle/policies/fixed) levenscyclus beleid.
 
 
-  Dit geldt voor de volgende edities: Home and Student, Standard
+  Dit is van toepassing op de volgende edities: Thuisgebruik en Studenten, Standaard
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 10/13/2020
-content: "\n\n\n## <a name=\"editions\"></a>Edities \n* Thuis en student\n* Standaard"
+content: "\n\n\n## <a name=\"editions\"></a>Edities \n* Thuisgebruik en Studenten\n* Standard"
