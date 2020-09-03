@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics GP 2013 R2
-  description: Dynamics GP 2013 R2 volgt het beleid voor vaste levenscyclus.
+  description: Dynamics GP 2013 R2 volgt het vaste levenscyclusbeleid.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9f760e7be272e419aebd422e96136ef24fff52d9
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "852009"
 name: Dynamics GP 2013 R2
 summary: >+
-  Dynamics GP 2013 R2 volgt het [beleid voor vaste](/lifecycle/policies/fixed) levenscyclus.
+  Dynamics GP 2013 R2 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 08/21/2014
   endDate: 04/11/2023
-content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Aanvullende informatie en migratierichtlijnen](https://community.dynamics.com/gp/b/dynamicsgp/posts/microsoft-dynamics-gp-2016-r2-and-year-end-update-lifecycle-and-upgrade-services)\n* [Productinformatie](/dynamics-gp/)"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Aanvullende gegevens en migratierichtlijnen](https://community.dynamics.com/gp/b/dynamicsgp/posts/microsoft-dynamics-gp-2016-r2-and-year-end-update-lifecycle-and-upgrade-services)\n* [Productgegevens](/dynamics-gp/)"

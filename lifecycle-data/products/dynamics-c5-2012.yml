@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamiek C5 2012
-  description: Dynamics C5 2012 volgt het beleid voor vaste levenscyclus.
+  title: Dynamics C5 2012
+  description: Dynamics C5 2012 volgt het vaste levenscyclusbeleid.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0e2fde2211933228e6bd97265e65fd5c7d711bde
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "851920"
-name: Dynamiek C5 2012
+name: Dynamics C5 2012
 summary: >+
-  Dynamics C5 2012 volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+  Dynamics C5 2012 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
-  Dit geldt voor de volgende edities: Standaard
+  Dit is van toepassing op de volgende edities: Standard
 
 products:
 - dynamics
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 01/10/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Migratiebegeleiding](/dynamics-nav-app/localfunctionality/denmark/ui-extensions-c5-data-migration)\n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edities \n* Standaard"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Richtlijnen voor migratie](/dynamics-nav-app/localfunctionality/denmark/ui-extensions-c5-data-migration)\n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edities \n* Standard"

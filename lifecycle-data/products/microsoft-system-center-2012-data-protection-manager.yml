@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft System Center 2012 Gegevensbeschermingsbeheer
-  description: Microsoft System Center 2012 Data Protection Manager volgt het beleid voor vaste levenscyclus.
+  title: Microsoft System Center 2012 Data Protection Manager
+  description: Microsoft System Center 2012 Data Protection Manager volgt het vaste levenscyclusbeleid.
   ms.date: 07/28/2020
   ms.openlocfilehash: a3667b8180199cea7d42f522b7be36abcf2e4a45
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "851866"
-name: Microsoft System Center 2012 Gegevensbeschermingsbeheer
+name: Microsoft System Center 2012 Data Protection Manager
 summary: >+
-  Microsoft System Center 2012 Data Protection Manager volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+  Microsoft System Center 2012 Data Protection Manager volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Systeemcentrumdocumentatie](/system-center/#pivot=components&panel=components-all)\n* [Systeemcentrumbronnen](https://www.microsoft.com/system-center/resources)\n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [System Center-documentatie](/system-center/#pivot=components&panel=components-all)\n* [System Center-resources](https://www.microsoft.com/system-center/resources)\n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)"

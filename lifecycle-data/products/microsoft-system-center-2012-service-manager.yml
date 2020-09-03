@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft System Center 2012-servicebeheer
-  description: Microsoft System Center 2012 Service Manager volgt het beleid voor vaste levenscyclus.
+  title: Microsoft System Center 2012 Service Manager
+  description: Microsoft System Center 2012 Service Manager volgt het vaste levenscyclusbeleid.
   ms.date: 07/28/2020
   ms.openlocfilehash: 98b376f557f50d8ecdb538898e2526fa207c12bb
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "851726"
-name: Microsoft System Center 2012-servicebeheer
+name: Microsoft System Center 2012 Service Manager
 summary: >+
-  Microsoft System Center 2012 Service Manager volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+  Microsoft System Center 2012 Service Manager volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n* [Systeemcentrumbronnen](https://www.microsoft.com/system-center/resources)\n* [Systeemcentrumdocumentatie](/system-center/#pivot=components&panel=components-all)"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n* [System Center-resources](https://www.microsoft.com/system-center/resources)\n* [System Center-documentatie](/system-center/#pivot=components&panel=components-all)"

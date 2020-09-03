@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Embedded 8.1 Pro
-  description: Windows Embedded 8.1 Pro volgt het beleid voor vaste levenscyclus.
+  description: Windows Embedded 8.1 Pro volgt het vaste levenscyclusbeleid.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2d9ada5810dc20ee1491b24af7ee1e214dcf8678
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "852118"
 name: Windows Embedded 8.1 Pro
 summary: >+
-  Windows Embedded 8.1 Pro volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+  Windows Embedded 8.1 Pro volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2013
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Veelgestelde vragen over de levenscyclus - Windows-producten](/lifecycle/faq/windows)\n* [Veelgestelde vragen over Windows Embedded 8.1](/lifecycle/faq/windows#what-is-the-lifecycle-policy-for-windows-embedded-81-products)"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Veelgestelde vragen over de levenscyclus - Windows-producten](/lifecycle/faq/windows)\n* [Veelgestelde vragen over Windows Embedded 8.1](/lifecycle/faq/windows#what-is-the-lifecycle-policy-for-windows-embedded-81-products)"

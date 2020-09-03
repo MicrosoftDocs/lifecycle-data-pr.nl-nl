@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Configuratiebeheer van Microsoft System Center 2012 R2
-  description: Microsoft System Center 2012 R2 Configuration Manager volgt het beleid voor vaste levenscyclus.
+  title: Microsoft System Center 2012 R2 Configuration Manager
+  description: Microsoft System Center 2012 R2 Configuration Manager volgt het vaste levenscyclusbeleid.
   ms.date: 07/28/2020
   ms.openlocfilehash: 61515e636a9af310a2107c9505067fa551d26b15
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "851750"
-name: Configuratiebeheer van Microsoft System Center 2012 R2
+name: Microsoft System Center 2012 R2 Configuration Manager
 summary: >+
-  Microsoft System Center 2012 R2 Configuration Manager volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+  Microsoft System Center 2012 R2 Configuration Manager volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/16/2014
   endDate: 07/12/2016
-content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n* [Documentatie voor Configuratiebeheer](/mem/configmgr/core/misc/online-documentation)"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n* [Documentatie voor Configuratiebeheer](/mem/configmgr/core/misc/online-documentation)"
