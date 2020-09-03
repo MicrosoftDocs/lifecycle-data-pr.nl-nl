@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows HPC Server 2008
-  description: Windows HPC Server 2008 volgt het beleid voor vaste levenscyclus.
+  description: Windows HPC Server 2008 volgt het vaste levenscyclusbeleid.
   ms.date: 07/28/2020
   ms.openlocfilehash: e208be03e69f56dc9f77409668c4f4f538a57997
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "812255"
 name: Windows HPC Server 2008
 summary: >
-  Windows HPC Server 2008 volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+  Windows HPC Server 2008 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
-  Dit geldt voor de volgende edities: Standaard, zonder Hyper-V
+  Dit geldt voor de volgende edities: Standard, zonder Hyper-V
 
 
   > [!IMPORTANT]
 
-  > De ondersteuning is beëindigd. Zie de migratiebegeleiding hieronder.
+  > De ondersteuning is beëindigd. Zie hieronder de richtlijnen voor migratie.
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 12/30/2008
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Migratiebegeleiding](https://aka.ms/AA1ovn4)\n\n\n## <a name=\"editions\"></a>Edities \n* Standaard\n* zonder Hyper-V"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Richtlijnen voor migratie](https://aka.ms/AA1ovn4)\n\n\n## <a name=\"editions\"></a>Edities \n* Standard\n* zonder Hyper-V"

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: SharePoint Foundation 2010
-  description: SharePoint Foundation 2010 volgt het beleid voor vaste levenscyclus.
+  description: Microsoft Foundation 2010 volgt het vaste levenscyclusbeleid.
   ms.date: 07/28/2020
   ms.openlocfilehash: 4e1bc498432d215ea8f84140c068054cf6c9c5cc
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "811765"
 name: SharePoint Foundation 2010
 summary: >+
-  SharePoint Foundation 2010 volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+  SharePoint Foundation 2010 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
 products:
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Migratiebegeleiding](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Ondersteuningsextensie](https://aka.ms/SharePoint/server/2010/supportextension)\n\n> [!NOTE]\n> De einddatum van dit product is verlengd van 13 oktober 2020 tot 13 april 2021."
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Richtlijnen voor migratie](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Ondersteuningsextensie](https://aka.ms/SharePoint/server/2010/supportextension)\n\n> [!NOTE]\n> De datum voor het einde van de ondersteuning voor dit product is uitgesteld van 13 oktober 2020 naar 13 april 2021."

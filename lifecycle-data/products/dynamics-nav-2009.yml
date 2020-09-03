@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamiek NAV 2009
-  description: Dynamics NAV 2009 volgt het beleid voor vaste levenscyclus.
+  title: Dynamics NAV 2009
+  description: Dynamics NAV 2009 volgt het vaste levenscyclusbeleid.
   ms.date: 07/28/2020
   ms.openlocfilehash: 91dc4515ba59f72b52cc7c9d517407dfaf552702
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "812519"
-name: Dynamiek NAV 2009
+name: Dynamics NAV 2009
 summary: >+
-  Dynamics NAV 2009 volgt het [beleid voor vaste](/lifecycle/policies/fixed) levenscyclus.
+  Dynamics NAV 2009 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 02/12/2009
   endDate: 10/11/2011
-content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n* [Meer informatie](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/pricing-ordering-news/MicrosoftForecasterDiscontinuation)\n\n> [!NOTE]\n> Het einde van de ondersteuningsdatums voor NAV 2009 wordt verlengd zoals weergegeven."
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n* [Meer informatie](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/pricing-ordering-news/MicrosoftForecasterDiscontinuation)\n\n> [!NOTE]\n> De beëindigingsdatums voor de ondersteuning voor NAV 2009 worden verlengd, zoals weergegeven."

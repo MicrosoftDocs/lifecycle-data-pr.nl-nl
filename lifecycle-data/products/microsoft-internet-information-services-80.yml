@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Internet Information Services 8.0
-  description: Microsoft Internet Information Services 8.0 volgt het beleid voor de levenscyclus van componenten.
+  description: Microsoft Internet Information Services 8.0 volgt het levenscyclusbeleid voor onderdelen.
   ms.date: 07/28/2020
   ms.openlocfilehash: 71be1061b611798489998e4437c1e3d80bbe19b3
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "811817"
 name: Microsoft Internet Information Services 8.0
 summary: >+
-  Microsoft Internet Information Services 8.0 volgt het beleid voor de levenscyclus [van componenten.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+  Microsoft Internet Information Services 8.0 volgt het levenscyclusbeleid voor [onderdelen](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 10/30/2012
-content: "> [!TIP]\n> Deze release staat bekend als een component die de ondersteuningslevenscyclus van het bovenliggende hoofdproduct, Windows Server 2012 en Windows 8 volgt\n\n## <a name=\"links\"></a>Verwijzigingen \n* [Windows Server 2012](/lifecycle/products/windows-server-2012)\n* [Windows 8](/lifecycle/products/windows-8)"
+content: "> [!TIP]\n> Deze release staat bekend als een onderdeel die de ondersteuningslevenscyclus volgt van het bovenliggende hoofdproduct, Windows Server 2012 en Windows 8\n\n## <a name=\"links\"></a>Koppelingen \n* [Windows Server 2012](/lifecycle/products/windows-server-2012)\n* [Windows 8](/lifecycle/products/windows-8)"
