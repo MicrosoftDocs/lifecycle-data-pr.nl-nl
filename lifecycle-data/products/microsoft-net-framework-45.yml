@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft .NET Framework 4.5
-  description: Microsoft .NET Framework 4.5 volgt het beleid voor de levenscyclus van componenten.
+  description: Microsoft .NET Framework 4.5 volgt het levenscyclusbeleid voor onderdelen.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0462a82a1db09bc170784225cae666c3d526559c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "851764"
 name: Microsoft .NET Framework 4.5
 summary: >+
-  Microsoft .NET Framework 4.5 volgt het beleid voor de levenscyclus [van componenten.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+  Microsoft .NET Framework 4.5 volgt het levenscyclusbeleid voor [onderdelen](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 10/09/2012
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Veelgestelde vragen over levenscyclus - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Productinformatie](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-45)\n\n> [!NOTE]\n> De steun voor .NET Framework 4, 4,5 en 4,5,1 eindigde op 12 januari 2016."
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Veelgestelde vragen over de levenscyclus - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Productgegevens](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-45)\n\n> [!NOTE]\n> Ondersteuning voor .NET Framework 4, 4.5 en 4.5.1 eindigde op 12 januari 2016."
