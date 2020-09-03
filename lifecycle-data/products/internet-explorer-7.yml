@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Internet Explorer 7
-  description: Internet Explorer 7 volgt het beleid voor de levenscyclus van componenten.
+  title: Internet Explorer 7
+  description: Internet Explorer 7 volgt het levenscyclusbeleid voor onderdelen.
   ms.date: 07/28/2020
   ms.openlocfilehash: a3ebb8bde83f8b86fe292510b958fb0c59994fe3
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "812482"
-name: Internet Explorer 7
+name: Internet Explorer 7
 summary: >+
-  Internet Explorer 7 volgt het beleid voor de levenscyclus [van componenten.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+  Internet Explorer 7 volgt het levenscyclusbeleid voor [onderdelen](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 10/18/2006
-content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Migratiebegeleiding](https://www.microsoft.com/itpro/microsoft-edge)\n* [Veelgestelde vragen over het levenscyclusbeleid van Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Vanaf 12 januari 2016 ontvangt alleen de meest recente versie van Internet Explorer die beschikbaar is voor een ondersteund besturingssysteem technische ondersteuning en beveiligingsupdates."
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Richtlijnen voor migratie](https://www.microsoft.com/itpro/microsoft-edge)\n* [Veelgestelde vragen over het levenscyclusbeleid van Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Vanaf 12 januari 2016 zal alleen de meest recente versie van Internet Explorer, die beschikbaar is voor een ondersteund besturingssysteem, technisch ondersteund worden en beveiligingsupdates ontvangen."
