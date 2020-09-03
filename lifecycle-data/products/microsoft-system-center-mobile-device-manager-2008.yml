@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Mobile Device Manager voor Microsoft System Center 2008
-  description: Microsoft System Center Mobile Device Manager 2008 volgt het vaste levenscyclus beleid.
+  title: Microsoft System Center Mobile Device Manager 2008
+  description: Microsoft System Center Mobile Device Manager 2008 volgt het vaste levenscyclusbeleid.
   ms.date: 08/21/2020
   ms.openlocfilehash: df98171e48c84191a90b4c051d6d17e77e720d93
   ms.sourcegitcommit: 58c6a4bf0c3ef066969422e3acf340702facef6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "906269"
-name: Mobile Device Manager voor Microsoft System Center 2008
+name: Microsoft System Center Mobile Device Manager 2008
 summary: >+
-  Microsoft System Center Mobile Device Manager 2008 volgt het [vaste](/lifecycle/policies/fixed) levenscyclus beleid.
+  Microsoft System Center Mobile Device Manager 2008 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
-  Dit geldt voor de volgende versies: alle van toepassing zijnde wSQL
+  Dit geldt voor de volgende edities: Allemaal van toepassing, wSQL
 
 products:
 - msc
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 05/14/2008
   endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>Verbindingen \n* [Richtlijnen voor migratie](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [Beleid voor het service pakket](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edition \n* Allemaal van toepassing\n* wSQL"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Richtlijnen voor migratie](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edities \n* Alles wat van toepassing is\n* wSQL"

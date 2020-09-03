@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft BizTalk Server 2004
-  description: Microsoft BizTalk Server 2004 volgt het vaste levenscyclus beleid.
+  description: Microsoft BizTalk Server 2004 volgt het vaste levenscyclusbeleid.
   ms.date: 08/12/2020
   ms.openlocfilehash: 3601a186f2016a32ea40ef7bf59e484940d7d4b0
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893567"
 name: Microsoft BizTalk Server 2004
 summary: >+
-  Microsoft BizTalk Server 2004 volgt het [vaste](/lifecycle/policies/fixed) levenscyclus beleid.
+  Microsoft BizTalk Server 2004 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
-  Dit geldt voor de volgende edities: ontwikkelaar, Enterprise, partner, Standard
+  Dit geldt voor de volgende edities: Developer, Enterprise, Partner, Standaard
 
 products:
 - microsoft-servers
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 05/20/2004
   endDate: 04/11/2006
-content: "\n## <a name=\"links\"></a>Verbindingen \n* [Beleid voor het service pakket](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edition \n* Schrijven\n* Enterprise\n* Winkel\n* Verre"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edities \n* Developer\n* Enterprise\n* Partner\n* Standard"
