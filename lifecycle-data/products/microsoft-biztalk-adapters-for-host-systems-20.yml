@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft BizTalk-adapters voor host Systems 2,0
-  description: Microsoft BizTalk-adapters voor host Systems 2,0 volgen het vaste levenscyclus beleid.
+  title: Microsoft BizTalk-adapters voor host-systemen 2.0
+  description: Microsoft BizTalk-adapters voor host-systemen 2.0 volgen het vaste levenscyclusbeleid.
   ms.date: 08/12/2020
   ms.openlocfilehash: 425db6cb5918efdf9afc544d8a0e8bb554ce695c
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893493"
-name: Microsoft BizTalk-adapters voor host Systems 2,0
+name: Microsoft BizTalk-adapters voor host-systemen 2.0
 summary: >+
-  Microsoft BizTalk-adapters voor host Systems 2,0 volgen het [vaste](/lifecycle/policies/fixed) levenscyclus beleid.
+  Microsoft BizTalk-adapters voor host-systemen 2.0 volgen het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
-  Dit geldt voor de volgende edities: Developer, Standard
+  Dit geldt voor de volgende edities: Developer, Standaard
 
 products:
 - microsoft-servers
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 06/21/2009
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Verbindingen \n* [Richtlijnen voor migratie](https://techcommunity.microsoft.com/t5/Host-Integration-Blog/End-of-Support-for-BizTalk-Adapters-for-Host-Systems-2-0/ba-p/269471)\n\n\n## <a name=\"editions\"></a>Edition \n* Schrijven\n* Verre"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Richtlijnen voor migratie](https://techcommunity.microsoft.com/t5/Host-Integration-Blog/End-of-Support-for-BizTalk-Adapters-for-Host-Systems-2-0/ba-p/269471)\n\n\n## <a name=\"editions\"></a>Edities \n* Developer\n* Standard"

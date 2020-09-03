@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Internet Explorer 9
-  description: Internet Explorer 9 volgt het onderdeel levenscyclus beleid.
+  description: Internet Explorer 9 volgt het levenscyclusbeleid voor onderdelen.
   ms.date: 08/12/2020
   ms.openlocfilehash: 56f6d95703597d63faee14b9b135d0d6611e80c8
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893604"
 name: Internet Explorer 9
 summary: >+
-  Internet Explorer 9 volgt het [onderdeel](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) levenscyclus beleid.
+  Internet Explorer 9 volgt het levenscyclusbeleid voor [onderdelen](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 03/15/2011
-content: "\n## <a name=\"links\"></a>Verbindingen \n* [Richtlijnen voor migratie](https://www.microsoft.com/itpro/microsoft-edge)\n* [Veelgestelde vragen over het levenscyclus beleid van Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Vanaf 12 januari 2016 ontvangen alleen de meest recente versie van Internet Explorer die beschikbaar is voor een ondersteund besturingssysteem, met technische ondersteuning en beveiligingsupdates."
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Richtlijnen voor migratie](https://www.microsoft.com/itpro/microsoft-edge)\n* [Veelgestelde vragen over het levenscyclusbeleid van Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Vanaf 12 januari 2016 zal alleen de meest recente versie van Internet Explorer, die beschikbaar is voor een ondersteund besturingssysteem, technisch ondersteund worden en beveiligingsupdates ontvangen."

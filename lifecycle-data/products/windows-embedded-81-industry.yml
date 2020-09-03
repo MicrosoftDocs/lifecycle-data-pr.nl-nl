@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Embedded 8,1 Industry
-  description: Windows Embedded 8,1 Industry volgt het vaste levenscyclus beleid.
+  title: Windows Embedded 8.1 Industry
+  description: Windows Embedded 8.1 Industry volgt het vaste levenscyclusbeleid.
   ms.date: 08/21/2020
   ms.openlocfilehash: f18f36a1692ef77948c82bce5d1b0a0208c3dc9d
   ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "906910"
-name: Windows Embedded 8,1 Industry
+name: Windows Embedded 8.1 Industry
 summary: >+
-  Windows Embedded 8,1 Industry volgt het [vaste](/lifecycle/policies/fixed) levenscyclus beleid.
+  Windows Embedded 8.1 Industry volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
   Dit geldt voor de volgende edities: Enterprise, Pro, Sideloading
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/25/2013
   endDate: 07/11/2023
-content: "\n## <a name=\"links\"></a>Verbindingen \n* [Veelgestelde vragen over de levenscyclus-Windows-producten](https://support.microsoft.co/help/18581)\n* [Veelgestelde vragen over Windows 8,1](/lifecycle/faq/windows#what-is-the-lifecycle-policy-for-windows-embedded-81-products)\n\n\n## <a name=\"editions\"></a>Edition \n* Enterprise\n* Evenredig\n* Laden"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Veelgestelde vragen over de levenscyclus - Windows-producten](https://support.microsoft.co/help/18581)\n* [Veelgestelde vragen over Windows Embedded 8.1](/lifecycle/faq/windows#what-is-the-lifecycle-policy-for-windows-embedded-81-products)\n\n\n## <a name=\"editions\"></a>Edities \n* Enterprise\n* Pro\n* Sideloading"
