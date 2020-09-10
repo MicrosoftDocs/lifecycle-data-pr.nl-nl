@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Operations Manager (MOM) 2005
   description: Microsoft Operations Manager (MOM) 2005 volgt het vaste levenscyclusbeleid.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 537a6fbd4ff1d9f82a9ffd0dcd3b456bee05cc55
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/10/2020
+  keywords: MOM,Workgroup
+  ms.openlocfilehash: 4435053d2a1544c2298ad1e04ad0034c660e8b0e
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: nl-NL
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "811795"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1001458"
 name: Microsoft Operations Manager (MOM) 2005
 summary: >
   Microsoft Operations Manager (MOM) 2005 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
@@ -34,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 11/24/2004
   endDate: 10/10/2006
-content: "\n## <a name=\"links\"></a>Koppelingen \n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n* [Operations Manager](/system-center/scom/welcome?view=sc-om-2019)\n\n\n## <a name=\"editions\"></a>Edities \n* Workgroup\n\ntrefwoorden:  MOM"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n* [Operations Manager](/system-center/scom/welcome?view=sc-om-2019)\n\n\n## <a name=\"editions\"></a>Edities \n* Workgroup"
