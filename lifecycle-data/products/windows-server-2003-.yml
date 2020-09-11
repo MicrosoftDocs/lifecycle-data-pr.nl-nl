@@ -2,13 +2,14 @@
 metadata:
   title: 'Windows Server 2003 '
   description: Windows Server 2003 volgt het beleid voor de vaste levenscyclus.
-  ms.date: 08/13/2020
-  ms.openlocfilehash: 3558caf5ca1df8b303629236184460220b5a76e5
-  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.date: 09/01/2020
+  keywords: Datacenter (32-bit x86),Datacenter (x64),Datacenter for Itanium-Based Systems,Enterprise (32-Bit x86),Enterprise for Itanium-based Systems,Enterprise X64,Standard (32-bit x86),Web
+  ms.openlocfilehash: c11990954fd21dad1b968cf849bc9359008c9c07
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: nl-NL
-  ms.lasthandoff: 08/13/2020
-  ms.locfileid: "893895"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "939588"
 name: 'Windows Server 2003 '
 summary: >+
   Windows Server 2003 volgt het beleid voor de [vaste](/lifecycle/policies/fixed) levenscyclus.
@@ -33,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 05/28/2003
   endDate: 04/10/2007
-content: "\n## <a name=\"links\"></a>Koppelingen \n* [Bereid Windows Server 2003-machines voor op migratie](/azure/migrate/prepare-windows-server-2003-migration)\n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n* [Ondersteunde paden voor het upgraden van Windows Server 2003 naar Windows Server 2008](https://support.microsoft.com/help/951041/supported-paths-for-upgrading-from-windows-server-2003-to-windows-serv)\n\n> [!NOTE]\n> Itanium-gebaseerde systemen hebben een startdatum van 19 juni 2003.\n\n## <a name=\"editions\"></a>Edities \n* Datacenter (32-bits x86)\n* Datacenter (x64)\n* Datacenter voor op Itanium-gebaseerde systemen\n* Enterprise (32-bits x86)\n* Enterprise voor Itanium-gebaseerde systemen\n* Enterprise X64\n* Standaard (32-bits x86)\n* Web"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Ondersteunde paden voor het upgraden van Windows Server 2003 naar Windows Server 2008](https://support.microsoft.com/help/951041/supported-paths-for-upgrading-from-windows-server-2003-to-windows-serv)\n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n* [Bereid Windows Server 2003-machines voor op migratie](/azure/migrate/prepare-windows-server-2003-migration)\n\n> [!NOTE]\n> Itanium-gebaseerde systemen hebben een startdatum van 19 juni 2003.\n\n## <a name=\"editions\"></a>Edities \n* Datacenter (32-bits x86)\n* Datacenter (x64)\n* Datacenter voor op Itanium-gebaseerde systemen\n* Enterprise (32-bits x86)\n* Enterprise voor Itanium-gebaseerde systemen\n* Enterprise X64\n* Standaard (32-bits x86)\n* Web"

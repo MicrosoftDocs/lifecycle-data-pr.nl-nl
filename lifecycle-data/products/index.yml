@@ -1,11 +1,11 @@
 ### YamlMime:ContentBrowser
-title: Levenscyclusinformatie voor producten en services zoeken (preview)
+title: Zoeken in informatie over de levenscyclus voor producten en services
 browseType: lifecycle
-summary: "\n\n> [!IMPORTANT]\n> Deze pagina is in ontwikkeling en zal op 2 september volledig live gaan. In de tussentijd kunt u een volledige lijst van Microsoft-producten met hun ondersteuningstijdlijnen en nadere gegevens vinden op [aka.ms/lifecycle/search](https://aka.ms/lifecycle/search/).\n> [!NOTE]\n> Levenscyclusgegevens exporteren vanuit de pagina [Levenscyclus exporteren.](/lifecycle/export/products)\n\n\nMicrosoft Lifecycle biedt consistente en voorspelbare richtlijnen voor de ondersteuning gedurende de levensduur van het product. Hierdoor kunnen klanten hun IT-investeringen en -omgevingen beheren en tegelijkertijd strategische plannen maken voor de toekomst.\n\n\nZoek hieronder voor een lijst met commerciële producten en services van Microsoft. Selecteer uw zoekresultaat om de tijdlijnen voor ondersteuning en services, de vereiste updates, de migratiegegevens en de systeemvereisten weer te geven."
+summary: "\n> [!NOTE]\n> Levenscyclusgegevens exporteren vanuit de pagina [Levenscyclus exporteren.](/lifecycle/products/export)\n\n\nMicrosoft Lifecycle biedt consistente en voorspelbare richtlijnen voor de ondersteuning gedurende de levensduur van het product. Hierdoor kunnen klanten hun IT-investeringen en -omgevingen beheren en tegelijkertijd strategische plannen maken voor de toekomst.\n\n\nZoek hieronder voor een lijst met commerciële producten en services van Microsoft. Selecteer uw zoekresultaat om de tijdlijnen voor ondersteuning en services, de vereiste updates, de migratiegegevens en de systeemvereisten weer te geven."
 metadata:
-  ms.openlocfilehash: 5099408b03db5a7d520128dfd1da8271e4289aaa
-  ms.sourcegitcommit: 7479dd5eeb9cabdd9c8ad4f401261cbc4d7c6e27
+  ms.openlocfilehash: c874ff14f0c8c755cda09d9e1580e196ae601e7e
+  ms.sourcegitcommit: adca90be401b37b1ccfe6a6ce3fe265bd2e1f0de
   ms.translationtype: HT
   ms.contentlocale: nl-NL
-  ms.lasthandoff: 08/17/2020
-  ms.locfileid: "899834"
+  ms.lasthandoff: 09/02/2020
+  ms.locfileid: "943028"
