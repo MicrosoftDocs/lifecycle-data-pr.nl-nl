@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office 2016
-  description: Microsoft Office 2016 volgt het vaste levenscyclus beleid.
+  description: Microsoft Office 2016 volgt het vaste levenscyclusbeleid.
   ms.date: 09/01/2020
   keywords: Home and Business,Home and Student,Personal,Professional,Professional Plus,Standard
   ms.openlocfilehash: 7d2f310c7edad1f2fb5f6b6151add26c277c6ffe
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930486"
 name: Microsoft Office 2016
 summary: >+
-  Microsoft Office 2016 volgt het [vaste](/lifecycle/policies/fixed) levenscyclus beleid.
+  Microsoft Office 2016 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
-  Dit geldt voor de volgende edities: voor Thuisgebruik en zelfstandigen, voor Thuisgebruik en studenten, persoonlijk, professioneel, professioneel Plus, standaard
+  Dit geldt voor de volgende edities: Thuisgebruik en Zelfstandigen, Thuisgebruik en Studenten, Personal, Professional, Professional Plus, Standard
 
 products:
 - office

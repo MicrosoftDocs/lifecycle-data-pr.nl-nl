@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics C5 2010
-  description: Dynamics C5 2010 volgt het vaste levenscyclus beleid.
+  description: Dynamics C5 2010 volgt het vaste levenscyclusbeleid.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: f391af0a4393f73c8cdc73a17e71a011b8aaa7fc
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "932003"
 name: Dynamics C5 2010
 summary: >+
-  Dynamics C5 2010 volgt het [vaste](/lifecycle/policies/fixed) levenscyclus beleid.
+  Dynamics C5 2010 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
   Dit is van toepassing op de volgende edities: Standard
