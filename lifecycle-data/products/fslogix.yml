@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: FSLogix
-  description: FSLogix volgt het beleid voor moderne levenscyclus.
+  description: FSLogix volgt het moderne levenscyclusbeleid.
   ms.date: 07/28/2020
   ms.openlocfilehash: 22f58db08e156a88911a67899e81a054683a0d34
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "851824"
 name: FSLogix
 summary: >+
-  FSLogix volgt het [beleid voor moderne](/lifecycle/policies/modern) levenscyclus.
+  FXLogix volgt het [moderne](/lifecycle/policies/modern) levenscyclusbeleid.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 03/15/2016
   endDate: 09/01/2019
-content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [FSLogix downloaden en installeren](/fslogix/install-ht)\n* [Ondersteuning voor FSLogix](https://social.msdn.microsoft.com/Forums/14ea5f6f-760b-4ad2-83cf-23c3cbc1bcc4/how-to-open-a-fslogix-support-request?forum=FSLogix)\n\n> [!NOTE]\n> Ondersteuning voor dit product is onderworpen aan de voorwaarden van de overname."
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [FSLogix downloaden en installeren](/fslogix/install-ht)\n* [Ondersteuning voor FSLogix](https://social.msdn.microsoft.com/Forums/14ea5f6f-760b-4ad2-83cf-23c3cbc1bcc4/how-to-open-a-fslogix-support-request?forum=FSLogix)\n\n> [!NOTE]\n> Ondersteuning voor dit product is onderworpen aan de voorwaarden van zijn aanschaf."

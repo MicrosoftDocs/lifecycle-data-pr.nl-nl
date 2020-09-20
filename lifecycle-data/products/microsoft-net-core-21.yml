@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft .NET Core
-  description: Microsoft .NET Core volgt het beleid voor moderne levenscyclus.
+  description: Microsoft .NET Core volgt het moderne levenscyclusbeleid.
   ms.date: 07/28/2020
   ms.openlocfilehash: ec4cd98c7576838861d440b6f5c1856a1414d93f
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "851765"
 name: Microsoft .NET Core
 summary: >+
-  Microsoft .NET Core volgt het beleid voor [moderne](/lifecycle/policies/modern) levenscyclus.
+  Microsoft .NET Core volgt het [moderne](/lifecycle/policies/modern) levenscyclusbeleid.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 06/27/2016
-content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [.NET-roadmap](https://github.com/dotnet/core/blob/master/roadmap.md)\n* [Onderhoudsinformatie](https://github.com/dotnet/core/blob/master/microsoft-support.md)\n* [Veelgestelde vragen over levenscyclus - .NET Core](/lifecycle/faq/dotnet-core)"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [.NET roadmap](https://github.com/dotnet/core/blob/master/roadmap.md)\n* [Onderhoudsinformatie](https://github.com/dotnet/core/blob/master/microsoft-support.md)\n* [Veelgestelde vragen over levenscyclus - .NET Core](/lifecycle/faq/dotnet-core)"

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Visual Studio-hulpprogramma's voor de Versie 2003 van Microsoft Office System
-  description: Visual Studio-hulpprogramma's voor de Microsoft Office System-versie 2003 volgen het beleid voor vaste levenscyclus.
+  title: Visual Studio Tools voor het Microsoft Office-systeem versie 2003
+  description: Visual Studio Tools voor het Microsoft Office-systeem versie 2003 volgt het vaste levenscyclusbeleid.
   ms.date: 07/28/2020
   ms.openlocfilehash: b877fed2caa81c31462f70f8db36b2ea28ef67e5
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "811906"
-name: Visual Studio-hulpprogramma's voor de Versie 2003 van Microsoft Office System
+name: Visual Studio Tools voor het Microsoft Office-systeem versie 2003
 summary: >+
-  Visual Studio-hulpprogramma's voor de Microsoft Office System-versie 2003 volgen het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+  Visual Studio Tools voor het Microsoft Office-systeem versie 2003 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
 products:

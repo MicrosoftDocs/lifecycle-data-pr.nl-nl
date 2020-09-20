@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Office 365 (Enterprise, Overheid, Onderwijs)
-  description: Office 365 (Enterprise, Government, Education) volgt het beleid voor moderne levenscyclus.
+  title: Office 365 (Enterprise, Government, Education)
+  description: Office 365 (Enterprise, Government, Education) volgen het moderne levenscyclusbeleid.
   ms.date: 07/28/2020
   ms.openlocfilehash: 81c940fa031fd8eea9e3895d72c1a046af048638
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "851861"
-name: Office 365 (Enterprise, Overheid, Onderwijs)
+name: Office 365 (Enterprise, Government, Education)
 summary: >+
-  Office 365 (Enterprise, Government, Education) volgt het beleid [voor moderne](/lifecycle/policies/modern) levenscyclus.
+  Office 365 (Enterprise, Government, Education) volgt het [moderne](/lifecycle/policies/modern) levenscyclusbeleid.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 09/22/2015
-content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Systeemvereisten](https://products.office.com/office-system-requirements)\n* [Onderhoudsinformatie](https://technet.microsoft.com/library/mt584223.aspx)"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Systeemvereisten](https://products.office.com/office-system-requirements)\n* [Onderhoudsinformatie](https://technet.microsoft.com/library/mt584223.aspx)"
