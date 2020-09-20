@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics 365 Human Resources
-  description: Dynamics 365 Human Resources volgt het beleid voor moderne levenscyclus.
+  description: Dynamics 365 Human Resources volgt het moderne levenscyclusbeleid.
   ms.date: 07/28/2020
   ms.openlocfilehash: a7014b000d8d7613d8ca9eb2a2c3595083b9951c
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "868704"
 name: Dynamics 365 Human Resources
 summary: >+
-  Dynamics 365 Human Resources volgt het [beleid voor moderne](/lifecycle/policies/modern) levenscyclus.
+  Dynamics 365 Human Resources volgt het [moderne](/lifecycle/policies/modern) levenscyclusbeleid.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 03/27/2020
-content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Migratiebegeleiding](https://aka.ms/D365HRpost)\n\n> [!NOTE]\n> De Core HR-app (eerder inbegrepen bij Dynamics 365 Talent) is opnieuw gelanceerd als Dynamics 365 Human Resources."
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Richtlijnen voor migratie](https://aka.ms/D365HRpost)\n\n> [!NOTE]\n> De Core HR-app (eerder inbegrepen bij Dynamics 365 Talent) is opnieuw gelanceerd als Dynamics 365 Human Resources."
