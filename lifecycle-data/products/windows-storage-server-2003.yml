@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Storage Server 2003
-  description: Windows Storage Server 2003 volgt het beleid voor vaste levenscyclus.
+  description: Windows Storage Server 2003 volgt het vaste levenscyclusbeleid.
   ms.date: 07/28/2020
   ms.openlocfilehash: 065ac07411e0e7178b8eba5b5c8f11989dc654aa
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "811730"
 name: Windows Storage Server 2003
 summary: >
-  Windows Storage Server 2003 volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+  Windows Storage Server 2003 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
 
   > [!IMPORTANT]
 
-  > Ondersteuning voor dit product is beëindigd. Zie de migratiebegeleiding hieronder.
+  > De ondersteuning voor dit product is beëindigd. Zie hieronder de richtlijnen voor migratie.
 products:
 - windows
 policyType: fixed
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 05/05/2003
   endDate: 04/10/2007
-content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Overzicht van Windows Server-upgrades](/windows-server/upgrade/upgrade-overview)\n* [Aanvullende upgrade-informatie](/windows-server/get-started/installation-and-upgrade)"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Overzicht van de Windows Server-upgrades](/windows-server/upgrade/upgrade-overview)\n* [Aanvullende informatie over de upgrade](/windows-server/get-started/installation-and-upgrade)"

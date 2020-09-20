@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Forefront Security voor Sharepoint
-  description: Forefront Security for Sharepoint volgt het beleid voor vaste levenscyclus.
+  description: Forefront Security voor Sharepoint volgt het vaste levenscyclusbeleid.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9354e1b278472de171a03354657be0f4920d4b3c
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "812498"
 name: Forefront Security voor Sharepoint
 summary: >
-  Forefront Security for Sharepoint volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+  Forefront Security voor Sharepoint volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
 
   > [!IMPORTANT]
 
-  > Ondersteuning voor dit product is beëindigd.
+  > De ondersteuning voor dit product is beëindigd.
 products:
 - windows
 policyType: fixed

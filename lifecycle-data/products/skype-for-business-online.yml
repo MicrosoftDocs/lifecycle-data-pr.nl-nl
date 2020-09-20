@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Skype voor Bedrijven Online
-  description: Skype voor Bedrijven Online volgt het beleid voor moderne levenscyclus.
+  description: Skype voor Bedrijven Online volgt het moderne levenscyclusbeleid.
   ms.date: 07/28/2020
   ms.openlocfilehash: 68200f8b9758ff25b2515f027f39c91bddde4c7e
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "852039"
 name: Skype voor Bedrijven Online
 summary: >
-  Skype voor Bedrijven Online volgt het beleid voor [moderne](/lifecycle/policies/modern) levenscyclus.
+  Skype voor Bedrijven Online volgt het [moderne](/lifecycle/policies/modern) levenscyclusbeleid.
 
 
 
   > [!IMPORTANT]
 
-  > Deze dienst gaat op 31 juli 2021 met pensioen. Zie hieronder voor migratiebegeleiding.
+  > Deze service zal op 31 juli 2021 worden beëindigd. Zie hieronder de richtlijnen voor migratie.
 products:
 - office
 policyType: modern-online
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/01/2015
   endDate: 07/31/2021
-content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Migratiebegeleiding](/MicrosoftTeams/upgrade-start-here)"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Richtlijnen voor migratie](/MicrosoftTeams/upgrade-start-here)"

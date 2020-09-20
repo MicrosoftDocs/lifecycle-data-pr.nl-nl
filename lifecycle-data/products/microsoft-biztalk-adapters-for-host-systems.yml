@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft BizTalk-adapters voor hostsystemen
-  description: Microsoft BizTalk-adapters voor hostsystemen volgen het beleid voor vaste levenscyclus.
+  description: Microsoft BizTalk-adapters voor hostsystemen volgen het vaste levenscyclusbeleid.
   ms.date: 07/28/2020
   ms.openlocfilehash: 8511f6bc704fc691f71e2057ce4a72da3228f163
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "812444"
 name: Microsoft BizTalk-adapters voor hostsystemen
 summary: >+
-  Microsoft BizTalk-adapters voor hostsystemen volgen het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+  Microsoft BizTalk-adapters voor hostsystemen volgen het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 04/11/2017
-content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Migratiebegeleiding](https://blogs.msdn.microsoft.com/hostintegrationserver/2016/09/06/end-of-support-for-host-integration-server-2006)"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Richtlijnen voor migratie](https://blogs.msdn.microsoft.com/hostintegrationserver/2016/09/06/end-of-support-for-host-integration-server-2006)"

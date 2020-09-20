@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics Marketing
-  description: Dynamics Marketing volgt het modern lifecycle beleid.
+  description: Dynamics Marketing volgt het moderne levenscyclusbeleid.
   ms.date: 07/28/2020
   ms.openlocfilehash: 641933ec6025a979f820962706701c6034173ccb
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "852098"
 name: Dynamics Marketing
 summary: >+
-  Dynamics Marketing volgt het [modern](/lifecycle/policies/modern) lifecycle beleid.
+  Dynamics Marketing volgt het [moderne](/lifecycle/policies/modern) levenscyclusbeleid.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2014
   endDate: 05/15/2018
-content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Onderhoudsinformatie](https://cloudblogs.microsoft.com/dynamics365/bdm/2017/08/18/microsoft-dynamics-marketing-service-will-be-discontinued-and-learn-whats-coming-next/?source=crm)"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Onderhoudsinformatie](https://cloudblogs.microsoft.com/dynamics365/bdm/2017/08/18/microsoft-dynamics-marketing-service-will-be-discontinued-and-learn-whats-coming-next/?source=crm)"

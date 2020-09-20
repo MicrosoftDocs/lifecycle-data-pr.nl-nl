@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Defender voor Windows 10
-  description: Windows Defender voor Windows 10 volgt het beleid voor levenscyclus van componenten.
+  description: Windows Defender voor Windows 10 volgt het levenscyclusbeleid voor onderdelen.
   ms.date: 07/28/2020
   ms.openlocfilehash: 4bebd1c04c81844b3d0dde309f7fd75b1856fdf6
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "812276"
 name: Windows Defender voor Windows 10
 summary: >+
-  Windows Defender voor Windows 10 volgt het beleid voor levenscyclus [van componenten.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+  Windows Defender voor Windows 10 volgt het levenscyclusbeleid voor [onderdelen](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 07/29/2015
   endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Windows 10](/lifecycle/products/?terms=windows%2010)\n\n> [!NOTE]\n> Deze release staat bekend als een component die de levenscyclus van het bovenliggende product, Windows 10, volgt."
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Windows 10](/lifecycle/products/?terms=windows%2010)\n\n> [!NOTE]\n> Deze release staat bekend als een onderdeel dat de levenscyclus van het bovenliggende product, Windows 10, volgt."

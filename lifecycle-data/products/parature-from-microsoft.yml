@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Parature, van Microsoft
-  description: Parature, van Microsoft volgt het beleid voor moderne levenscyclus.
+  description: Parature, van Microsoft, volgt het moderne levenscyclusbeleid.
   ms.date: 07/28/2020
   ms.openlocfilehash: ec9af75ad6501403aa83c803d54630069c7b3f0a
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "851707"
 name: Parature, van Microsoft
 summary: >+
-  Parature, van Microsoft volgt het beleid voor [moderne](/lifecycle/policies/modern) levenscyclus.
+  Parature, van Microsoft, volgt het [moderne](/lifecycle/policies/modern) levenscyclusbeleid.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 01/01/2015
   endDate: 05/15/2018
-content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Aankondiging van ondersteuning beëindigen](https://support.microsoft.com/help/4035128)\n* [Parature migratieondersteuningsportaal](https://aka.ms/paraturecustomers)"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Aankondiging einde van de ondersteuning](https://support.microsoft.com/help/4035128)\n* [Parature migratie-ondersteuningsportal](https://aka.ms/paraturecustomers)"
