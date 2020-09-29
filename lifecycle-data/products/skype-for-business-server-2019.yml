@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Skype voor Bedrijven Server 2019
-  description: Skype voor Bedrijven Server 2019 volgt het beleid voor vaste levenscyclus.
+  title: Skype for Business Server 2019
+  description: Skype voor Bedrijven Server 2019 volgt het vaste levenscyclusbeleid.
   ms.date: 07/28/2020
   ms.openlocfilehash: 1e16227ae7297efb028f02ceb3ac8bfc11ce6864
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "868764"
-name: Skype voor Bedrijven Server 2019
+name: Skype for Business Server 2019
 summary: >+
-  Skype voor Bedrijven Server 2019 volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+  Skype voor Bedrijven Server 2019 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
 products:

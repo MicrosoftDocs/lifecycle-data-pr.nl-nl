@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Azure-servicestructuur
-  description: Azure Service Fabric volgt het beleid voor moderne levenscyclus.
+  title: Azure Service Fabric
+  description: Azure Service Fabric volgt het moderne levenscyclusbeleid.
   ms.date: 07/28/2020
   ms.openlocfilehash: 075ce98becd0ba968cec21bf37699b76f89062c6
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "851646"
-name: Azure-servicestructuur
+name: Azure Service Fabric
 summary: >+
-  Azure Service Fabric volgt het beleid voor [moderne](/lifecycle/policies/modern) levenscyclus.
+  Azure Service Fabric volgt het [moderne](/lifecycle/policies/modern) levenscyclusbeleid.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 09/26/2016
-content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Onderhoudsinformatie](/azure/service-fabric/service-fabric-support)\n* [Ondersteunde versies](/azure/service-fabric/service-fabric-versions)"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Onderhoudsinformatie](/azure/service-fabric/service-fabric-support)\n* [Ondersteunde versies](/azure/service-fabric/service-fabric-versions)"

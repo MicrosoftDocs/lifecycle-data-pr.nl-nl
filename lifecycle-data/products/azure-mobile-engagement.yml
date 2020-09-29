@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Azure Mobile-betrokkenheid
-  description: Azure Mobile Engagement volgt het beleid voor moderne levenscyclus.
+  title: Azure Mobile Engagement
+  description: Azure Mobile Engagement volgt het moderne levenscyclusbeleid.
   ms.date: 07/28/2020
   ms.openlocfilehash: 5b91321c749556c0bd13b700b1c8a1806e2a9bb5
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "851697"
-name: Azure Mobile-betrokkenheid
+name: Azure Mobile Engagement
 summary: >+
-  Azure Mobile Engagement volgt het beleid voor [moderne](/lifecycle/policies/modern) levenscyclus.
+  Azure Mobile Engagement volgt het [moderne](/lifecycle/policies/modern) levenscyclusbeleid.
 
 
 products:

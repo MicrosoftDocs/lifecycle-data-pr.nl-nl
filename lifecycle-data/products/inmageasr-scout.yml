@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: InMage Scout in Azure Site Recovery
-  description: InMage Scout in Azure Site Recovery volgt het beleid voor moderne levenscyclus.
+  description: InMage Scout in Azure Site Recovery volgt het moderne levenscyclusbeleid.
   ms.date: 07/28/2020
   ms.openlocfilehash: e7dc0cfa718919e8546b0d28c28ff8c0d3347d3b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "851809"
 name: InMage Scout in Azure Site Recovery
 summary: >+
-  InMage Scout in Azure Site Recovery volgt het beleid voor [moderne](/lifecycle/policies/modern) levenscyclus.
+  InMage Scout in Azure Site Recovery volgt het [moderne](/lifecycle/policies/modern) levenscyclusbeleid.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 08/01/2014
   endDate: 12/31/2020
-content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Migratiebegeleiding](https://aka.ms/asr-scout-doc)"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Richtlijnen voor migratie](https://aka.ms/asr-scout-doc)"

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Outlook 2019 voor Mac
-  description: Outlook 2019 voor Mac volgt het beleid voor vaste levenscyclus.
+  description: Outlook 2019 voor Mac volgt het vaste levenscyclusbeleid.
   ms.date: 07/28/2020
   ms.openlocfilehash: 006aa458fb550f820a351c1bf093611c95d2d7c4
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "868792"
 name: Outlook 2019 voor Mac
 summary: >+
-  Outlook 2019 voor Mac volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+  Outlook 2019 voor Mac volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
 products:
