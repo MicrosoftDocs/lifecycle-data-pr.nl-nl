@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics Mobile Development Tools
-  description: Dynamics Mobile Development Tools volgt het componentlevenscyclusbeleid.
+  title: Dynamics Mobile Ontwikkelprogramma's
+  description: Dynamics Mobile Ontwikkelprogramma's volgt het levenscyclusbeleid voor onderdelen.
   ms.date: 07/28/2020
   ms.openlocfilehash: eacb8775d2e07be3c802073e4006099af4089699
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "812091"
-name: Dynamics Mobile Development Tools
+name: Dynamics Mobile Ontwikkelprogramma's
 summary: >+
-  Dynamics Mobile Development [Component](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) Tools volgt het componentlevenscyclusbeleid.
+  Dynamics Mobile Ontwikkelprogramma's volgt het levenscyclusbeleid voor [onderdelen](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: BizTalk Adapter voor MQSeries 2005
-  description: BizTalk Adapter voor MQSeries 2005 volgt het beleid voor vaste levenscyclus.
+  title: BizTalk Adapter for MQSeries 2005
+  description: BizTalk Adapter for MQSeries 2005 volgt het vaste levenscyclusbeleid.
   ms.date: 07/28/2020
   ms.openlocfilehash: b38f030ecd18a0709313dc96f4237852115cc896
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "812668"
-name: BizTalk Adapter voor MQSeries 2005
+name: BizTalk Adapter for MQSeries 2005
 summary: >+
-  BizTalk Adapter voor MQSeries 2005 volgt het [beleid voor vaste](/lifecycle/policies/fixed) levenscyclus.
+  BizTalk Adapter for MQSeries 2005 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
 products:

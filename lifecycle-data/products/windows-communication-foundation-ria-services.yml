@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Communication Foundation RIA-services
-  description: Windows Communication Foundation RIA Services volgt het beleid voor vaste levenscyclus.
+  title: Windows Communication Foundation RIA Services
+  description: Windows Communication Foundation RIA Services volgt het vaste levenscyclusbeleid.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3876aae1488148f489c9c4c46dfd24bb89fd9480
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "811744"
-name: Windows Communication Foundation RIA-services
+name: Windows Communication Foundation RIA Services
 summary: >+
-  Windows Communication Foundation RIA Services volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+  Windows Communication Foundation RIA Services volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
 products:

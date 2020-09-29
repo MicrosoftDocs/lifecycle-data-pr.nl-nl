@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics C5 2008
-  description: Dynamics C5 2008 volgt het beleid voor vaste levenscyclus.
+  description: Dynamics C5 2008 volgt het vaste levenscyclusbeleid.
   ms.date: 07/28/2020
   ms.openlocfilehash: fa21ee533af7b18e203b20be31a3cf453418a9ef
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "811834"
 name: Dynamics C5 2008
 summary: >+
-  Dynamics C5 2008 volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+  Dynamics C5 2008 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
 products:
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 12/01/2007
   endDate: 01/11/2011
-content: "\n## <a name=\"links\"></a>Verwijzigingen \n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)"

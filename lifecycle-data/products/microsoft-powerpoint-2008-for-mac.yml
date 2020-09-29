@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft PowerPoint 2008 voor Mac
-  description: Microsoft PowerPoint 2008 voor Mac volgt het beleid voor een vaste levenscyclus.
+  description: Microsoft PowerPoint 2008 voor Mac volgt het vaste levenscyclusbeleid.
   ms.date: 07/28/2020
   ms.openlocfilehash: d562e552415d34d4ae5bdc7e18e9656925cbb705
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "811948"
 name: Microsoft PowerPoint 2008 voor Mac
 summary: >+
-  Microsoft PowerPoint 2008 voor Mac volgt het beleid [voor een vaste](/lifecycle/policies/fixed) levenscyclus.
+  Microsoft PowerPoint 2008 voor Mac volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
 products:

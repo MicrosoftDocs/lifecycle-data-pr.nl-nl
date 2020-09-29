@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Forefront Server-beveiligingsbeheerconsole
-  description: Microsoft Forefront Server Security Management Console volgt het beleid voor vaste levenscyclus.
+  title: Microsoft Forefront Server Security Management Console
+  description: Microsoft Forefront Server Security Management Console volgt het vaste levenscyclusbeleid.
   ms.date: 07/28/2020
   ms.openlocfilehash: 79937f95580b655b318e965e2ef659931323ff8d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "812390"
-name: Microsoft Forefront Server-beveiligingsbeheerconsole
+name: Microsoft Forefront Server Security Management Console
 summary: >+
-  Microsoft Forefront Server Security Management Console volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+  Microsoft Forefront Server Security Management Console volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
 products:

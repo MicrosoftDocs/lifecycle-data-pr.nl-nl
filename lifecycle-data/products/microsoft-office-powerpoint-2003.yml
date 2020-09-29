@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office PowerPoint 2003
-  description: Microsoft Office PowerPoint 2003 volgt het beleid voor vaste levenscyclus.
+  description: Microsoft Office PowerPoint 2003 volgt het vaste levenscyclusbeleid.
   ms.date: 07/28/2020
   ms.openlocfilehash: b6c746fda289537dcd84d98fc2d94564ae753ee0
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "812716"
 name: Microsoft Office PowerPoint 2003
 summary: >+
-  Microsoft Office PowerPoint 2003 volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+  Microsoft Office PowerPoint 2003 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
 products:

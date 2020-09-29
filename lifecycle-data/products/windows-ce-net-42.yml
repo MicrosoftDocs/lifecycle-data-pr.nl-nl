@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows CE .NET 4.2
-  description: Windows CE .NET 4.2 volgt het beleid voor vaste levenscyclus.
+  description: Windows CE .NET 4.2 volgt het vaste levenscyclusbeleid.
   ms.date: 07/28/2020
   ms.openlocfilehash: dbd86942458df27fd56cf1b799feaff49c954e5d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "811734"
 name: Windows CE .NET 4.2
 summary: >
-  Windows CE .NET 4.2 volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+  Windows CE .NET 4.2 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
 
   > [!IMPORTANT]
 
-  > Ondersteuning voor dit product is beëindigd.
+  > De ondersteuning voor dit product is beëindigd.
 products:
 - windows
 policyType: fixed
