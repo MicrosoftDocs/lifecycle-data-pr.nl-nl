@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Web Server 2008
-  description: Windows Web Server 2008 volgt het beleid voor de vaste levenscyclus.
+  description: Windows Web Server 2008 volgt het vaste levenscyclusbeleid.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 09e6cfcf06699c4c2c31c43a04906c7f6b543979
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938885"
 name: Windows Web Server 2008
 summary: >+
-  Windows Web Server 2008 volgt het beleid voor de [vaste](/lifecycle/policies/fixed) levenscyclus.
+  Windows Web Server 2008 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
-  Dit is van toepassing op de volgende edities: Standard
+  Dit geldt voor de volgende edities: Standaard
 
 products:
 - windows
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 05/06/2008
   endDate: 07/10/2018
-content: "\n\n> [!NOTE]\n> Per Windows Server 2008 Service Pack 2 heeft dit product einde van de ondersteuning voor 14 januari 2020 bereikt.\n\n## <a name=\"editions\"></a>Edities \n* Standard"
+content: "\n\n> [!NOTE]\n> Net als voor Windows Server 2008 Service Pack 2, is voor dit product de ondersteuning op 14 januari 2020 beëindigd.\n\n## <a name=\"editions\"></a>Edities \n* Standard"

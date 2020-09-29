@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: SharePoint Server 2016
-  description: SharePoint Server 2016 volgt het vaste levenscyclus beleid.
+  description: SharePoint Server 2016 volgt het vaste levenscyclusbeleid.
   ms.date: 09/01/2020
   keywords: ''
   ms.openlocfilehash: 14f1c2b997bd6d39354b686f28c341218d41abc5
   ms.sourcegitcommit: 37b80a1b6fcda4dc6147d99a362a75b884d08a51
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 09/02/2020
   ms.locfileid: "941719"
 name: SharePoint Server 2016
 summary: >+
-  SharePoint Server 2016 volgt het [vaste](/lifecycle/policies/fixed) levenscyclus beleid.
+  SharePoint Server 2016 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
 products:
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 05/01/2016
   endDate: 07/14/2026
-content: "\n## <a name=\"links\"></a>Koppelingen \n* [Onderhoudsgegevens](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)\n\n> [!NOTE]\n> Zie documentatie voor [product](https://docs.microsoft.com/sharepoint/sharepoint-server) en [ontwikkelaars](https://developer.microsoft.com/sharepoint/docs)"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Onderhoudsgegevens](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)\n\n> [!NOTE]\n> Raadpleeg de [product-](https://docs.microsoft.com/sharepoint/sharepoint-server) en [ontwikkelaars](https://developer.microsoft.com/sharepoint/docs) documentatie."
