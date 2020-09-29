@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Hyper-V-server 2012
-  description: Hyper-V Server 2012 volgt het beleid voor vaste levenscyclus.
+  title: Hyper-V Server 2012
+  description: Hyper-V Server 2012 volgt het vaste levenscyclusbeleid.
   ms.date: 07/28/2020
   ms.openlocfilehash: eebd886dc19d95e127d205e34a4afc89ccbb9500
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "851811"
-name: Hyper-V-server 2012
+name: Hyper-V Server 2012
 summary: >+
-  Hyper-V Server 2012 volgt het beleid [voor vaste](/lifecycle/policies/fixed) levenscyclus.
+  Hyper-V Server 2012 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
 products:
