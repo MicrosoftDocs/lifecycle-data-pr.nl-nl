@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Outlook 2016
-  description: Outlook 2016 volgt het vaste levenscyclus beleid.
+  description: Outlook 2016 volgt het vaste levenscyclusbeleid.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 1994b8231e5d8c0b6134a3872d532ca176c27e6b
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938108"
 name: Outlook 2016
 summary: >+
-  Outlook 2016 volgt het [vaste](/lifecycle/policies/fixed) levenscyclus beleid.
+  Outlook 2016 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
   Dit is van toepassing op de volgende edities: Standard
