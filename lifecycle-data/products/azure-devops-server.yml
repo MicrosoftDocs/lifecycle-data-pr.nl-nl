@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Azure DevOps server
-  description: Azure DevOps Server volgt het vaste levenscyclus beleid.
+  title: Azure DevOps Server
+  description: Azure DevOps Server volgt het vaste levenscyclusbeleid.
   ms.date: 08/27/2020
   ms.openlocfilehash: 8b92f5abaadb0973aa3b220683011ec4a9b03fb2
   ms.sourcegitcommit: 0adb28bbd953e938286d5b8fb03cab57a2d18b3b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 08/27/2020
   ms.locfileid: "922954"
-name: Azure DevOps server
+name: Azure DevOps Server
 summary: >+
-  Azure DevOps Server volgt het [vaste](/lifecycle/policies/fixed) levenscyclus beleid.
+  Azure DevOps Server volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
 products:
