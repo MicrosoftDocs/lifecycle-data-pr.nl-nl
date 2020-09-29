@@ -1,24 +1,24 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Endpoint Configuration Manager
-  description: Microsoft endpoint Configuration Manager volgt het moderne levenscyclus beleid.
+  description: Microsoft Endpoint Configuration Manager volgt het moderne levenscyclusbeleid.
   ms.date: 09/01/2020
   keywords: SCCM,System Center Configuration Manager
   ms.openlocfilehash: fa325717dae54209b97245681c1e0292890ba952
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "934038"
 name: Microsoft Endpoint Configuration Manager
 summary: >
-  Microsoft endpoint Configuration Manager volgt het [moderne](/lifecycle/policies/modern) levenscyclus beleid.
+  Microsoft Endpoint Configuration Manager volgt het [moderne](/lifecycle/policies/modern) levenscyclusbeleid.
 
 
 
   > [!IMPORTANT]
 
-  > Vanaf versie 1910 maakt de configuratie manager nu deel uit van Microsoft Endpoint Manager.
+  > Vanaf versie 1910 maakt Configuration Manager deel uit van Microsoft Endpoint Manager.
 products:
 - m365
 policyType: modern-on-prem
@@ -70,4 +70,4 @@ releases:
 - version: Version 1511
   startDate: 12/08/2015
   endDate: 12/08/2016
-content: "\n## <a name=\"links\"></a>Koppelingen \n* [Onderhoudsinformatie](/mem/configmgr/core/servers/manage/current-branch-versions-supported)\n* [Versie Details](/mem/configmgr/core/servers/manage/updates#version-details)\n* [System Center Configuration Manager is nu Microsoft endpoint Configuration Manager](/mem/configmgr/core/understand/microsoft-endpoint-manager-faq)\n* [Historische versies](/mem/configmgr/core/servers/manage/updates#historical-versions)\n* [Wat is Configuratiebeheer](/mem/configmgr/core/understand/introduction)"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Onderhoudsinformatie](/mem/configmgr/core/servers/manage/current-branch-versions-supported)\n* [Versiegegevens](/mem/configmgr/core/servers/manage/updates#version-details)\n* [System Center Configuration Manager is nu Microsoft Endpoint Configuration Manager](/mem/configmgr/core/understand/microsoft-endpoint-manager-faq)\n* [Historische versies](/mem/configmgr/core/servers/manage/updates#historical-versions)\n* [Wat is Configuration Manager?](/mem/configmgr/core/understand/introduction)"
