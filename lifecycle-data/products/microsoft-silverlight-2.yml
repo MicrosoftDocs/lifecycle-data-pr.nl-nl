@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Silverlight 2
-  description: Microsoft Silverlight 2 volgt het vaste levenscyclus beleid.
+  description: Microsoft Silverlight 2 volgt het vaste levenscyclusbeleid.
   ms.date: 08/19/2020
   ms.openlocfilehash: 618979f69c809bc5e02dc991417fa3162f59279a
   ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nl-NL
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "903997"
 name: Microsoft Silverlight 2
 summary: >+
-  Microsoft Silverlight 2 volgt het [vaste](/lifecycle/policies/fixed) levenscyclus beleid.
+  Microsoft Silverlight 2 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 10/10/2008
   endDate: 10/12/2010
-content: "\n\n> [!NOTE]\n> Ondersteuning voor hulpmiddelen eindigt niet minder dan 12 maanden na de meldings datum."
+content: "\n\n> [!NOTE]\n> Ondersteuning voor de hulpprogramma's wordt op zijn vroegst 12 maanden na de datum van kennisgeving beëindigd."
