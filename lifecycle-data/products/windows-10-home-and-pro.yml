@@ -2,14 +2,14 @@
 metadata:
   title: Windows 10 Home en Pro
   description: Windows 10 Home en Pro volgt het moderne levenscyclusbeleid.
-  ms.date: 09/22/2020
+  ms.date: 10/09/2020
   keywords: 
-  ms.openlocfilehash: afe3de560cc371fc307d5e1e7f831e301c3ce99f
-  ms.sourcegitcommit: 528043c09bc83880f3c1dcc3f976c4241e9ec4b7
+  ms.openlocfilehash: 095634809dda7456b4aa5cae512bbfef43253f87
+  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
   ms.translationtype: HT
   ms.contentlocale: nl-NL
-  ms.lasthandoff: 09/22/2020
-  ms.locfileid: "1026880"
+  ms.lasthandoff: 10/20/2020
+  ms.locfileid: "1162476"
 name: Windows 10 Home en Pro
 summary: >
   Windows 10 Home en Pro volgt het [moderne](/lifecycle/policies/modern) levenscyclusbeleid.
@@ -28,6 +28,9 @@ supportDates:
   start: 07/29/2015
   end: 10/14/2025
 releases:
+- version: Version 20H2
+  startDate: 10/20/2020
+  endDate: 05/10/2022
 - version: Version 2004
   startDate: 05/27/2020
   endDate: 12/14/2021
@@ -58,4 +61,4 @@ releases:
 - version: Version 1507
   startDate: 07/29/2015
   endDate: 05/09/2017
-content: "\n## <a name=\"links\"></a>Koppelingen \n* [Windows als een service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Factsheet levenscyclus van Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Veelgestelde vragen over de levenscyclus - Windows-producten](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Pro for Workstations werd voor het eerst uitgebracht met versie 1709.\n> [!NOTE]\n> Tenzij uitgesteld, kunnen verdere functie-updates van Windows 10 Semi-Annual-kanaal geïnstalleerd worden vóór de vermelde einddatum van de basisondersteuning.\n\n## <a name=\"editions\"></a>Edities \n* Home\n* Pro\n* Pro Education\n* Pro voor Workstations"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Windows als een service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Veelgestelde vragen over de levenscyclus - Windows-producten](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Pro for Workstations werd voor het eerst uitgebracht met versie 1709.\n> [!NOTE]\n> Tenzij uitgesteld, kunnen verdere functie-updates van Windows 10 Semi-Annual-kanaal geïnstalleerd worden vóór de vermelde einddatum van de basisondersteuning.\n\n## <a name=\"editions\"></a>Edities \n* Home\n* Pro\n* Pro Education\n* Pro voor Workstations"
