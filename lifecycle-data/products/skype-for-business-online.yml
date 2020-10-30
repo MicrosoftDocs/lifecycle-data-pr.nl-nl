@@ -2,13 +2,14 @@
 metadata:
   title: Skype voor Bedrijven Online
   description: Skype voor Bedrijven Online volgt het moderne levenscyclusbeleid.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 68200f8b9758ff25b2515f027f39c91bddde4c7e
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/16/2020
+  keywords: ''
+  ms.openlocfilehash: bf59d0a69fe09d791e95560ef3c69de86814a9fd
+  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
   ms.translationtype: HT
   ms.contentlocale: nl-NL
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "852039"
+  ms.lasthandoff: 10/20/2020
+  ms.locfileid: "1162180"
 name: Skype voor Bedrijven Online
 summary: >
   Skype voor Bedrijven Online volgt het [moderne](/lifecycle/policies/modern) levenscyclusbeleid.
@@ -17,7 +18,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Deze service zal op 31 juli 2021 worden beëindigd. Zie hieronder de richtlijnen voor migratie.
+  > Deze service zal op 31 juli 2021 worden beëindigd. Zie hieronder de richtlijnen voor migratie. Klik [hier](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/changes-ahead-for-cloud-connector-edition-and-hybrid-voice/ba-p/1650055) voor meer informatie over de impact op hybride spraak-implementaties.
 products:
 - office
 policyType: modern-online

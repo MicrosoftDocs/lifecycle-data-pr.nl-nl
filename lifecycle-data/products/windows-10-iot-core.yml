@@ -2,14 +2,14 @@
 metadata:
   title: Windows 10 IoT Core
   description: Windows 10 IoT Core volgt het moderne levenscyclusbeleid.
-  ms.date: 09/08/2020
-  keywords: ''
-  ms.openlocfilehash: 61de53b89d60be7cc06f265b571b5769f8053350
-  ms.sourcegitcommit: 6d5e18e0097383b5852f122a79a7dc045e1d0d8f
+  ms.date: 10/16/2020
+  keywords: 
+  ms.openlocfilehash: 3893a58a054c3596d50f70244fe96b3bb5659df9
+  ms.sourcegitcommit: 3e26c892fea0b6f55cd4d050f1454019e9125ef9
   ms.translationtype: HT
   ms.contentlocale: nl-NL
-  ms.lasthandoff: 09/08/2020
-  ms.locfileid: "983705"
+  ms.lasthandoff: 10/17/2020
+  ms.locfileid: "1158104"
 name: Windows 10 IoT Core
 summary: >
   Windows 10 IoT Core volgt het [moderne](/lifecycle/policies/modern) levenscyclusbeleid.
@@ -18,7 +18,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Microsoft blijft ten minste één Windows 10 Semi-Annual-kanaal ondersteunen tot 14 oktober 2025.
+  > Dit product vervalt op 10 november 2020. Om ondersteund te blijven migreert u naar IoT Core Services.
 products:
 - windows
 policyType: modern-on-prem
@@ -41,4 +41,4 @@ releases:
 - version: Version 1607
   startDate: 08/02/2016
   endDate: 04/10/2018
-content: "\n## <a name=\"links\"></a>Koppelingen \n* [Productgegevens](/windows/iot-core/windows-iot-core)\n* [Factsheet levenscyclus van Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows als een service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Veelgestelde vragen over de levenscyclus - Windows-producten](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Tenzij uitgesteld, kunnen verdere functie-updates van Windows 10 Semi-Annual-kanaal geïnstalleerd worden vóór de vermelde einddatum van de basisondersteuning."
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Veelgestelde vragen over de levenscyclus - Windows-producten](/lifecycle/faq/windows)\n* [Factsheet levenscyclus van Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows als een service (WaaS)](/windows/deployment/update/waas-quick-start)"
