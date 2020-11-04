@@ -1,0 +1,26 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Cloud voor gezondheidszorg
+  description: Microsoft Cloud voor de gezondheidszorg volgt het moderne levenscyclusbeleid.
+  ms.date: 10/28/2020
+  keywords: 
+  ms.openlocfilehash: 6c983fc065824794748a01a129446703df3ec1d5
+  ms.sourcegitcommit: 2056a8a3f9a36793142bc03850e39d5751d9dad3
+  ms.translationtype: HT
+  ms.contentlocale: nl-NL
+  ms.lasthandoff: 10/29/2020
+  ms.locfileid: "1193426"
+name: Microsoft Cloud voor gezondheidszorg
+summary: >+
+  Microsoft Cloud voor gezondheidszorg volgt het [moderne](/lifecycle/policies/modern) levenscyclusbeleid.
+
+
+products:
+- dynamics
+policyType: modern-online
+supportDates:
+  start: 10/28/2020
+releases:
+- version: Original Release
+  startDate: 10/28/2020
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Meer informatie over Microsoft Cloud voor gezondheidszorg](https://www.microsoft.com/industry/health/microsoft-cloud-for-healthcare)\n* [Aan de slag met Microsoft Cloud voor gezondheidszorg](/dynamics365/industry/healthcare/overview)"
