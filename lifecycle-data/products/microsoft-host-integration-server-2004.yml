@@ -11,7 +11,7 @@ metadata:
   ms.lasthandoff: 09/10/2020
   ms.locfileid: "1001865"
 name: Microsoft Host Integration Server 2004
-summary: "Microsoft Host Integration Server 2004 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.\n\nDit geldt voor de volgende edities: Developer, Enterprise, Standard\n\n> [!IMPORTANT]\n> De ondersteuning voor dit product is beëindigd. \n"
+summary: "Microsoft Host Integration Server 2004 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.\n\nDit geldt voor de volgende edities: Developer, Enterprise, Standaard\n\n> [!IMPORTANT]\n> De ondersteuning voor dit product is beëindigd. \n"
 products:
 - microsoft-servers
 policyType: fixed
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2004
   endDate: 07/14/2008
-content: "\n## <a name=\"links\"></a>Koppelingen \n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edities \n* Developer\n* Enterprise\n* Standard"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edities \n* Developer\n* Enterprise\n* Standaard"

@@ -11,7 +11,7 @@ metadata:
   ms.lasthandoff: 09/10/2020
   ms.locfileid: "1001763"
 name: Microsoft Office Communications Server 2007 R2
-summary: "Microsoft Office Communications Server 2007 R2 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.\n\nDit is van toepassing op de volgende edities: Alles waarop dit van toepassing is, Enterprise, XMPP-gateway\n\n> [!IMPORTANT]\n> De ondersteuning voor dit product is beëindigd. Raadpleeg de richtlijnen voor migratie. \n"
+summary: "Microsoft Office Communications Server 2007 R2 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.\n\nDit is van toepassing op de volgende edities: Alle toepasselijke, Enterprise, XMPP-gateway\n\n> [!IMPORTANT]\n> De ondersteuning voor dit product is beëindigd. Raadpleeg de richtlijnen voor migratie. \n"
 products:
 - office
 policyType: fixed
@@ -23,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 09/28/2009
   endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Koppelingen \n* [Richtlijnen voor migratie](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n> [!NOTE]\n> XMPP-gateway uitgebracht op 28-9-2009.\n\n## <a name=\"editions\"></a>Edities \n* Alles wat van toepassing is\n* Enterprise\n* XMPP-gateway"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Richtlijnen voor migratie](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n> [!NOTE]\n> XMPP-gateway uitgebracht op 28-9-2009.\n\n## <a name=\"editions\"></a>Edities \n* Alle toepasselijke\n* Enterprise\n* XMPP-gateway"

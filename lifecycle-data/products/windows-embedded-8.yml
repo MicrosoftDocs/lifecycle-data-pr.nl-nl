@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Koppelingen \n* [Veelgestelde vragen over de levenscyclus - Windows-producten](/lifecycle/faq/windows)\n* [Windows Embedded 8.1](/lifecycle/products/windows-embedded-81-pro?branch=live)\n\n> [!NOTE]\n> Klanten moeten naar Windows Emdedded 8.1 migreren om ondersteund te blijven.\n\n## <a name=\"editions\"></a>Edities \n* Pro\n* Standard"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Veelgestelde vragen over de levenscyclus - Windows-producten](/lifecycle/faq/windows)\n* [Windows Embedded 8.1](/lifecycle/products/windows-embedded-81-pro?branch=live)\n\n> [!NOTE]\n> Klanten moeten naar Windows Embedded 8.1 migreren om ondersteund te blijven.\n\n## <a name=\"editions\"></a>Edities \n* Pro\n* Standaard"

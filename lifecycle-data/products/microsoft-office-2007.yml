@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office 2007
-  description: Microsoft Office 2007 volgt het beleid voor de vaste levenscyclus.
+  description: Microsoft Office 2007 volgt het vaste levenscyclusbeleid.
   ms.date: 09/01/2020
   keywords: Basic,Enterprise,Home and Student,Multi Language Pack,Professional,Professional Plus,Small Business,Standard,Ultimate
   ms.openlocfilehash: 9ae47c5cee79a22aa61684c3dc132896aeacfc01
@@ -12,7 +12,7 @@ metadata:
   ms.locfileid: "936776"
 name: Microsoft Office 2007
 summary: >+
-  Microsoft Office 2007 volgt het beleid voor de [vaste](/lifecycle/policies/fixed) levenscyclus.
+  Microsoft Office 2007 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
   Dit is van toepassing op de volgende edities: Basic, Enterprise, Thuisgebruik en Studenten, Multi-Language Pack, Professional, Professional Plus, Kleine Bedrijven, Standaard, Ultimate
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Koppelingen \n* [Richtlijnen voor migratie](https://support.microsoft.com/kb/3198497)\n\n\n## <a name=\"editions\"></a>Edities \n* Basic\n* Enterprise\n* Thuisgebruik en Studenten\n* Multi-Language Pack\n* Professional\n* Professional Plus\n* Small Business\n* Standard\n* Ultimate"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Richtlijnen voor migratie](https://support.microsoft.com/kb/3198497)\n\n\n## <a name=\"editions\"></a>Edities \n* Basic\n* Enterprise\n* Thuisgebruik en Studenten\n* Multi-Language Pack\n* Professional\n* Professional Plus\n* Kleine Bedrijven\n* Standaard\n* Ultimate"

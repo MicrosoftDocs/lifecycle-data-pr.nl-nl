@@ -15,7 +15,7 @@ summary: >
   Windows Mobile 2003 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
-  Dit geldt voor de volgende edities: voor Pocket PC, voor smartphones, Tweede editie-software voor Pocket PC Phone, Tweede editie-software voor smartphone
+  Dit geldt voor de volgende edities: voor Pocket PC, voor Smartphones, Tweede editie software voor Pocket PC Phone, Tweede editie software voor Smartphone
 
 
   > [!IMPORTANT]
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 05/31/2004
   endDate: 07/08/2014
-content: "\n\n\n## <a name=\"editions\"></a>Edities \n* voor Pocket PC\n* voor smartphones\n* Tweede editie-software voor Pocket PC Phone\n* Tweede editie-software voor Smartphone"
+content: "\n\n\n## <a name=\"editions\"></a>Edities \n* voor Pocket PC\n* voor Smartphones\n* Tweede editie software voor Pocket PC Phone\n* Tweede editie software voor Smartphone"

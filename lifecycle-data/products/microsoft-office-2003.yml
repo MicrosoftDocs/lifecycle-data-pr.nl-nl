@@ -15,7 +15,7 @@ summary: >+
   Microsoft Office 2003 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
-  Dit is van toepassing op de volgende edities: Basic, Professional, Professional Enterprise, Professionals en Kleine Bedrijven, Standard, Student en Teacher, Web Components
+  Dit is van toepassing op de volgende edities: Basic, Professional, Professional Enterprise, Professionals en Kleine Bedrijven, Standaard, Student en Teacher, Web Components
 
 products:
 - office
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 11/17/2003
   endDate: 07/27/2005
-content: "\n## <a name=\"links\"></a>Koppelingen \n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edities \n* Basic\n* Professional\n* Professional Enterprise\n* Small Business\n* Standard\n* Student en Teacher\n* Web Components"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edities \n* Basic\n* Professional\n* Professional Enterprise\n* Kleine Bedrijven\n* Standaard\n* Student en Teacher\n* Web Components"
