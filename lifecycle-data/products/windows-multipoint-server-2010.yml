@@ -15,7 +15,7 @@ summary: >+
   Windows MultiPoint Server 2010 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
-  Dit geldt voor de volgende edities: Academic, Standard
+  Dit geldt voor de volgende edities: Academic, Standaard
 
 products:
 - windows
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/13/2010
   endDate: 07/14/2020
-content: "\n## <a name=\"links\"></a>Koppelingen \n* [Richtlijnen voor migratie](https://aka.ms/AA1ovn4)\n* [Aanvullende migratierichtlijnen](/windows-server/get-started/installation-and-upgrade)\n* [Productgegevens](/windows-server/remote/multipoint-services/getting-started-with-multipoint-services)\n\n\n## <a name=\"editions\"></a>Edities \n* Academic\n* Standard"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Richtlijnen voor migratie](https://aka.ms/AA1ovn4)\n* [Aanvullende richtlijnen voor migratie](/windows-server/get-started/installation-and-upgrade)\n* [Productgegevens](/windows-server/remote/multipoint-services/getting-started-with-multipoint-services)\n\n\n## <a name=\"editions\"></a>Edities \n* Academic\n* Standaard"
