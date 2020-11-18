@@ -15,7 +15,7 @@ summary: >+
   Visual Studio Team Foundation Server 2010 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
-  Dit geldt voor de volgende edities: Allemaal van toepassing, Externe connector
+  Dit geldt voor de volgende edities: Alle toepasselijke, Externe connector
 
 products:
 - vs
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Koppelingen \n* [Richtlijnen voor migratie](/azure/devops/server/upgrade/get-started?view=azure-devops)\n* [Azure Dev Ops](https://azure.microsoft.com/services/devops/migrate/)\n\n\n## <a name=\"editions\"></a>Edities \n* Alles wat van toepassing is\n* Externe connector"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Richtlijnen voor migratie](/azure/devops/server/upgrade/get-started?view=azure-devops)\n* [Azure Dev Ops](https://azure.microsoft.com/services/devops/migrate/)\n\n\n## <a name=\"editions\"></a>Edities \n* Alle toepasselijke\n* Externe connector"

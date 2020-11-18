@@ -15,7 +15,7 @@ summary: >+
   Microsoft System Center Mobile Device Manager 2008 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
-  Dit geldt voor de volgende edities: Allemaal van toepassing, wSQL
+  Dit geldt voor de volgende edities: Alle toepasselijke, wSQL
 
 products:
 - msc
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 05/14/2008
   endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>Koppelingen \n* [Richtlijnen voor migratie](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edities \n* Alles wat van toepassing is\n* wSQL"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Richtlijnen voor migratie](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edities \n* Alle toepasselijke\n* wSQL"

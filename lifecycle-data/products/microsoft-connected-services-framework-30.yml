@@ -15,7 +15,7 @@ summary: >+
   Microsoft Connected Services Framework 3.0 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
-  Dit is van toepassing op de volgende edities: Billing Standard Business Event, Order Handling Standard Business Event, Server, Standard, Standard Server with Standard Business Events
+  Dit is van toepassing op de volgende edities: Billing Standard Business Event, Order Handling Standard Business Event, Server, Standaard, Standard Server with Standard Business Events
 
 products:
 - connected-services-framework
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 06/30/2006
   endDate: 07/12/2016
-content: "\n\n\n## <a name=\"editions\"></a>Edities \n* Billing Standard Business Event\n* Order Handling Standard Business Event\n* Server\n* Standard\n* Standard Server with Standard Business Events"
+content: "\n\n\n## <a name=\"editions\"></a>Edities \n* Billing Standard Business Event\n* Order Handling Standard Business Event\n* Server\n* Standaard\n* Standard Server with Standard Business Events"

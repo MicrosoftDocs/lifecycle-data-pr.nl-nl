@@ -15,7 +15,7 @@ summary: >+
   Windows Server 2012 R2 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
-  Dit is van toepassing op de volgende edities: Datacenter, Essentials, voor Embedded Systems, Foundation, Standard
+  Dit is van toepassing op de volgende edities: Datacenter, Essentials, voor Embedded Systems, Foundation, Standaard
 
 products:
 - windows
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/25/2013
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Koppelingen \n* [Richtlijnen voor migratie](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> De basis- en uitgebreide ondersteuning voor dit product is uitgebreid om klanten de standaard tijdlijn voor de overgang van de levenscyclus te bieden.\n\n## <a name=\"editions\"></a>Edities \n* Datacenter\n* Essentials\n* voor Embedded Systems\n* Foundation\n* Standard"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Richtlijnen voor migratie](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> De basis- en uitgebreide ondersteuning voor dit product is uitgebreid om klanten de standaard tijdlijn voor de overgang van de levenscyclus te bieden.\n\n## <a name=\"editions\"></a>Edities \n* Datacenter\n* Essentials\n* voor Embedded Systems\n* Foundation\n* Standaard"

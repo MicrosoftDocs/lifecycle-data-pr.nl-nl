@@ -15,7 +15,7 @@ summary: >
   Microsoft Forefront Threat Management Gateway 2010 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
-  Dit is van toepassing op de volgende edities: Enterprise, Standard
+  Dit is van toepassing op de volgende edities: Enterprise, Standaard
 
 
   > [!IMPORTANT]
@@ -38,4 +38,4 @@ releases:
 - version: Original Release
   startDate: 12/01/2009
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Koppelingen \n* [Richtlijnen voor migratie](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bg-p/Identity)\n\n\n## <a name=\"editions\"></a>Edities \n* Enterprise\n* Standard"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Richtlijnen voor migratie](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bg-p/Identity)\n\n\n## <a name=\"editions\"></a>Edities \n* Enterprise\n* Standaard"

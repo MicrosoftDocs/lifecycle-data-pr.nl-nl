@@ -15,7 +15,7 @@ summary: >+
   Microsoft Office voor Mac 2011 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
-  Dit is van toepassing op de volgende edities: Academic, Thuisgebruik en Zelfstandigen, Thuisgebruik en Zelfstandigen Home Use Program, Home en Student, Standard
+  Dit is van toepassing op de volgende edities: Academic, Thuisgebruik en Zelfstandigen, Thuisgebruik en Zelfstandigen Home Use Program, Home en Student, Standaard
 
 products:
 - office
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2010
   endDate: 01/10/2012
-content: "\n## <a name=\"links\"></a>Koppelingen \n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> De basisondersteuning voor Microsoft Office voor Mac 2011 wordt uitgebreid zoals wordt weergegeven om alle klanten de standaard tijdlijn voor de overgang van de levenscyclus te bieden.\n\n## <a name=\"editions\"></a>Edities \n* Academic\n* Thuisgebruik en Zelfstandigen\n* Thuisgebruik en Zelfstandigen Home Use Program\n* Thuisgebruik en Studenten\n* Standard"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> De basisondersteuning voor Microsoft Office voor Mac 2011 wordt uitgebreid zoals wordt weergegeven om alle klanten de standaard tijdlijn voor de overgang van de levenscyclus te bieden.\n\n## <a name=\"editions\"></a>Edities \n* Academic\n* Thuisgebruik en Zelfstandigen\n* Thuisgebruik en Zelfstandigen Home Use Program\n* Thuisgebruik en Studenten\n* Standaard"

@@ -15,7 +15,7 @@ summary: >+
   Visual Studio 2010 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
-  Dit is van toepassing op de volgende edities: Agents, All, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Prestatiehulpprogramma's, Premium, Professional, Professional w/MSDN , PSM, Externe foutopsporing, SDK, Shell (geïntegreerde modus), Shell (geïsoleerde modus), Team Agents, Team Explorer, Test Professional, Hulpprogramma's voor Office System 4.0 Runtime, Ultimate, Ultimatie met MSDN, VB Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, Visualization & Modeling SDK
+  Dit is van toepassing op de volgende edities: Agents, Alles, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Prestatiehulpprogramma's, Premium, Professional, Professional w/MSDN , PSM, Externe foutopsporing, SDK, Shell (geïntegreerde modus), Shell (geïsoleerde modus), Team Agents, Team Explorer, Test Professional, Hulpprogramma's voor Office System 4.0 Runtime, Ultimate, Ultimatie met MSDN, VB Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, Visualization & Modeling SDK
 
 products:
 - vs
