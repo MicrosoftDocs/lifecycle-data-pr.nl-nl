@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server 2003 R2
+  description: Windows Server 2003 R2 volgt het vaste levenscyclusbeleid.
+  ms.date: 05/26/2021
+  keywords: 
+  ms.openlocfilehash: c50fad87d8461c8c77bc535d02ae2c3c6385c882
+  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
+  ms.translationtype: HT
+  ms.contentlocale: nl-NL
+  ms.lasthandoff: 06/25/2021
+  ms.locfileid: "2030061"
+name: Windows Server 2003 R2
+summary: >+
+  Windows Server 2003 R2 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
+
+
+
+  Dit is van toepassing op de volgende edities: Datacenter, Datacenter (32-bits x86), Datacenter (x64), Enterprise (32-bits x86), Enterprise X64, Standard (32-bits x86), Standaard X64
+
+
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 03/05/2006
+  end: 07/13/2010
+  extendedEnd: 07/14/2015
+releases:
+- version: Service Pack 2
+  startDate: 03/13/2007
+  endDate: 07/14/2015
+- version: Original Release
+  startDate: 03/05/2006
+  endDate: 04/14/2009
+content: "\n\n## <a name=\"links\"></a>Koppelingen \n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n* [Ondersteunde paden voor het upgraden van Windows Server 2003 naar Windows Server 2008](https://support.microsoft.com/help/951041/supported-paths-for-upgrading-from-windows-server-2003-to-windows-serv)\n* [Bereid Windows Server 2003-machines voor op migratie](/azure/migrate/prepare-windows-server-2003-migration)\n\n\n\n\n## <a name=\"editions\"></a>Edities \n* Datacenter\n* Datacenter (32-bits x86)\n* Datacenter (x64)\n* Enterprise (32-bits x86)\n* Enterprise X64\n* Standaard (32-bits x86)\n* Standaard X64"

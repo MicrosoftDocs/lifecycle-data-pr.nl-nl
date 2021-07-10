@@ -2,13 +2,14 @@
 metadata:
   title: Windows Defender voor Windows 10
   description: Windows Defender voor Windows 10 volgt het levenscyclusbeleid voor onderdelen.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 4bebd1c04c81844b3d0dde309f7fd75b1856fdf6
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 04/28/2021
+  keywords: 
+  ms.openlocfilehash: ba8be3a314dd861f34d24f346ff9ca06266dfa1f
+  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
   ms.translationtype: HT
   ms.contentlocale: nl-NL
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "812276"
+  ms.lasthandoff: 06/25/2021
+  ms.locfileid: "2029019"
 name: Windows Defender voor Windows 10
 summary: >+
   Windows Defender voor Windows 10 volgt het levenscyclusbeleid voor [onderdelen](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
@@ -24,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 07/29/2015
   endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>Koppelingen \n* [Windows 10](/lifecycle/products/?terms=windows%2010)\n\n> [!NOTE]\n> Deze release staat bekend als een onderdeel dat de levenscyclus van het bovenliggende product, Windows 10, volgt."
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Windows 10](/lifecycle/products/?terms=windows%2010)\n* [Onderhoudsrichtlijnen](/microsoft-365/security/defender-endpoint/manage-updates-baselines-microsoft-defender-antivirus?view=o365-worldwide#microsoft-defender-antivirus-platform-support)\n\n> [!NOTE]\n> Deze release staat bekend als een onderdeel dat de levenscyclus van het bovenliggende product, Windows 10, volgt."
