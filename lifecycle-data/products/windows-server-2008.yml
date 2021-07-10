@@ -2,14 +2,14 @@
 metadata:
   title: Windows Server 2008
   description: Windows Server 2008 volgt het vaste levenscyclusbeleid.
-  ms.date: 09/01/2020
-  keywords: Datacenter,Datacenter without Hyper-V,Enterprise,Enterprise without Hyper-V,for Itanium-Based Systems,Foundation,Standard,Standard without Hyper-V,Web
-  ms.openlocfilehash: 30b07c95bb7d37ab822e5e2238983fd70d918889
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.date: 04/23/2021
+  keywords: 
+  ms.openlocfilehash: 9f958fbc26dddbf3e388c598e868b94eb1713541
+  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
   ms.translationtype: HT
   ms.contentlocale: nl-NL
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939514"
+  ms.lasthandoff: 06/25/2021
+  ms.locfileid: "2029833"
 name: Windows Server 2008
 summary: >
   Windows Server 2008 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
@@ -29,10 +29,19 @@ supportDates:
   end: 01/13/2015
   extendedEnd: 01/14/2020
 releases:
+- version: Extended Security Update Year 3
+  startDate: 01/11/2022
+  endDate: 01/10/2023
+- version: Extended Security Update Year 2
+  startDate: 01/12/2021
+  endDate: 01/11/2022
+- version: Extended Security Update Year 1
+  startDate: 01/14/2020
+  endDate: 01/12/2021
 - version: Service Pack 2
   startDate: 04/29/2009
   endDate: 01/14/2020
 - version: Original Release
   startDate: 05/06/2008
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Koppelingen \n* [Richtlijnen voor migratie](https://aka.ms/AA1ovn4)\n* [Gegevens serverupgrade](/windows-server/upgrade/upgrade-overview)\n* [Uitgebreide beveiligingsupdate-programma (Extended Security Update/ESU)](/lifecycle/faq/extended-security-updates)\n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Voor de Datacenter-, Standard-, Enterprise- en Embedded-edities van dit product zijn extra beveiligingsupdates (Extended Security Updates/ESU) beschikbaar via specifieke volumelicentieprogramma's, en dit voor tot drie aanvullende jaren na beëindiging van de ondersteuning. Neem contact op met uw Microsoft-partner of accountteam voor meer informatie. \n\nRelease-------------------------------Startdatum----Einddatum\n\nExtra beveiligingsupdate jaar 3---11/01/2022---10/01/2023\n\nExtra beveiligingsupdate jaar 2---12/01/2021---11/01/2022\n\nExtra beveiligingsupdate jaar 1---14/01/2020---12/01/2021\n> [!NOTE]\n> Windows Server 2008 Foundation uitgebracht op 21 mei 2009\n\n## <a name=\"editions\"></a>Edities \n* Datacenter\n* Datacenter zonder Hyper-V\n* Enterprise\n* Enterprise zonder Hyper-V\n* voor op Itanium-gebaseerde systemen\n* Foundation\n* Standard\n* Standaard zonder Hyper-V\n* Web"
+content: "> [!TIP]\n> *Voor de Datacenter-, Standaard-, Enterprise- en Embedded-edities van dit product zijn extra beveiligingsupdates (ESU) beschikbaar via specifieke volumelicentieprogramma's, en dit voor maximaal drie jaar na het einde van de ondersteuning. Neem contact op met uw Microsoft-partner of accountteam voor meer informatie. \n\n## <a name=\"links\"></a>Koppelingen \n* [Richtlijnen voor migratie](https://aka.ms/AA1ovn4)\n* [Serverupgradegegevens](/windows-server/upgrade/upgrade-overview)\n* [Extended Security Update (ESU) programma](/lifecycle/faq/extended-security-updates)\n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Windows Server 2008 Foundation uitgebracht op 21 mei 2009\n\n## <a name=\"editions\"></a>Edities \n* Datacenter\n* Datacenter zonder Hyper-V\n* Enterprise\n* Enterprise zonder Hyper-V\n* voor op Itanium-gebaseerde systemen\n* Foundation\n* Standard\n* Standaard zonder Hyper-V\n* Web"

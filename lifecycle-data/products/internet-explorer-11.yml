@@ -2,17 +2,25 @@
 metadata:
   title: Internet Explorer 11
   description: Internet Explorer 11 volgt het levenscyclusbeleid voor componenten.
-  ms.date: 08/12/2020
-  ms.openlocfilehash: 62c563784a27bf046f85b65ff75c31ec969d0bb6
-  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.date: 05/18/2021
+  keywords: 
+  ms.openlocfilehash: e8c2c3268966c81d4dd08589587bd41da21148c2
+  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
   ms.translationtype: HT
   ms.contentlocale: nl-NL
-  ms.lasthandoff: 08/13/2020
-  ms.locfileid: "893641"
+  ms.lasthandoff: 06/25/2021
+  ms.locfileid: "2029500"
 name: Internet Explorer 11
 summary: >+
   Internet Explorer 11 volgt het levenscyclusbeleid voor [onderdelen](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
+
+
+
+
+  > [!IMPORTANT]
+
+  > De Internet Explorer (IE) 11-desktoptoepassing stopt de ondersteuning voor bepaalde besturingssystemen vanaf 15 juni 2022. Klanten worden aangemoedigd om over te stappen naar Microsoft Edge met de IE-modus. De IE-modus maakt achterwaartse compatibiliteit mogelijk en zal tot ten minste 2029 worden ondersteund. Bovendien zal Microsoft een jaar voordat de IE-modus buiten gebruik wordt gesteld hiervan een aankondiging doen. Klik [hier](https://docs.microsoft.com/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-) voor een lijst met ondersteunde besturingssystemen voor Internet Explorer, inclusief versies waarop deze aankondiging van invloed is.
 
 products:
 - internet-explorer
@@ -22,4 +30,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/13/2013
-content: "\n## <a name=\"links\"></a>Koppelingen \n* [Richtlijnen voor migratie](https://www.microsoft.com/itpro/microsoft-edge)\n* [Veelgestelde vragen over het levenscyclusbeleid van Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Vanaf 12 januari 2016 zal alleen de meest recente versie van Internet Explorer, die beschikbaar is voor een ondersteund besturingssysteem, technisch ondersteund worden en beveiligingsupdates ontvangen."
+content: "\n\n## <a name=\"links\"></a>Koppelingen \n* [Richtlijnen voor migratie](https://www.microsoft.com/itpro/microsoft-edge)\n* [Veelgestelde vragen over de levenscyclus van Internet Explorer of Microsoft Edge](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Besturingssystemen die ondersteund worden door Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-)\n* [Door Microsoft Edge ondersteunde besturingssystemen](/deployedge/microsoft-edge-supported-operating-systems)\n\n\n> [!NOTE]\n> Sommige versies van Internet Explorer worden mogelijk nog ondersteund na de laatste einddatum van het besturingssysteem wanneer uitgebreide beveiligingsupdates (ESU's) beschikbaar zijn. Kijk [hier](https://docs.microsoft.com/lifecycle/faq/extended-security-updates) voor een lijst van producten die ESU's aanbieden."
