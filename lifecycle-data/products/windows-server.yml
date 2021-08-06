@@ -2,20 +2,23 @@
 metadata:
   title: Windows Server
   description: Windows Server volgt het moderne levenscyclusbeleid.
-  ms.date: 10/19/2020
+  ms.date: 07/12/2021
   keywords: 
-  ms.openlocfilehash: cc8dd57a0773e9b67fd312e52d7f25bbb96ce10e
-  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
+  ms.openlocfilehash: 79c81dbee5c7ce3220e5cba21c2f116a65eaf0bf
+  ms.sourcegitcommit: c5cb11b464035a1b4d239621b8d4bf06f574da82
   ms.translationtype: HT
   ms.contentlocale: nl-NL
-  ms.lasthandoff: 10/20/2020
-  ms.locfileid: "1162328"
+  ms.lasthandoff: 07/28/2021
+  ms.locfileid: "2255164"
 name: Windows Server
 summary: >+
   Windows Server volgt het [moderne](/lifecycle/policies/modern) levenscyclusbeleid.
 
 
+
   Dit is van toepassing op de volgende edities: Datacenter, standaard
+
+
 
 products:
 - windows
@@ -23,6 +26,9 @@ policyType: modern-on-prem
 supportDates:
   start: 10/17/2017
 releases:
+- version: Version 21H1
+  startDate: 05/18/2021
+  endDate: 12/13/2022
 - version: Version 20H2
   startDate: 10/20/2020
   endDate: 05/10/2022
@@ -44,4 +50,4 @@ releases:
 - version: Version 1709
   startDate: 10/17/2017
   endDate: 04/09/2019
-content: "\n## <a name=\"links\"></a>Koppelingen \n* [Windows Server servicing-kanalen: LTSC en SAC](/windows-server/get-started-19/servicing-channels-19)\n* [Veelgestelde vragen over de levenscyclus - Windows-producten](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-windows-10-semi-annual-channels)\n\n> [!NOTE]\n> Windows Server versie 1809 is opnieuw uitgebracht op 13 november 2018. De ondersteuningsdatums zijn op basis hiervan aangepast.\n\n## <a name=\"editions\"></a>Edities \n* Datacenter\n* Standard"
+content: "\n\n## <a name=\"links\"></a>Koppelingen \n* [Onderhoudslevenscycli van Windows-containerbasisafbeeldingen](/virtualization/windowscontainers/deploy-containers/base-image-lifecycle)\n* [Windows Server servicing-kanalen: LTSC en SAC](/windows-server/get-started-19/servicing-channels-19)\n* [Veelgestelde vragen over de levenscyclus - Windows-producten](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-windows-10-semi-annual-channels)\n\n\n> [!NOTE]\n> Containers die zijn uitgebracht met de hierboven vermelde Windows Server-versies volgen dezelfde levenscyclusdatums. Navigeer naar de servicepagina voor basisafbeeldingen op [Onderhoudslevenscycli van Windows-containerbasisafbeeldingen](https://docs.microsoft.com/virtualization/windowscontainers/deploy-containers/base-image-lifecycle) voor meer informatie.\n> [!NOTE]\n> Windows Server versie 1809 is opnieuw uitgebracht op 13 november 2018. De ondersteuningsdatums zijn op basis hiervan aangepast.\n\n\n## <a name=\"editions\"></a>Edities \n* Datacenter\n* Standard"
