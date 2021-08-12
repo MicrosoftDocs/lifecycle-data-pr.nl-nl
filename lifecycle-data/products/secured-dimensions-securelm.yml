@@ -4,18 +4,18 @@ metadata:
   description: Secured Dimensions SecureLM volgt het vaste levenscyclusbeleid.
   ms.date: 10/20/2020
   keywords: 
-  ms.openlocfilehash: fe3181990300a2a8981f3923880bcc299c47cf93
-  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
+  ms.openlocfilehash: abf68e2290dcd83cfe82ec28d7b860633f3a0382630b1910bd5692e0e14913b8
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: nl-NL
-  ms.lasthandoff: 10/20/2020
-  ms.locfileid: "1162854"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2499691"
 name: Secured Dimensions SecureLM
 summary: >+
   Secured Dimensions SecureLM volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
-  Dit is van toepassing op de volgende edities: .NET, Code Protector, Server
+  Dit geldt voor de volgende edities: .NET, Code Protector, Server
 
 products:
 - dotnet

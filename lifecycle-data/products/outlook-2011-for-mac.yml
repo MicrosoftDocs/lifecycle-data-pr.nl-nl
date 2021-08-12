@@ -3,12 +3,12 @@ metadata:
   title: Outlook 2011 voor Mac
   description: Outlook 2011 voor Mac volgt het vaste levenscyclusbeleid.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 61a62fb9ad78ceb10de85cd875d2435072b9c770
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.openlocfilehash: 2b20565c91dc1f6c8389140dd4436248936ddf9e68fc16c4bfa4bec2e0ab68ff
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: nl-NL
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "851711"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2507387"
 name: Outlook 2011 voor Mac
 summary: "Outlook 2011 voor Mac volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.\n\n\n> [!IMPORTANT]\n> De ondersteuning voor dit product is beëindigd. \n"
 products:
@@ -21,4 +21,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2010
   endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> De basisondersteuning voor Microsoft Office voor Mac 2011 wordt uitgebreid zoals weergegeven om alle klanten de standaard tijdlijn voor de overgang van de levenscyclus te bieden."
+content: "\n\n> [!NOTE]\n> De basisondersteuning voor Microsoft Office voor Mac 2011 wordt, zoals weergegeven, verlengd om alle klanten de standaard tijdlijn voor de overgang van de levenscyclus te bieden."
