@@ -4,18 +4,18 @@ metadata:
   description: Microsoft Lync Server 2013 volgt het vaste levenscyclusbeleid.
   ms.date: 09/01/2020
   keywords: Enterprise,Persistent Chat Software Development Kit,Phone,SDK,Standard
-  ms.openlocfilehash: d6885f287ffa2bda2803e707d93db7ad5fdf5cb0
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 34538d98f2544a37c43ef4db5cddf07502111f81f4329ffa7883322caae0df1d
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: nl-NL
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "930671"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2498507"
 name: Microsoft Lync Server 2013
 summary: >+
   Microsoft Lync Server 2013 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
-  Dit is van toepassing op de volgende edities: Enterprise, Persistent Chat Software Development Kit, Phone, SDK, Standaard
+  Dit is van toepassing op de volgende edities: Enterprise, Persistent Chat Software Development Kit, Phone, SDK, Standard
 
 products:
 - office
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2011
   endDate: 04/11/2023
-content: "\n## <a name=\"links\"></a>Koppelingen \n* [Productgegevens](/lyncserver/microsoft-lync-server-2013)\n\n> [!NOTE]\n> Lync Phone-editie wordt ondersteund met Lync Server 2010 en Lync Server 2013. De ondersteuningsdatum voor Lync Phone-editie is met twee jaar verlengd om af te stemmen op de levenscyclus van Lync Server 2013.\n\n## <a name=\"editions\"></a>Edities \n* Enterprise\n* Persistent Chat Software Development Kit\n* Phone\n* SDK\n* Standaard"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Productgegevens](/lyncserver/microsoft-lync-server-2013)\n\n> [!NOTE]\n> Lync Phone-edtie wordt ondersteund met Lync Server 2010 en Lync Server 2013. De ondersteuningsdatum voor Lync Phone-editie is met twee jaar verlengd om af te stemmen op de levenscyclus van Lync Server 2013.\n\n## <a name=\"editions\"></a>Edities \n* Enterprise\n* Persistent Chat Software Development Kit\n* Phone\n* SDK\n* Standard"
