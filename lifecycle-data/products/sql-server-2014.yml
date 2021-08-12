@@ -4,18 +4,18 @@ metadata:
   description: SQL Server 2014 volgt het vaste levenscyclusbeleid.
   ms.date: 09/01/2020
   keywords: Business Intelligence,Developer,Enterprise,Enterprise Core,Express,Standard,Web
-  ms.openlocfilehash: 551c7b4fe8a3a36dfbc8866abd3006d022116dc6
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 3d3669c46791dcd92c3ed444e693ea385bc0d8ef11ae6143f63482ac34ea8eac
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: nl-NL
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "937997"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2516156"
 name: SQL Server 2014
 summary: >+
   SQL Server 2014 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
-  Dit is van toepassing op de volgende edities: Business Intelligence, Developer, Enterprise, Enterprise Core, Express, Standaard, Web
+  Dit is van toepassing op de volgende edities: Business Intelligence, Developer, Enterprise, Enterprise Core, Express, Standard, Web
 
 products:
 - sql-server
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 06/05/2014
   endDate: 07/12/2016
-content: "\n## <a name=\"links\"></a>Koppelingen \n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edities \n* Business Intelligence\n* Developer\n* Enterprise\n* Enterprise Core\n* Express\n* Standaard\n* Web"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edities \n* Business Intelligence\n* Developer\n* Enterprise\n* Enterprise Core\n* Express\n* Standard\n* Web"
