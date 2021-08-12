@@ -4,18 +4,18 @@ metadata:
   description: Microsoft Office 2003 volgt het vaste levenscyclusbeleid.
   ms.date: 09/01/2020
   keywords: Basic,Professional,Professional Enterprise,Small Business,Standard,Student and Teacher,Web Components
-  ms.openlocfilehash: 95e78ca50e366f9a9a5363d5df1dedbe94efcd17
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 2b44ce6c988d40b23a927ec4136e7e635949e09e83533ef43774d317074b46c0
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: nl-NL
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "936813"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2494659"
 name: Microsoft Office 2003
 summary: >+
   Microsoft Office 2003 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
-  Dit is van toepassing op de volgende edities: Basic, Professional, Professional Enterprise, Professionals en Kleine Bedrijven, Standaard, Student en Teacher, Web Components
+  Dit is van toepassing op de volgende edities: Basic, Professional, Professional Enterprise, Professionals en Kleine Bedrijven, Standard, Student en Teacher, Web Components
 
 products:
 - office
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 11/17/2003
   endDate: 07/27/2005
-content: "\n## <a name=\"links\"></a>Koppelingen \n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edities \n* Basic\n* Professional\n* Professional Enterprise\n* Kleine Bedrijven\n* Standaard\n* Student en Teacher\n* Web Components"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edities \n* Basic\n* Professional\n* Professional Enterprise\n* Small Business\n* Standard\n* Student en Teacher\n* Web Components"
