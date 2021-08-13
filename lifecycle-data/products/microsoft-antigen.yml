@@ -3,29 +3,22 @@ metadata:
   title: Microsoft Antigen
   description: Microsoft Antigen volgt het vaste levenscyclusbeleid.
   ms.date: 09/10/2020
-  keywords: 9.0 for Exchange,Enterprise Manager 9.0,for SMTP Gateways,Spam Manager
-  ms.openlocfilehash: ab3c9aa07c1afe64cd5a98d0d6a885617221afc0
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: nl-NL
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001976"
+  keywords: '9.0 for Exchange,Enterprise Manager 9.0,for SMTP Gateways,Spam Manager'
 name: Microsoft Antigen
-summary: >+
+summary: |+
   Microsoft Antigen volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
-
 
   Dit is van toepassing op de volgende edities: 9.0 voor Exchange, Enterprise Manager 9.0, voor SMTP-gateways, Spam Manager
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 07/17/2006
   end: 04/08/2014
   extendedEnd: 12/31/2015
 releases:
-- version: Original Release
-  startDate: 07/17/2006
-  endDate: 12/31/2015
-content: "\n\n> [!NOTE]\n> De roadmap voor de beveiligingsproducten onder het merk Forefront is veranderd. Dit product wordt per 31 december 2015 stopgezet.\n\n## <a name=\"editions\"></a>Edities \n* 9.0 voor Exchange\n* Enterprise Manager 9.0\n* voor SMTP-gateways\n* Spam Manager\n"
+  - version: Original Release
+    startDate: 07/17/2006
+    endDate: 12/31/2015
+content: "\n\n> [!NOTE]\n> De roadmap voor de beveiligingsproducten onder het merk Forefront is veranderd.\_Dit product wordt per 31 december 2015 stopgezet.\n\n## <a name=\"editions\"></a>Edities \n* 9.0 voor Exchange\n* Enterprise Manager 9.0\n* voor SMTP-gateways\n* Spam Manager\n"

@@ -1,40 +1,41 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Application Virtualization Hosting 5.0 voor Windows Desktops
+  title: Microsoft Application Virtualization Hosting 5.0 voor Windows-desktops
   description: Microsoft Application Virtualization Hosting 5.0 voor Windows Desktops volgt het vaste levenscyclusbeleid.
   ms.date: 09/01/2020
   keywords: for Windows Desktops
-  ms.openlocfilehash: 640b1312c2eba7e693edbd82f34378619036195e
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: nl-NL
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "935370"
-name: Microsoft Application Virtualization Hosting 5.0 voor Windows Desktops
-summary: >+
+name: Microsoft Application Virtualization Hosting 5.0 voor Windows-desktops
+summary: |+
   Microsoft Application Virtualization Hosting 5.0 voor Windows Desktops volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
-
 
   Dit geldt voor de volgende edities: voor Windows Desktops
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 11/01/2012
   end: 01/09/2018
   extendedEnd: 04/14/2026
 releases:
-- version: Service Pack 3
-  startDate: 12/08/2014
-  endDate: 04/14/2026
-- version: Service Pack 2
-  startDate: 11/08/2013
-  endDate: 01/12/2016
-- version: Service Pack 1
-  startDate: 04/10/2013
-  endDate: 01/13/2015
-- version: Original Release
-  startDate: 11/01/2012
-  endDate: 07/08/2014
-content: "\n## <a name=\"links\"></a>Koppelingen \n* [Productgegevens](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edities \n* voor Windows Desktops"
+  - version: Service Pack 3
+    startDate: 12/08/2014
+    endDate: 04/14/2026
+  - version: Service Pack 2
+    startDate: 11/08/2013
+    endDate: 01/12/2016
+  - version: Service Pack 1
+    startDate: 04/10/2013
+    endDate: 01/13/2015
+  - version: Original Release
+    startDate: 11/01/2012
+    endDate: 07/08/2014
+content: |
+
+  ## <a name="links"></a>Koppelingen 
+  * [Productgegevens](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)
+  * [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)
+
+
+  ## <a name="editions"></a>Edities 
+  * voor Windows Desktops

@@ -3,29 +3,31 @@ metadata:
   title: Microsoft BizTalk Adapter 2.0
   description: Microsoft BizTalk Adapter 2.0 volgt het vaste levenscyclusbeleid.
   ms.date: 09/01/2020
-  keywords: for MSMQ,for mySAP Business Suite,for SAP
-  ms.openlocfilehash: e6ccc3e11575a0d48e60228fa8eca4d1e4849669
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: nl-NL
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "934741"
+  keywords: 'for MSMQ,for mySAP Business Suite,for SAP'
 name: Microsoft BizTalk Adapter 2.0
-summary: >+
+summary: |+
   Microsoft BizTalk Adapter 2.0 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
-
 
   Dit geldt voor de volgende edities: voor MSMQ, voor mySAP Business Suite, voor SAP
 
 products:
-- microsoft-servers
+  - microsoft-servers
 policyType: fixed
 supportDates:
   start: 10/20/2004
   end: 01/12/2010
   extendedEnd: 01/13/2015
 releases:
-- version: Original Release
-  startDate: 10/20/2004
-  endDate: 01/13/2015
-content: "\n\n> [!NOTE]\n> De begindatum voor Microsoft BizTalk Adapter 2.0 voor SAP is 2 november 2004. De begindatum voor Microsoft BizTalk Adapter voor MSMQ 2.0 is 10 december 2004\n\n## <a name=\"editions\"></a>Edities \n* voor MSMQ\n* voor mySAP Business Suite\n* voor SAP"
+  - version: Original Release
+    startDate: 10/20/2004
+    endDate: 01/13/2015
+content: |
+
+
+  > [!NOTE]
+  > De begindatum voor Microsoft BizTalk Adapter 2.0 voor SAP is 2 november 2004. De begindatum voor Microsoft BizTalk Adapter voor MSMQ 2.0 is 10 december 2004
+
+  ## <a name="editions"></a>Edities 
+  * voor MSMQ
+  * voor mySAP Business Suite
+  * voor SAP
