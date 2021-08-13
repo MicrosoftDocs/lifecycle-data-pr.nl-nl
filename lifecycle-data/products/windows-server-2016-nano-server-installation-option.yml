@@ -3,28 +3,30 @@ metadata:
   title: Windows Server 2016 Nano Server-installatieoptie
   description: Windows Server 2016 Nano Server-installatieoptie volgt het modern levenscyclusbeleid.
   ms.date: 09/01/2020
-  keywords: Datacenter,Standard
-  ms.openlocfilehash: bff4ec8ee63d0221e316da49081ebc964e520966
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: nl-NL
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939403"
+  keywords: 'Datacenter,Standard'
 name: Windows Server 2016 Nano Server-installatieoptie
-summary: >+
+summary: |+
   Windows Server 2016 Nano Server-installatieoptie volgt het [modern](/lifecycle/policies/modern) levenscyclusbeleid.
-
 
   Dit is van toepassing op de volgende edities: Datacenter, standaard
 
 products:
-- windows
+  - windows
 policyType: modern-on-prem
 supportDates:
   start: 10/15/2016
   end: 10/09/2018
 releases:
-- version: Original Release
-  startDate: 10/15/2016
-  endDate: 10/09/2018
-content: "\n## <a name=\"links\"></a>Koppelingen \n* [Onderhoudsinformatie](/windows-server/get-started/nano-in-semi-annual-channel)\n* [Veelgestelde vragen over de levenscyclus - Windows-producten](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Edities \n* Datacenter\n* Standard"
+  - version: Original Release
+    startDate: 10/15/2016
+    endDate: 10/09/2018
+content: |
+
+  ## <a name="links"></a>Koppelingen 
+  * [Onderhoudsinformatie](/windows-server/get-started/nano-in-semi-annual-channel)
+  * [Veelgestelde vragen over de levenscyclus - Windows-producten](/lifecycle/faq/windows)
+
+
+  ## <a name="editions"></a>Edities 
+  * Datacenter
+  * Standard

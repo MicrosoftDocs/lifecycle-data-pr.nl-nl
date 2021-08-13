@@ -3,25 +3,23 @@ metadata:
   title: Virtual PC voor Mac
   description: Virtual PC voor Mac volgt het vaste levenscyclusbeleid.
   ms.date: 07/28/2020
-  ms.openlocfilehash: cf556aeada0feade9a260e41c921b5f0ac6638e7
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: nl-NL
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "812282"
 name: Virtual PC voor Mac
-summary: >+
+summary: |+
   Virtual PC voor Mac volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 11/12/2003
   end: 04/13/2010
 releases:
-- version: Original Release
-  startDate: 11/12/2003
-  endDate: 01/13/2009
-content: "\n\n> [!NOTE]\n> Inclusief versie 5.01, versie 5.02, versie 5.03, versie 5.04, versie 6.01, versie 6.02, versie 6.1, versie-update 6.1.1, versie 7, versie 7.01"
+  - version: Original Release
+    startDate: 11/12/2003
+    endDate: 01/13/2009
+content: |+
+
+
+  > [!NOTE]
+  > Inclusief versie 5.01, versie 5.02, versie 5.03, versie 5.04, versie 6.01, versie 6.02, versie 6.1, versie-update 6.1.1, versie 7, versie 7.01
