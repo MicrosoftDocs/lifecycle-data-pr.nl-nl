@@ -3,28 +3,29 @@ metadata:
   title: Microsoft Office 2019 voor Mac
   description: Microsoft Office 2019 voor Mac volgt het vaste levenscyclusbeleid.
   ms.date: 09/01/2020
-  keywords: Academic,Home and Business,Home and Student,Standard
-  ms.openlocfilehash: ec9caa375adfc5b23212e92160c6f3107344e1c6
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: nl-NL
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "930412"
+  keywords: 'Academic,Home and Business,Home and Student,Standard'
 name: Microsoft Office 2019 voor Mac
-summary: >+
+summary: |+
   Microsoft Office 2019 voor Mac volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
-
 
   Dit is van toepassing op de volgende edities: Academic, Thuisgebruik en Zelfstandigen, Standard
 
 products:
-- office
+  - office
 policyType: fixed-mainstream-only
 supportDates:
   start: 09/24/2018
   end: 10/10/2023
 releases:
-- version: Original Release
-  startDate: 09/24/2018
-  endDate: 10/10/2023
-content: "\n\n\n## <a name=\"editions\"></a>Edities \n* Academic\n* Thuisgebruik en Zelfstandigen\n* Thuisgebruik en Studenten\n* Standard"
+  - version: Original Release
+    startDate: 09/24/2018
+    endDate: 10/10/2023
+content: |
+
+
+
+  ## <a name="editions"></a>Edities 
+  * Academic
+  * Thuisgebruik en Zelfstandigen
+  * Thuisgebruik en Studenten
+  * Standard

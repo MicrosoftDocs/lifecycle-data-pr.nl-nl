@@ -4,23 +4,17 @@ metadata:
   description: Dynamics 365 Project Operations volgt het moderne levenscyclusbeleid.
   ms.date: 09/10/2020
   keywords: ''
-  ms.openlocfilehash: f78704486878a0f99f545e5361fb7805df1a802a
-  ms.sourcegitcommit: e8e7ddcfb056dfe647ccf1dbab03a51078f77d53
-  ms.translationtype: HT
-  ms.contentlocale: nl-NL
-  ms.lasthandoff: 10/05/2020
-  ms.locfileid: "1050138"
 name: Dynamics 365 Project Operations
-summary: >+
+summary: |+
   Dynamics 365 Project Operations volgt het [moderne](/lifecycle/policies/modern) levenscyclusbeleid.
 
 
 products:
-- dynamics
+  - dynamics
 policyType: modern-online
 supportDates:
   start: 10/01/2020
 releases:
-- version: Original Release
-  startDate: 10/01/2020
-content: ''
+  - version: Original Release
+    startDate: 10/01/2020
+content: |+
