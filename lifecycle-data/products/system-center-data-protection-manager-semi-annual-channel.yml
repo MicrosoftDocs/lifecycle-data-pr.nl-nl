@@ -3,32 +3,27 @@ metadata:
   title: System Center Data Protection Manager Semi Annual-kanaal
   description: System Center Data Protection Manager Semi Annual-kanaal volgt het moderne levenscyclusbeleid.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 60f83dbcc7830bca583b04a805878d1836f7e965
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: HT
-  ms.contentlocale: nl-NL
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "868804"
 name: System Center Data Protection Manager Semi Annual-kanaal
-summary: >
+summary: |
   System Center Data Protection Manager Semi-Annual-kanaal volgt het [moderne](/lifecycle/policies/modern) levenscyclusbeleid.
 
 
-
   > [!IMPORTANT]
-
   > De ondersteuning is beëindigd. Zie hieronder de richtlijnen voor migratie.
 products:
-- msc
+  - msc
 policyType: modern-on-prem
 supportDates:
   start: 02/08/2018
   end: 01/24/2020
 releases:
-- version: Version 1807
-  startDate: 07/24/2018
-  endDate: 01/24/2020
-- version: Version 1801
-  startDate: 02/08/2018
-  endDate: 08/08/2019
-content: "\n## <a name=\"links\"></a>Koppelingen \n* [Richtlijnen voor migratie](/system-center/dpm/upgrade-dpm?view=sc-dpm-2019)"
+  - version: Version 1807
+    startDate: 07/24/2018
+    endDate: 01/24/2020
+  - version: Version 1801
+    startDate: 02/08/2018
+    endDate: 08/08/2019
+content: |+
+
+  ## <a name="links"></a>Koppelingen 
+  * [Richtlijnen voor migratie](/system-center/dpm/upgrade-dpm?view=sc-dpm-2019)
