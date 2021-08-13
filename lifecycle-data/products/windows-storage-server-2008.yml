@@ -4,18 +4,18 @@ metadata:
   description: Windows Storage Server 2008 volgt het vaste levenscyclusbeleid.
   ms.date: 09/01/2020
   keywords: Basic,Basic 32-Bit,Basic 64-bit,Basic Embedded,Basic Embedded 32-bit,Enterprise,Enterprise Embedded,Standard,Standard Embedded,Workgroup
-  ms.openlocfilehash: 8953fec16d2e39e18ff29a4e7ad1f297888f0b75
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 7c8c31e0c0a097e251c7f9ee15281b81ba1478ad5f3944020029630aa1bcdd0d
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: nl-NL
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939033"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2486445"
 name: Windows Storage Server 2008
 summary: >
   Windows Storage Server 2008 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
-  Dit is van toepassing op de volgende edities: Basic, Basic 32-bits, Basic 64-bits, Basic Embedded, Basic Embedded 32-bits, Enterprise, Enterprise Embedded, Standaard, Standard Embedded, Workgroup
+  Dit is van toepassing op de volgende edities: Basic, Basic 32-bits, Basic 64-bits, Basic Embedded, Basic Embedded 32-bits, Enterprise, Enterprise Embedded, Standard, Standard Embedded, Workgroup
 
 
   > [!IMPORTANT]
@@ -35,4 +35,4 @@ releases:
 - version: Service Pack 2
   startDate: 07/19/2009
   endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>Koppelingen \n* [Richtlijnen voor migratie](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Serverupgradegegevens](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>Edities \n* Basic\n* Basic 32-bits\n* Basic 64-bits\n* Basic Embedded\n* Basic Embedded 32-bits\n* Enterprise\n* Enterprise Embedded\n* Standaard\n* Standard Embedded\n* Workgroup"
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Richtlijnen voor migratie](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Serverupgradegegevens](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>Edities \n* Basic\n* Basic 32-bits\n* Basic 64-bits\n* Basic Embedded\n* Basic Embedded 32-bits\n* Enterprise\n* Enterprise Embedded\n* Standard\n* Standard Embedded\n* Workgroup"
