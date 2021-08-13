@@ -3,29 +3,33 @@ metadata:
   title: Workflow Manager 1.0
   description: Workflow Manager 1.0 volgt het vaste levenscyclusbeleid.
   ms.date: 09/10/2020
-  keywords: 
-  ms.openlocfilehash: 4fa17a4187f64e1ea2b46d8fdca61b81bbb7c7fa
-  ms.sourcegitcommit: 5c618c870f05989d24ebd3a61d98ce2302e85d3b
-  ms.translationtype: HT
-  ms.contentlocale: nl-NL
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1002630"
+  keywords: null
 name: Workflow Manager 1.0
-summary: >+
+summary: |+
   Workflow Manager 1.0 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
-
-  Dit is van toepassing op de volgende edities: Client, Standaard
+  Dit is van toepassing op de volgende edities: Client, Standard
 
 products:
-- vs
+  - vs
 policyType: fixed
 supportDates:
   start: 10/18/2012
   end: 01/09/2018
   extendedEnd: 01/10/2023
 releases:
-- version: Original Release
-  startDate: 10/18/2012
-  endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>Koppelingen \n* [Onderhoudsgegevens van SharePoint 2016](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)\n* [Onderhoudsgegevens van SharePoint 2013](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)\n\n> [!NOTE]\n> Wanneer Workflow Manager een onderdeel is van SharePoint Server 2016 of SharePoint Server 2013, wordt deze ondersteund op basis van het einde van de ondersteuningsdatums van de betreffende SharePoint Server-versie.\n\n## <a name=\"editions\"></a>Edities \n* Client\n* Standaard"
+  - version: Original Release
+    startDate: 10/18/2012
+    endDate: 01/10/2023
+content: |
+
+  ## <a name="links"></a>Koppelingen 
+  * [Onderhoudsgegevens van SharePoint 2016](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)
+  * [Onderhoudsgegevens van SharePoint 2013](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)
+
+  > [!NOTE]
+  > Wanneer Werkstroombeheer een onderdeel is van SharePoint Server 2016 of SharePoint Server 2013, wordt deze ondersteund op basis van het einde van de ondersteuningsdatums van de betreffende SharePoint Server-versie.
+
+  ## <a name="editions"></a>Edities 
+  * Client
+  * Standard

@@ -3,29 +3,35 @@ metadata:
   title: Windows Storage Server 2012 R2
   description: Windows Storage Server 2012 R2 volgt het vaste levenscyclusbeleid.
   ms.date: 09/01/2020
-  keywords: Essentials,Standard,Workgroup
-  ms.openlocfilehash: 882550832ce3c5dc7b3a62ef17e1358df0445a9f
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: nl-NL
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938996"
+  keywords: 'Essentials,Standard,Workgroup'
 name: Windows Storage Server 2012 R2
-summary: >+
+summary: |+
   Windows Storage Server 2012 R2 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
-
 
   Dit is van toepassing op de volgende edities: Essentials, Standaard, Workgroup
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 11/25/2013
   end: 10/09/2018
   extendedEnd: 10/10/2023
 releases:
-- version: Original Release
-  startDate: 11/25/2013
-  endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Koppelingen \n* [Richtlijnen voor migratie](/windows-server/upgrade/upgrade-2012r2-to-2019)\n\n> [!NOTE]\n> De basis- en uitgebreide ondersteuning voor dit product is uitgebreid om klanten de standaard tijdlijn voor de overgang van de levenscyclus te bieden.\n> [!NOTE]\n> De startdatum voor de Essentials-editie is 25 september 2014. \n\n## <a name=\"editions\"></a>Edities \n* Essentials\n* Standard\n* Workgroup"
+  - version: Original Release
+    startDate: 11/25/2013
+    endDate: 10/10/2023
+content: |
+
+  ## <a name="links"></a>Koppelingen 
+  * [Richtlijnen voor migratie](/windows-server/upgrade/upgrade-2012r2-to-2019)
+
+  > [!NOTE]
+  > De basis- en uitgebreide ondersteuning voor dit product is uitgebreid om klanten de standaard tijdlijn voor de overgang van de levenscyclus te bieden.
+  > [!NOTE]
+  > De startdatum voor de Essentials-editie is 25 september 2014. 
+
+  ## <a name="editions"></a>Edities 
+  * Essentials
+  * Standard
+  * Workgroup
