@@ -3,25 +3,23 @@ metadata:
   title: PowerPoint 2011 voor Mac
   description: PowerPoint 2011 voor Mac volgt het vaste levenscyclusbeleid.
   ms.date: 07/28/2020
-  ms.openlocfilehash: d0fe8d525c158c363a39793b7e30850693dc93e5
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: nl-NL
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "852078"
 name: PowerPoint 2011 voor Mac
-summary: >+
+summary: |+
   PowerPoint 2011 voor Mac volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
 products:
-- office
+  - office
 policyType: fixed-mainstream-only
 supportDates:
   start: 12/09/2010
   end: 10/10/2017
 releases:
-- version: Original Release
-  startDate: 12/09/2010
-  endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> De basisondersteuning voor Microsoft Office voor Mac 2011 wordt, zoals weergegeven, verlengd om alle klanten de standaard overgangstijdlijn van de levenscyclus te bieden"
+  - version: Original Release
+    startDate: 12/09/2010
+    endDate: 10/10/2017
+content: |+
+
+
+  > [!NOTE]
+  > De basisondersteuning voor Microsoft Office voor Mac 2011 wordt, zoals weergegeven, verlengd om alle klanten de standaard overgangstijdlijn van de levenscyclus te bieden
