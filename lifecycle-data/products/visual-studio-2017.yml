@@ -3,32 +3,47 @@ metadata:
   title: Visual Studio 2017
   description: Visual Studio 2017 volgt het vaste levenscyclusbeleid.
   ms.date: 09/01/2020
-  keywords: Agents,Build Tools,Community,Enterprise,ESM,Feedback Client,for Mac,IntelliTrace Standalone Collector,Performance Tools,Professional,PSM,Remote Tools,Team Explorer,Test Professional,Visual C++ Redistributable
-  ms.openlocfilehash: 5b020aa502db37cded2369b6c15eeb0c00d3b878
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: nl-NL
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "937368"
+  keywords: 'Agents,Build Tools,Community,Enterprise,ESM,Feedback Client,for Mac,IntelliTrace Standalone Collector,Performance Tools,Professional,PSM,Remote Tools,Team Explorer,Test Professional,Visual C++ Redistributable'
 name: Visual Studio 2017
-summary: >+
+summary: |+
   Visual Studio 2017 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
-
 
   Dit is van toepassing op de volgende edities: Agents, Opbouwhulpmiddelen, Community, Enterprise, ESM, Feedback Client, voor Mac, IntelliTrace Standalone Collector, Prestatiehulpprogramma's, Professional, Werkbalk Extern, Team Explorer, Test Professional, Visual C++ herdistribueerbaar
 
 products:
-- vs
+  - vs
 policyType: fixed
 supportDates:
   start: 03/07/2017
   end: 04/12/2022
   extendedEnd: 04/13/2027
 releases:
-- version: Version 15.9
-  startDate: 11/13/2018
-  endDate: 04/13/2027
-- version: Version 15.0
-  startDate: 03/07/2017
-  endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>Koppelingen \n* [Aankondiging](https://devblogs.microsoft.com/visualstudio/visual-studio-2017-and-visual-studio-for-mac-support-updates/)\n* [Onderhoudsinformatie](/visualstudio/productinfo/vs-servicing-vs#support-for-older-versions-of-visual-studio)\n\n\n## <a name=\"editions\"></a>Edities \n* Agents\n* Opbouwhulpmiddelen\n* Community\n* Enterprise\n*  ESM\n* Feedback client\n* Voor Mac\n* IntelliTrace Standalone Collector\n* Prestatiehulpprogramma's\n* Professional\n* PSM\n* Werkbalk extern\n* Team Explorer\n* Test Professional\n* Visual C++ herdistribueerbaar"
+  - version: Version 15.9
+    startDate: 11/13/2018
+    endDate: 04/13/2027
+  - version: Version 15.0
+    startDate: 03/07/2017
+    endDate: 01/14/2020
+content: |
+
+  ## <a name="links"></a>Koppelingen 
+  * [Aankondiging](https://devblogs.microsoft.com/visualstudio/visual-studio-2017-and-visual-studio-for-mac-support-updates/)
+  * [Onderhoudsinformatie](/visualstudio/productinfo/vs-servicing-vs#support-for-older-versions-of-visual-studio)
+
+
+  ## <a name="editions"></a>Edities 
+  * Agents
+  * Opbouwhulpmiddelen
+  * Community
+  * Enterprise
+  *  ESM
+  * Feedback client
+  * Voor Mac
+  * IntelliTrace Standalone Collector
+  * Prestatiehulpprogramma's
+  * Professional
+  * PSM
+  * Werkbalk extern
+  * Team Explorer
+  * Test Professional
+  * Visual C++ herdistribueerbaar
