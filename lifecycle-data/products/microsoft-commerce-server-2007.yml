@@ -3,39 +3,39 @@ metadata:
   title: Microsoft Commerce Server 2007
   description: Microsoft Commerce Server 2007 volgt het vaste levenscyclusbeleid.
   ms.date: 09/10/2020
-  keywords: Developer,Enterprise,Standard
-  ms.openlocfilehash: af39b48f1bcdeb6db20aced8088eeba1bec08140
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: nl-NL
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1000163"
+  keywords: 'Developer,Enterprise,Standard'
 name: Microsoft Commerce Server 2007
-summary: >
+summary: |
   Microsoft Commerce Server 2007 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
-
 
   Dit geldt voor de volgende edities: Developer, Enterprise, Standaard
 
-
   > [!IMPORTANT]
-
   > De ondersteuning voor dit product is beëindigd.
 products:
-- microsoft-servers
+  - microsoft-servers
 policyType: fixed
 supportDates:
   start: 06/16/2006
   end: 07/12/2011
   extendedEnd: 07/12/2016
 releases:
-- version: Service Pack 2
-  startDate: 05/29/2008
-  endDate: 07/12/2016
-- version: Service Pack 1
-  startDate: 06/22/2007
-  endDate: 07/14/2009
-- version: Original Release
-  startDate: 06/16/2006
-  endDate: 07/08/2008
-content: "\n## <a name=\"links\"></a>Koppelingen \n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edities \n* Developer\n* Enterprise\n* Standaard"
+  - version: Service Pack 2
+    startDate: 05/29/2008
+    endDate: 07/12/2016
+  - version: Service Pack 1
+    startDate: 06/22/2007
+    endDate: 07/14/2009
+  - version: Original Release
+    startDate: 06/16/2006
+    endDate: 07/08/2008
+content: |
+
+  ## <a name="links"></a>Koppelingen 
+  * [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)
+
+
+  ## <a name="editions"></a>Edities 
+  * Developer
+  * Enterprise
+  * Standard

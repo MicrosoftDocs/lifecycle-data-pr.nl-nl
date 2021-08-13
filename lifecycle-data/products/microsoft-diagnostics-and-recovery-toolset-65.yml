@@ -3,26 +3,20 @@ metadata:
   title: Microsoft Diagnostics en Recovery Toolset 6.5
   description: Diagnose- en herstelhulpmiddelenset van Microsoft 6.5 volgt het vaste levenscyclusbeleid.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 1e9cfdf6271094dc9535df33e253f559501416ba
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: nl-NL
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "812403"
 name: Microsoft Diagnostics en Recovery Toolset 6.5
-summary: >+
+summary: |+
   Diagnose- en herstelhulpmiddelenset van Microsoft 6.5 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 12/03/2009
   end: 01/14/2014
   extendedEnd: 01/08/2019
 releases:
-- version: Original Release
-  startDate: 12/03/2009
-  endDate: 01/08/2019
-content: ''
+  - version: Original Release
+    startDate: 12/03/2009
+    endDate: 01/08/2019
+content: |+
