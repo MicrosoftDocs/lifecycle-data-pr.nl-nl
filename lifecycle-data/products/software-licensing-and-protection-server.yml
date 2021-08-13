@@ -3,33 +3,32 @@ metadata:
   title: Software Licensing and Protection Server
   description: Software Licensing and Protection Server volgt het vaste levenscyclusbeleid.
   ms.date: 09/10/2020
-  keywords: Enterprise,Standard
-  ms.openlocfilehash: 567392e4c49c46a29c7f9f80730542f0ded21608
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: nl-NL
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001051"
+  keywords: 'Enterprise,Standard'
 name: Software Licensing and Protection Server
-summary: >
+summary: |
   Software Licensing and Protection Server volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
-
 
   Dit geldt voor de volgende edities: Enterprise, Standaard
 
-
   > [!IMPORTANT]
-
   > Vanwege het afstoten van Software Licensing and Protection Server (SLPS), ondersteunde Microsoft SLPS tot 24 september 2009.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 12/30/2007
   end: 09/24/2009
   extendedEnd: 09/24/2009
 releases:
-- version: Original Release
-  startDate: 12/30/2007
-  endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Koppelingen \n* [Software Licensing and Protection Server (SLPS)](https://www.microsoft.com/slps)\n\n\n## <a name=\"editions\"></a>Edities \n* Enterprise\n* Standard"
+  - version: Original Release
+    startDate: 12/30/2007
+    endDate: 01/09/2018
+content: |
+
+  ## <a name="links"></a>Koppelingen 
+  * [Software Licensing and Protection Server (SLPS)](https://www.microsoft.com/slps)
+
+
+  ## <a name="editions"></a>Edities 
+  * Enterprise
+  * Standard

@@ -3,32 +3,49 @@ metadata:
   title: Visual Studio 2015
   description: Visual Studio 2015 volgt het beleid voor de vaste levenscyclus.
   ms.date: 09/01/2020
-  keywords: Agents,Community,Enterprise,ESM,Express for Web,Express for Windows 10,Express for Windows Desktop,Modeling SDK,Professional,PSM,Release Management,Remote Tools,SDK,Shell (Integrated),Shell (Isolated),Test Professional,TPS,Visual C++ Redistributable
-  ms.openlocfilehash: d993b7ac12edc9ad4c1c7d58f35c61a8c4c10a71
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: nl-NL
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "937405"
+  keywords: 'Agents,Community,Enterprise,ESM,Express for Web,Express for Windows 10,Express for Windows Desktop,Modeling SDK,Professional,PSM,Release Management,Remote Tools,SDK,Shell (Integrated),Shell (Isolated),Test Professional,TPS,Visual C++ Redistributable'
 name: Visual Studio 2015
-summary: >+
-  Visual Studio 2015 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
-
+summary: |+
+  Visual Studio 2015 volgt het beleid voor de [vaste](/lifecycle/policies/fixed) levenscyclus.
 
   Dit is van toepassing op de volgende edities: Agents, Community, Enterprise, ESM, Express voor Web, Express voor Windows 10, Express voor Windows Desktop, Modeling SDK, Professional, PSM, Release Management, Werkbalk Extern, SDK, Shell (geïntegreerde modus), Shell (geïsoleerde modus), Test Professional, TPS, Visual C++ herdistribueerbaar
 
 products:
-- vs
+  - vs
 policyType: fixed
 supportDates:
   start: 07/20/2015
   end: 10/13/2020
   extendedEnd: 10/14/2025
 releases:
-- version: Update 3
-  startDate: 06/27/2016
-  endDate: 10/14/2025
-- version: Original Release
-  startDate: 07/20/2015
-  endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>Koppelingen \n* [Onderhoudsinformatie](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Edities \n* Agents\n* Community\n* Enterprise\n* ESM\n* Express voor Web\n* Express voor Windows 10\n* Express voor Windows Desktop\n* Modeling SDK\n* Professional\n* PSM\n* Releasebeheer\n* Werkbalk extern\n* SDK\n* Shell (geïntegreerde modus)\n* Shell (geïsoleerde modus)\n* Test Professional\n* TPS\n* Visual C++ herdistribueerbaar"
+  - version: Update 3
+    startDate: 06/27/2016
+    endDate: 10/14/2025
+  - version: Original Release
+    startDate: 07/20/2015
+    endDate: 10/14/2025
+content: |
+
+  ## <a name="links"></a>Koppelingen 
+  * [Onderhoudsinformatie](https://www.visualstudio.com/productinfo/vs-servicing-vs)
+
+
+  ## <a name="editions"></a>Edities 
+  * Agents
+  * Community
+  * Enterprise
+  *  ESM
+  * Express voor Web
+  * Express voor Windows 10
+  * Express voor Windows Desktop
+  * Modeling SDK
+  * Professional
+  * PSM
+  * Releasebeheer
+  * Werkbalk extern
+  * SDK
+  * Shell (geïntegreerde modus)
+  * Shell (geïsoleerde modus)
+  * Test Professional
+  * TPS
+  * Visual C++ herdistribueerbaar

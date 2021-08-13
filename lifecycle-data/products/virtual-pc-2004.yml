@@ -3,36 +3,37 @@ metadata:
   title: Virtual PC 2004
   description: Virtual PC 2004 volgt het vaste levenscyclusbeleid.
   ms.date: 09/10/2020
-  keywords: Express,Standard
-  ms.openlocfilehash: 858fa64b63de7edadffbc6d4514d1a9f7ea6e42a
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: nl-NL
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1000841"
+  keywords: 'Express,Standard'
 name: Virtual PC 2004
-summary: >
+summary: |
   Virtual PC 2004 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
-
 
   Dit geldt voor de volgende edities: Express, Standaard
 
-
   > [!IMPORTANT]
-
   > De ondersteuning voor dit product is beëindigd.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 01/20/2004
   end: 04/14/2009
   extendedEnd: 04/08/2014
 releases:
-- version: Service Pack 1
-  startDate: 08/30/2006
-  endDate: 04/08/2014
-- version: Original Release
-  startDate: 01/20/2004
-  endDate: 10/09/2007
-content: "> [!TIP]\n> Microsoft Virtual PC 2004 Express uitgebracht op 13 april 2006.\n\n## <a name=\"links\"></a>Koppelingen \n* [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edities \n* Express\n* Standard"
+  - version: Service Pack 1
+    startDate: 08/30/2006
+    endDate: 04/08/2014
+  - version: Original Release
+    startDate: 01/20/2004
+    endDate: 10/09/2007
+content: |
+  > [!TIP]
+  > Microsoft Virtual PC 2004 Express uitgebracht op 13 april 2006.
+
+  ## <a name="links"></a>Koppelingen 
+  * [Servicepackbeleid](/lifecycle/policies/fixed#service-packs)
+
+
+  ## <a name="editions"></a>Edities 
+  * Express
+  * Standard

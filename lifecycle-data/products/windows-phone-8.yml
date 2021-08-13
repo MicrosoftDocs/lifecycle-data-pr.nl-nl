@@ -3,24 +3,22 @@ metadata:
   title: Windows Phone 8
   description: Windows Phone 8 volgt het vaste levenscyclusbeleid.
   ms.date: 08/19/2020
-  ms.openlocfilehash: 414496ab55aa39619921de70d0df779cc4403a50
-  ms.sourcegitcommit: 37ac01a1d5492bb2bf54cbd018ea34074db8c998
-  ms.translationtype: HT
-  ms.contentlocale: nl-NL
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "940815"
 name: Windows Phone 8
-summary: >+
+summary: |+
   Windows Phone 8 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 12/14/2012
   end: 07/08/2014
 releases:
-- version: Original Release
-  startDate: 12/14/2012
-content: "\n\n> [!NOTE]\n> Microsoft zal updates beschikbaar stellen voor het besturingssysteem, inclusief beveiligingsupdates, gedurende minimaal 36 maanden na de begindatum van de levenscyclus. Deze updates zullen incrementeel zijn, waarbij elke update is gebaseerd op de update die eraan voorafging. Klanten moeten elke uitgebrachte update installeren om ondersteund te blijven. De distributie van deze incrementele updates kan worden gecontroleerd door de mobiele provider of de telefoonfabrikant van wie u uw telefoon hebt gekocht, en de installatie vereist dat uw telefoon vooraf wordt bijgewerkt. De beschikbaarheid van updates verschilt ook per land, regio en hardwaremogelijkheden."
+  - version: Original Release
+    startDate: 12/14/2012
+content: |+
+
+
+  > [!NOTE]
+  > Microsoft zal updates beschikbaar stellen voor het besturingssysteem, inclusief beveiligingsupdates, gedurende minimaal 36 maanden na de begindatum van de levenscyclus. Deze updates zullen incrementeel zijn, waarbij elke update is gebaseerd op de update die eraan voorafging. Klanten moeten elke uitgebrachte update installeren om ondersteund te blijven. De distributie van deze incrementele updates kan worden gecontroleerd door de mobiele provider of de telefoonfabrikant van wie u uw telefoon hebt gekocht, en de installatie vereist dat uw telefoon vooraf wordt bijgewerkt. De beschikbaarheid van updates verschilt ook per land, regio en hardwaremogelijkheden.
