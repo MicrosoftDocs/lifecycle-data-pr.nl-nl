@@ -2,21 +2,21 @@
 metadata:
   title: Visual Studio 2019
   description: Visual Studio 2019 volgt het beleid voor de vaste levenscyclus.
-  ms.date: 08/16/2021
+  ms.date: 09/20/2021
   keywords: 
-  ms.openlocfilehash: c7e4ddffbe5d190d4a67d9537e35e9fcf95bce8c
-  ms.sourcegitcommit: 0757165840b353e73bd33bcc287aec0d191c39cf
+  ms.openlocfilehash: e23223d9d0a238c2d9784b25ab84a2195705951c
+  ms.sourcegitcommit: b7b46fb942fa16a0d96d486f6b591e470c048157
   ms.translationtype: HT
   ms.contentlocale: nl-NL
-  ms.lasthandoff: 08/17/2021
-  ms.locfileid: "3099634"
+  ms.lasthandoff: 09/21/2021
+  ms.locfileid: "3460599"
 name: Visual Studio 2019
 summary: >+
   Visual Studio 2019 volgt het beleid voor de [vaste](/lifecycle/policies/fixed) levenscyclus.
 
 
 
-  Dit is van toepassing op de volgende edities: Agents, Opbouwhulpmiddelen, Community, Enterprise, voor Mac, IntelliTrace Standalone Collector, Prestatiehulpprogramma's, Professional, Werkbalk extern, Team Explorer, Visual C++ herdistribueerbaar
+  Dit is van toepassing op de volgende edities: Community, Enterprise, Professional
 
 
 
@@ -43,4 +43,4 @@ releases:
 - version: Version 16.0
   startDate: 04/02/2019
   endDate: 01/12/2021
-content: "\n\n## <a name=\"links\"></a>Koppelingen \n* [Visual Studio blog-aankondigingen](https://devblogs.microsoft.com/visualstudio/)\n* [Onderhoudsinformatie](/visualstudio/productinfo/vs-servicing-vs)\n* [Visual Studio 2019-downloadpagina](https://my.visualstudio.com/Downloads?q=Visual%20Studio%202019)\n* [Visual Studio 2019-releaseopmerkingen](/visualstudio/releases/2019/release-notes)\n\n\n\n\n## <a name=\"editions\"></a>Edities \n* Agents\n* Opbouwhulpmiddelen\n* Community\n* Enterprise\n* Voor Mac\n* IntelliTrace Standalone Collector\n* Prestatiehulpprogramma's\n* Professional\n* Werkbalk extern\n* Team Explorer\n* Visual C++ herdistribueerbaar"
+content: "\n\n## <a name=\"links\"></a>Koppelingen \n* [Visual Studio blog-aankondigingen](https://devblogs.microsoft.com/visualstudio/)\n* [Onderhoudsinformatie](/visualstudio/productinfo/vs-servicing-vs)\n* [Visual Studio 2019-downloadpagina](https://my.visualstudio.com/Downloads?q=Visual%20Studio%202019)\n* [Visual Studio 2019-releaseopmerkingen](/visualstudio/releases/2019/release-notes)\n\n\n> [!NOTE]\n> Visual Studio 2019-versies van de volgende componenten worden geleverd met en ondersteund als onderdeel van de levenscyclus van Visual Studio 2019: Agents, Opbouwhulpmiddelen, Community, Enterprise, IntelliTrace Standalone Collector, Prestatiehulpprogramma's, Werkbalk extern, Team Explorer, Visual C++ herdistribueerbaar\n\n\n## <a name=\"editions\"></a>Edities \n* Community\n* Enterprise\n* Professional"
