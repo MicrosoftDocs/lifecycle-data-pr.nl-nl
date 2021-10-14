@@ -2,20 +2,23 @@
 metadata:
   title: Visual Studio 2013
   description: Visual Studio 2013 volgt het vaste levenscyclusbeleid.
-  ms.date: 09/01/2020
-  keywords: Agents,All,Community,Express for Web,Express for Windows,Express for Windows Desktop,IntelliTrace Collector,Modeling SDK,Multibyte MFC Library,Premium,Professional,Release Management,Remote Tools,SDK,Shell (Integrated),Shell (Isolated),Team Explorer,Test Professional,Ultimate,Visual C++ Redistributable,Web Tools Extensions
-  ms.openlocfilehash: be98b464a1f267f12c314361f99e1cd7b62cbd5b2fe52619cee9119917d437b2
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.date: 09/23/2021
+  keywords: 
+  ms.openlocfilehash: 6ae47f9d9b67de20ecd407da68c7b570ebfc14f5
+  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
   ms.translationtype: HT
   ms.contentlocale: nl-NL
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2487185"
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "3509245"
 name: Visual Studio 2013
 summary: >+
   Visual Studio 2013 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
-  Dit is van toepassing op de volgende edities: Agents, Alles, Community, Express voor Web, Express voor Windows, Express voor Windows Desktop, IntelliTrace Collector, Modeling SDK, Multibyte MFC Library, Premium, Professional, Releasebeheer, Werkbalk extern, SDK, Shell (geïntegreerde modus), Shell (geïsoleerde modus), Team Explorer, Test Professional, Ultimate, Visual C++ herdistribueerbaar, Uitbreidingen webwerkset
+
+  Dit is van toepassing op de volgende edities: Community, Express voor Web, Express voor Windows, Express voor Windows Desktop, Premium, Professional, Release Management, Test Professional, Ultimate
+
+
 
 products:
 - vs
@@ -31,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 04/09/2024
-content: "\n## <a name=\"links\"></a>Koppelingen \n* [Onderhoudsinformatie](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Edities \n* Agents\n* Alles\n* Community\n* Express voor Web\n* Express voor Windows\n* Express voor Windows Desktop\n* IntelliTrace Collector\n* Modeling SDK\n* Multibyte MFC Library\n* Premium\n* Professional\n* Releasebeheer\n* Werkbalk extern\n* SDK\n* Shell (geïntegreerde modus)\n* Shell (geïsoleerde modus)\n* Team Explorer\n* Test Professional\n* Ultimate\n* Visual C++ herdistribueerbaar\n* Uitbreidingen webwerkset"
+content: "\n\n## <a name=\"links\"></a>Koppelingen \n* [Onderhoudsinformatie](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n> [!NOTE]\n> Visual Studio 2013-versies van de volgende componenten worden geleverd met en ondersteund als onderdeel van de levenscyclus van Visual Studio 2013: Agents, IntelliTrace-collector, Modeling SDK, Multibyte MFC Library, Remote Tools, SDK, Shell (geïntegreerd), Shell (geïsoleerd), Team Explorer, te distribueren pakket Visual C++, Webwerkset-uitbreidingen\n\n\n## <a name=\"editions\"></a>Edities \n* Community\n* Express voor Web\n* Express voor Windows\n* Express voor Windows Desktop\n* Premium\n* Professional\n* Releasebeheer\n* Test Professional\n* Ultimate"
