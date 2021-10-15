@@ -2,14 +2,14 @@
 metadata:
   title: Visual Studio 2015
   description: Visual Studio 2015 volgt het beleid voor de vaste levenscyclus.
-  ms.date: 10/04/2021
+  ms.date: 10/11/2021
   keywords: 
-  ms.openlocfilehash: 492f0646827d31ba0f4c2906f64915c2b22dffc0
-  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.openlocfilehash: 1e07a427245d7d9fd41ca9628cdacdaf1d888241
+  ms.sourcegitcommit: e5d80ad2e1e33e12fda006a76248ec3fb74c7af6
   ms.translationtype: HT
   ms.contentlocale: nl-NL
-  ms.lasthandoff: 10/05/2021
-  ms.locfileid: "3509282"
+  ms.lasthandoff: 10/11/2021
+  ms.locfileid: "3514167"
 name: Visual Studio 2015
 summary: >+
   Visual Studio 2015 volgt het beleid voor de [vaste](/lifecycle/policies/fixed) levenscyclus.
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 07/20/2015
   endDate: 10/14/2025
-content: "\n\n## <a name=\"links\"></a>Koppelingen \n* [Onderhoudsinformatie voor oudere versies van Visual Studio](/visualstudio/releases/2019/servicing-vs2019#support-for-older-versions-of-visual-studio)\n* [Servicepackbeleid](/lifecycle/faq/fixed-policy#what-is-the-lifecycle-policy-for-service-packs-)\n\n\n> [!NOTE]\n> Visual Studio 2015-versies van de volgende componenten worden geleverd met en ondersteund als onderdeel van de levenscyclus van Visual Studio 2015: Agents, ESM, Modeling SDK, PSM, Remote Tools, SDK, Shell (geïntegreerd), Shell (geïsoleerd), TPS, Te distribueren pakket Visual C++.\n\n\n## <a name=\"editions\"></a>Edities \n* Community\n* Enterprise\n* Express voor Web\n* Express voor Windows 10\n* Express voor Windows Desktop\n* Professional\n* Releasebeheer\n* Test Professional"
+content: "\n\n## <a name=\"links\"></a>Koppelingen \n* [Onderhoudsinformatie voor oudere versies van Visual Studio](/visualstudio/releases/2019/servicing-vs2019#support-for-older-versions-of-visual-studio)\n\n\n> [!NOTE]\n> Visual Studio 2015-versies van de volgende componenten worden geleverd met en ondersteund als onderdeel van de levenscyclus van Visual Studio 2015: Agents, ESM, Modeling SDK, PSM, Remote Tools, SDK, Shell (geïntegreerd), Shell (geïsoleerd), TPS, Te distribueren pakket Visual C++.\n\n\n## <a name=\"editions\"></a>Edities \n* Community\n* Enterprise\n* Express voor Web\n* Express voor Windows 10\n* Express voor Windows Desktop\n* Professional\n* Releasebeheer\n* Test Professional"
