@@ -3,26 +3,25 @@ metadata:
   title: Internet Explorer 10
   description: Internet Explorer 10 volgt het levenscyclusbeleid voor onderdelen.
   ms.date: 07/28/2020
+  ms.openlocfilehash: ead579969824424aec15a20a3599e60dfd072655
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: nl-NL
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4114513"
 name: Internet Explorer 10
-summary: |+
+summary: >+
   Internet Explorer 10 volgt het levenscyclusbeleid voor [onderdelen](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
-  - internet-explorer
+- internet-explorer
 policyType: component
 supportDates:
-  start: 10/30/2012
-  end: 01/31/2020
+  start: 2012-10-30T00:00:00.000-08:00
+  end: 2020-01-31T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 10/30/2012
-    endDate: 01/31/2020
-content: |+
-
-  ## <a name="links"></a>Koppelingen 
-  * [Richtlijnen voor migratie](https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support)
-  * [Veelgestelde vragen over het levenscyclusbeleid van Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)
-
-  > [!NOTE]
-  > Ga naar de veelgestelde vragen over de levenscyclus van Internet Explorer voor een lijst met ondersteunde besturingssystemen en browsercombinaties.
+- version: Original Release
+  startDate: 2012-10-30T00:00:00.000-08:00
+  endDate: 2020-01-31T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Richtlijnen voor migratie](https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support)\n* [Veelgestelde vragen over het levenscyclusbeleid van Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Ga naar de veelgestelde vragen over de levenscyclus van Internet Explorer voor een lijst met ondersteunde besturingssystemen en browsercombinaties."
