@@ -3,10 +3,17 @@ metadata:
   title: Windows Server 2016
   description: Windows Server 2016 volgt het vaste levenscyclusbeleid.
   ms.date: 07/09/2021
-  keywords: null
+  keywords: 
+  ms.openlocfilehash: 8d681747bc516263f47b6900cbf90c5f915601ce
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: nl-NL
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4134937"
 name: Windows Server 2016
-summary: |+
+summary: >+
   Windows Server 2016 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
+
 
 
   Dit is van toepassing op de volgende edities: Datacenter, Essentials, MultiPoint Premium, Standard
@@ -14,31 +21,14 @@ summary: |+
 
 
 products:
-  - windows
+- windows
 policyType: fixed
 supportDates:
-  start: 10/15/2016
-  end: 01/11/2022
-  extendedEnd: 01/12/2027
+  start: 2016-10-15T00:00:00.000-08:00
+  end: 2022-01-11T22:59:59.999-08:00
+  extendedEnd: 2027-01-12T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 10/15/2016
-    endDate: 01/12/2027
-content: |+
-
-
-  ## <a name="links"></a>Koppelingen 
-  * [Productgegevens](/windows-server/get-started/server-basics)
-  * [Veelgestelde vragen over de levenscyclus - Windows-producten](/lifecycle/faq/windows)
-  * [Onderhoudslevenscycli van Windows-containerbasisafbeeldingen](/virtualization/windowscontainers/deploy-containers/base-image-lifecycle)
-
-
-  > [!NOTE]
-  > Containers die zijn uitgebracht met Windows Server 2016 volgen dezelfde levenscyclusdatums.
-
-
-  ## <a name="editions"></a>Edities 
-  * Datacenter
-  * Essentials
-  * MultiPoint Premium
-  * Standard
+- version: Original Release
+  startDate: 2016-10-15T00:00:00.000-08:00
+  endDate: 2027-01-12T22:59:59.999-08:00
+content: "\n\n## <a name=\"links\"></a>Koppelingen \n* [Productgegevens](/windows-server/get-started/server-basics)\n* [Veelgestelde vragen over de levenscyclus - Windows-producten](/lifecycle/faq/windows)\n* [Onderhoudslevenscycli van Windows-containerbasisafbeeldingen](/virtualization/windowscontainers/deploy-containers/base-image-lifecycle)\n\n\n> [!NOTE]\n> Containers die zijn uitgebracht met Windows Server 2016 volgen dezelfde levenscyclusdatums.\n\n\n## <a name=\"editions\"></a>Edities \n* Datacenter\n* Essentials\n* MultiPoint Premium\n* Standard"
