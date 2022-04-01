@@ -3,36 +3,23 @@ metadata:
   title: Windows Small Business Server 2008
   description: Windows Small Business Server 2008 volgt het vaste levenscyclusbeleid.
   ms.date: 09/01/2020
-  keywords: 'Premium,Standard'
+  keywords: Premium,Standard
+  ms.openlocfilehash: 1f482af63ad9c63c40e628fba82ca5dbaf330e82
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: nl-NL
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4123023"
 name: Windows Small Business Server 2008
-summary: |
-  Windows Small Business Server 2008 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
-
-  Dit is van toepassing op de volgende edities: Premium, Standard
-
-  > [!IMPORTANT]
-  > De ondersteuning voor dit product is beëindigd. 
-
-  De ondersteuningsdatum voor dit productpakket wordt bepaald door de respectievelijke levenscyclus van het afzonderlijke onderdeelproduct. Bekijk de levenscyclus van het afzonderlijke onderdeelproduct om de duur van de ondersteuning te bepalen.
+summary: "Windows Small Business Server 2008 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.\n\nDit is van toepassing op de volgende edities: Premium, Standard\n\n> [!IMPORTANT]\n> De ondersteuning voor dit product is beëindigd. \n\nDe ondersteuningsdatum voor dit productpakket wordt bepaald door de respectievelijke levenscyclus van het afzonderlijke onderdeelproduct. Bekijk de levenscyclus van het afzonderlijke onderdeelproduct om de duur van de ondersteuning te bepalen.\n"
 products:
-  - windows
+- windows
 policyType: fixed
 supportDates:
-  start: 11/21/2008
-  extendedEnd: 01/14/2020
+  start: 2008-11-21T00:00:00.000-08:00
+  extendedEnd: 2020-01-14T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 11/21/2008
-    endDate: 01/14/2020
-content: |
-
-  ## <a name="links"></a>Koppelingen 
-  * [Richtlijnen voor migratie](https://aka.ms/AA1ovn4)
-  * [Windows Server 2008](/lifecycle/browse/listings/windows-server-2008)
-  * [Exchange Server 2007](/lifecycle/browse/listings/exchange-server-2007)
-  * [Microsoft Windows SharePoint Services 3.0](/lifecycle/browse/listings/microsoft-windows-sharepoint-services-30)
-
-
-  ## <a name="editions"></a>Edities 
-  * Premium
-  * Standard
+- version: Original Release
+  startDate: 2008-11-21T00:00:00.000-08:00
+  endDate: 2020-01-14T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Richtlijnen voor migratie](https://aka.ms/AA1ovn4)\n* [Windows Server 2008](/lifecycle/browse/listings/windows-server-2008)\n* [Exchange Server 2007](/lifecycle/browse/listings/exchange-server-2007)\n* [Microsoft Windows SharePoint Services 3.0](/lifecycle/browse/listings/microsoft-windows-sharepoint-services-30)\n\n\n## <a name=\"editions\"></a>Edities \n* Premium\n* Standard"

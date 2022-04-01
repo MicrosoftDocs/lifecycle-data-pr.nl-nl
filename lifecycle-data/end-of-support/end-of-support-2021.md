@@ -1,13 +1,13 @@
 ---
 title: Producten die de ondersteuning voor 2021 beëindigen
 description: Ontdek welke producten buiten gebruik zullen worden gesteld, het einde van de ondersteuning bereiken of worden verplaatst van de basisondersteuning naar de uitgebreide ondersteuning in 2021.
-ms.date: 11/03/2021
-ms.openlocfilehash: a3404257f04c2f022e648e067f78204a220bd3fc
-ms.sourcegitcommit: 5d340ff7cb048f68bd696227129860e72fd3c1cb
+ms.date: 01/14/2022
+ms.openlocfilehash: e0be3c1d9300e53c4eb912b0f9347902948fb0f8
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/04/2021
-ms.locfileid: "4028334"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4117473"
 ---
 # <a name="products-ending-support-in-2021"></a>Producten waarvan de ondersteuning in 2021 wordt beëindigd
 
@@ -24,7 +24,7 @@ De volgende producten die vallen onder het [modern beleid](/lifecycle/policies/
 
 | Product | Verlopen |
 | --- | --- |
-| [Azure Information Protection-client](/lifecycle/products/azure-information-protection-client?branch=live)<br> | 31 maart 2021 |
+| [Klassieke Azure Information Protection-client](/lifecycle/products/azure-information-protection-classic-client?branch=live)<br> | 31 maart 2021 |
 | [Azure Dev Spaces](/lifecycle/products/azure-dev-spaces?branch=live)<br> | zaterdag 15 mei 2021 |
 | [Skype voor Bedrijven Online](/lifecycle/products/skype-for-business-online?branch=live)<br> | zaterdag 31 juli 2021 |
 | [Dynamics 365 Layout](/lifecycle/products/dynamics-365-layout?branch=live)<br> | vrijdag 31 december 2021 |
@@ -39,7 +39,7 @@ De volgende productreleases, die vallen onder het [modern beleid](/lifecycle/pol
 | [Microsoft Endpoint Configuration Manager, versie 1906](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | dinsdag 26 januari 2021 |
 | [Dynamics 365 Business Central on-premises (modern beleid), wave 2 vrijgegeven in 2019, versie 15.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 13 april 2021 |
 | [Windows 10 Enterprise and Education, versie 1803](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Enterprise en Education, versie 1809](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Home en Pro, versie 1909](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Enterprise, versie 1803](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows 10 IoT Enterprise, versie 1809](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows Server, versie 1909](/lifecycle/products/windows-server?branch=live)<br> | 11 mei 2021 |
-| [Microsoft Endpoint Configuration Manager, versie 1910](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | zaterdag 29 mei 2021 |
+| [Microsoft Endpoint Configuration Manager, versie 1511](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br>[Microsoft Endpoint Configuration Manager, versie 1910](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | zaterdag 29 mei 2021 |
 | [.NET Core 2.1 (LTS)](/lifecycle/products/microsoft-net-and-net-core?branch=live)<br> | zaterdag 21 augustus 2021 |
 | [Microsoft Endpoint Configuration Manager, versie 2002](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | vrijdag 1 oktober 2021 |
 | [Dynamics 365 Business Central on-premises (modern beleid), wave 1 vrijgegeven in 2020, versie 16.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 12 oktober 2021 |

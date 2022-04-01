@@ -3,24 +3,26 @@ metadata:
   title: Microsoft Business Solutions voor Analytics--FRx 6.7-desktop
   description: Microsoft Business Solutions voor Analytics--FRx 6.7-desktop volgt het vaste levenscyclusbeleid.
   ms.date: 07/28/2020
+  ms.openlocfilehash: 3d4ffe8e7e6d2f13b220d2b7e1dd6953793ec286
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: nl-NL
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4108223"
 name: Microsoft Business Solutions voor Analytics--FRx 6.7-desktop
-summary: |+
+summary: >+
   Microsoft Business Solutions voor Analytics--FRx 6.7-desktop volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
 products:
-  - dynamics
+- dynamics
 policyType: fixed
 supportDates:
-  start: 05/30/2004
-  end: 07/14/2009
-  extendedEnd: 07/08/2014
+  start: 2004-05-30T00:00:00.000-08:00
+  end: 2009-07-14T22:59:59.999-08:00
+  extendedEnd: 2014-07-08T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 05/30/2004
-    endDate: 07/08/2014
-content: |+
-
-
-  > [!NOTE]
-  > FRx-ondersteuning eindigt op de aangegeven datum, tenzij deze wordt gedistribueerd als onderdeel van een Dynamics-product. Wanneer dit wordt gedistribueerd met een Dynamics-product, overschrijven de Dynamics-levenscyclusdatums de FRx-datums.
+- version: Original Release
+  startDate: 2004-05-30T00:00:00.000-08:00
+  endDate: 2014-07-08T22:59:59.999-08:00
+content: "\n\n> [!NOTE]\n> FRx-ondersteuning eindigt op de aangegeven datum, tenzij deze wordt gedistribueerd als onderdeel van een Dynamics-product. Wanneer dit wordt gedistribueerd met een Dynamics-product, overschrijven de Dynamics-levenscyclusdatums de FRx-datums."

@@ -1,13 +1,13 @@
 ---
 title: Producten die de ondersteuning voor 2028 beëindigen
 description: Ontdek welke producten buiten gebruik zullen worden gesteld, het einde van de ondersteuning bereiken of worden verplaatst van de basisondersteuning naar de uitgebreide ondersteuning in 2028.
-ms.date: 08/11/2021
-ms.openlocfilehash: d9483ab57d5626bb7db3be75fd915951aa68adf1
-ms.sourcegitcommit: 5e9349227c409d98c77eb151f27be486fb55a00c
+ms.date: 01/26/2022
+ms.openlocfilehash: a8b3c4f4e6e462fa015bad7b2c1b609d44d9838b
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "4027690"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4116955"
 ---
 # <a name="products-ending-support-in-2028"></a>Producten waarvan de ondersteuning in 2028 wordt beëindigd
 
@@ -39,3 +39,11 @@ De volgende producten en releases die worden beheerd door het [vast beleid](/lif
 | [Dynamics SL 2018](/lifecycle/products/dynamics-sl-2018?branch=live)<br> | dinsdag 11 juli 2028 |
 
 
+## <a name="products-moving-to-extended-support"></a>Producten die naar de uitgebreide ondersteuning gaan
+
+De volgende producten zullen in 2028 van de basisondersteuning naar de uitgebreide ondersteuning worden verplaatst. Uitgebreide ondersteuning omvat gratis beveiligingsupdates en betaalde niet-beveiligingsupdates en ondersteuning. Bovendien accepteert Microsoft geen aanvragen voor ontwerpswijzigingen of nieuwe functies tijdens de Uitgebreide Ondersteuningsfase.
+
+| Product | Einde van reguliere ondersteuning |
+| --- | --- |
+| [BizTalk Server 2020](/lifecycle/products/biztalk-server-2020?branch=live)<br> | dinsdag 11 april 2028 |
+| [Microsoft Host Integration Server 2020](/lifecycle/products/microsoft-host-integration-server-2020?branch=live)<br> | dinsdag 11 juli 2028 |

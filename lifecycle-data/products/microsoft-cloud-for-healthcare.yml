@@ -3,22 +3,24 @@ metadata:
   title: Microsoft Cloud voor gezondheidszorg
   description: Microsoft Cloud voor de gezondheidszorg volgt het moderne levenscyclusbeleid.
   ms.date: 10/28/2020
-  keywords: null
+  keywords: 
+  ms.openlocfilehash: 53f4831913175b123ec7e890133b90db82418c43
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: nl-NL
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4154547"
 name: Microsoft Cloud voor gezondheidszorg
-summary: |+
+summary: >+
   Microsoft Cloud voor gezondheidszorg volgt het [moderne](/lifecycle/policies/modern) levenscyclusbeleid.
 
 
 products:
-  - dynamics
+- dynamics
 policyType: modern-online
 supportDates:
-  start: 10/28/2020
+  start: 2020-10-28T00:00:00.000-08:00
 releases:
-  - version: Original Release
-    startDate: 10/28/2020
-content: |+
-
-  ## <a name="links"></a>Koppelingen 
-  * [Meer informatie over Microsoft Cloud voor gezondheidszorg](https://www.microsoft.com/industry/health/microsoft-cloud-for-healthcare)
-  * [Aan de slag met Microsoft Cloud voor gezondheidszorg](/dynamics365/industry/healthcare/overview)
+- version: Original Release
+  startDate: 2020-10-28T00:00:00.000-08:00
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Meer informatie over Microsoft Cloud voor gezondheidszorg](https://www.microsoft.com/industry/health/microsoft-cloud-for-healthcare)\n* [Aan de slag met Microsoft Cloud voor gezondheidszorg](/dynamics365/industry/healthcare/overview)"

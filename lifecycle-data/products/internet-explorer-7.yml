@@ -3,30 +3,25 @@ metadata:
   title: Internet Explorer 7
   description: Internet Explorer 7 volgt het levenscyclusbeleid voor onderdelen.
   ms.date: 10/05/2020
-  keywords: null
+  keywords: 
+  ms.openlocfilehash: e24db5a054e0b478b88f53da6b56d5c37110ef6e
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: nl-NL
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4155213"
 name: Internet Explorer 7
-summary: |+
+summary: >+
   Internet Explorer 7 volgt het levenscyclusbeleid voor [onderdelen](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
-  - internet-explorer
+- internet-explorer
 policyType: component
 supportDates:
-  start: 10/18/2006
-  end: 10/10/2023
+  start: 2006-10-18T00:00:00.000-08:00
+  end: 2023-10-10T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 10/18/2006
-content: |+
-
-  ## <a name="links"></a>Koppelingen 
-  * [Richtlijnen voor migratie](https://www.microsoft.com/itpro/microsoft-edge)
-  * [Windows Embedded Compact 7](/lifecycle/products/windows-embedded-compact-7)
-  * [Windows Embedded Compact 2013](/lifecycle/products/windows-embedded-compact-2013)
-  * [Veelgestelde vragen over het levenscyclusbeleid van Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)
-
-  > [!NOTE]
-  > Internet Explorer 7 is een onderdeel van Windows Embedded Compact 7 en Windows Embedded Compact 2013 en volgt dezelfde levenscyclus. 
-  > [!NOTE]
-  > Vanaf 12 januari 2016 zal alleen de meest recente versie van Internet Explorer, die beschikbaar is voor een ondersteund besturingssysteem, technisch ondersteund worden en beveiligingsupdates ontvangen.
+- version: Original Release
+  startDate: 2006-10-18T00:00:00.000-08:00
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Richtlijnen voor migratie](https://www.microsoft.com/itpro/microsoft-edge)\n* [Windows Embedded Compact 7](/lifecycle/products/windows-embedded-compact-7)\n* [Windows Embedded Compact 2013](/lifecycle/products/windows-embedded-compact-2013)\n* [Veelgestelde vragen over het levenscyclusbeleid van Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Internet Explorer 7 is een onderdeel van Windows Embedded Compact 7 en Windows Embedded Compact 2013 en volgt dezelfde levenscyclus. \n> [!NOTE]\n> Vanaf 12 januari 2016 zal alleen de meest recente versie van Internet Explorer, die beschikbaar is voor een ondersteund besturingssysteem, technisch ondersteund worden en beveiligingsupdates ontvangen."

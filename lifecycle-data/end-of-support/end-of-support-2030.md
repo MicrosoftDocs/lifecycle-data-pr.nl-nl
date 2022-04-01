@@ -1,13 +1,13 @@
 ---
 title: Producten die de ondersteuning voor 2030 beëindigen
 description: Ontdek welke producten buiten gebruik zullen worden gesteld, het einde van de ondersteuning bereiken of worden verplaatst van de basisondersteuning naar de uitgebreide ondersteuning in 2030.
-ms.date: 08/11/2021
-ms.openlocfilehash: fc4571cb7bd8cfad504c5a3f2e677320c9a2fab6
-ms.sourcegitcommit: 0757165840b353e73bd33bcc287aec0d191c39cf
+ms.date: 01/26/2022
+ms.openlocfilehash: 15c0ded025a177c10f89e1839eb8c2da7c82daba
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/17/2021
-ms.locfileid: "4028048"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4116807"
 ---
 # <a name="products-ending-support-in-2030"></a>Producten waarvan de ondersteuning in 2030 wordt beëindigd
 
@@ -29,6 +29,7 @@ De volgende producten en releases die worden beheerd door het [vast beleid](/lif
 | Product | Einde van ondersteuning |
 | --- | --- |
 | [SQL Server 2019](/lifecycle/products/sql-server-2019?branch=live)<br> | dinsdag 8 januari 2030 |
+| [BizTalk Server 2020](/lifecycle/products/biztalk-server-2020?branch=live)<br> | dinsdag 9 april 2030 |
 | [Microsoft Host Integration Server 2020](/lifecycle/products/microsoft-host-integration-server-2020?branch=live)<br> | dinsdag 9 juli 2030 |
 | [Azure DevOps Server 2020](/lifecycle/products/azure-devops-server-2020?branch=live)<br>[Microsoft Robotics](/lifecycle/products/microsoft-robotics?branch=live)<br> | dinsdag 8 oktober 2030 |
 

@@ -3,20 +3,23 @@ metadata:
   title: Power BI Report Server
   description: Power BI Report Server volgt het moderne levenscyclusbeleid.
   ms.date: 07/28/2020
+  ms.openlocfilehash: 242f5dcd4d8e262c34c8468b004a84ee1ed26e47
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: nl-NL
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4143558"
 name: Power BI Report Server
-summary: |+
+summary: >+
   Power BI Report Server volgt het [moderne](/lifecycle/policies/modern) levenscyclusbeleid.
 
 
 products:
-  - sql-server
+- sql-server
 policyType: modern-online
 supportDates:
-  start: 06/12/2017
+  start: 2017-06-12T00:00:00.000-08:00
 releases:
-  - version: Original Release
-    startDate: 06/12/2017
-content: |+
-
-  ## <a name="links"></a>Koppelingen 
-  * [Onderhoudsinformatie](https://powerbi.microsoft.com/documentation/reportserver-support-timeline/)
+- version: Original Release
+  startDate: 2017-06-12T00:00:00.000-08:00
+content: "\n## <a name=\"links\"></a>Koppelingen \n* [Onderhoudsinformatie](https://powerbi.microsoft.com/documentation/reportserver-support-timeline/)"

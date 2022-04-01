@@ -1,13 +1,13 @@
 ---
 title: Producten die de ondersteuning voor 2016 beëindigen
 description: Ontdek welke producten buiten gebruik zullen worden gesteld, het einde van de ondersteuning bereiken of worden verplaatst van de basisondersteuning naar de uitgebreide ondersteuning in 2016.
-ms.date: 09/17/2021
-ms.openlocfilehash: 173d56e15247cd3bb3e31ece82f9aa2d05a54146
-ms.sourcegitcommit: 203d765be641181ebf7b895f783ce497a9568616
+ms.date: 01/14/2022
+ms.openlocfilehash: 02f886067fe5d4199a1f0e5f4505c6afa5cd6194
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "4028171"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4117547"
 ---
 # <a name="products-ending-support-in-2016"></a>Producten waarvan de ondersteuning in 2016 wordt beëindigd
 
@@ -20,13 +20,6 @@ Als u vragen heeft over ondersteuning voor een product, neemt u contact op met u
 
 
 
-## <a name="release-end-of-servicing"></a>Release van het einde van onderhoud
-
-De volgende productreleases, die vallen onder het [modern beleid](/lifecycle/policies/modern), worden in 2016 niet meer ondersteund.
-
-| Product | Einde van onderhoud |
-| --- | --- |
-| [Microsoft Endpoint Configuration Manager, versie 1511](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | donderdag 8 december 2016 |
 
 
 ## <a name="products-reaching-end-of-support"></a>Producten die het einde van de ondersteuning bereiken
