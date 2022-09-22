@@ -2,26 +2,16 @@
 metadata:
   title: Microsoft Edge
   description: Microsoft Edge volgt het moderne levenscyclusbeleid.
-  ms.date: 11/03/2021
+  ms.date: 08/08/2022
   keywords: IE; browser; Internet Explorer
-  ms.openlocfilehash: cba75253b99e6f2c40c3f38da3b808578facaa2e
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.openlocfilehash: eee90516a33aedeb20b404db7362088a5f1031d3
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: nl-NL
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4147739"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4518484"
 name: Microsoft Edge
-summary: >+
-  Microsoft Edge volgt het [moderne](/lifecycle/policies/modern) levenscyclusbeleid.
-
-
-
-
-
-  > [!IMPORTANT]
-
-  > Neem in acht dat de ondersteuning voor de oudere versie (Legacy) van dit product eindigt op 9 maart 2021. Klik [hier](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666) voor meer informatie.
-
+summary: "Microsoft Edge volgt het [moderne](/lifecycle/policies/modern) levenscyclusbeleid.\n\n\n\n\n> [!IMPORTANT]\n> Microsoft Edge blijft ondersteund op Windows 7 en Windows Server 2008 R2 tot 15 januari 2023. Microsoft raadt klanten aan om over te stappen naar een ondersteund besturingssysteem, zoals Windows 10. Klik [hier](https://docs.microsoft.com/deployedge/microsoft-edge-supported-operating-systems) voor meer informatie. \n\n"
 products:
 - microsoft-edge
 policyType: modern-on-prem
@@ -30,4 +20,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 2020-01-15T00:00:00.000-08:00
-content: "\n\n## <a name=\"links\"></a>Koppelingen \n* [Door Microsoft Edge ondersteunde besturingssystemen](/deployedge/microsoft-edge-supported-operating-systems)\n* [Nieuwe bronnen om de overstap naar Edge te versnellen](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/proven-tools-to-accelerate-your-move-to-microsoft-edge/ba-p/2504818)\n* [Veelgestelde vragen over de levenscyclus - Internet Explorer en Edge](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Levenscyclusbeleid van Microsoft Edge](/deployedge/microsoft-edge-support-lifecycle)"
+content: "\n\n## <a name=\"links\"></a>Koppelingen \n* [Overzicht van de Microsoft Edge-onderhoudskanalen](/deployedge/microsoft-edge-channels)\n* [Door Microsoft Edge ondersteunde besturingssystemen](/deployedge/microsoft-edge-supported-operating-systems)\n* [Nieuwe bronnen om de overstap naar Edge te versnellen](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/proven-tools-to-accelerate-your-move-to-microsoft-edge/ba-p/2504818)\n* [Veelgestelde vragen over de levenscyclus - Internet Explorer en Edge](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Levenscyclusbeleid van Microsoft Edge](/deployedge/microsoft-edge-support-lifecycle)\n\n\n> [!NOTE]\n> Neem in acht dat de ondersteuning voor de oudere versie (Legacy) van dit product eindigt op 9 maart 2021. Klik [hier](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666) voor meer informatie."

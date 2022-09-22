@@ -1,13 +1,13 @@
 ---
 title: Producten die de ondersteuning voor 2020 beëindigen
 description: Ontdek welke producten zullen verlopen, het einde van de ondersteuning bereiken of stap over van basisondersteuning naar uitgebreide ondersteuning in 2020.
-ms.date: 02/22/2022
-ms.openlocfilehash: e427619e7015e375d7ec11cfe3f5b87fc4d6a0ec
-ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+ms.date: 07/26/2022
+ms.openlocfilehash: 5e9fe15375b61f659076f10221d48d7b144b3ebe
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/18/2022
-ms.locfileid: "4117584"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4518188"
 ---
 # <a name="products-ending-support-in-2020"></a>Producten waarvan de ondersteuning in 2020 wordt beëindigd
 
@@ -38,7 +38,7 @@ De volgende productreleases, die vallen onder het [modern beleid](/lifecycle/pol
 | --- | --- |
 | [Microsoft Endpoint Configuration Manager, versie 1806](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | vrijdag 31 januari 2020 |
 | [.NET Core 3.0](/lifecycle/products/microsoft-net-and-net-core?branch=live)<br> | dinsdag 3 maart 2020 |
-| [PowerShell, PowerShell 6.x](/lifecycle/products/powershell?branch=live)<br>[PowerShell, PowerShell Core 6.2](/lifecycle/products/powershell?branch=live)<br> | vrijdag 4 september 2020 |
+| [PowerShell, PowerShell Core 6.2](/lifecycle/products/powershell?branch=live)<br> | vrijdag 4 september 2020 |
 | [Microsoft Endpoint Configuration Manager, versie 1902](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | zondag 27 september 2020 |
 | [Visio Services in SharePoint (in Microsoft 365)](/lifecycle/products/visio-services-in-sharepoint-in-microsoft-365?branch=live)<br> | woensdag 30 september 2020 |
 | [Windows 10 Enterprise en Education, versie 1709](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 IoT Enterprise, versie 1709](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | 13 oktober 2020  |

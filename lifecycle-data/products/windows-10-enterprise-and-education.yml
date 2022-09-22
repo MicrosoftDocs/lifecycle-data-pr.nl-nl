@@ -2,21 +2,21 @@
 metadata:
   title: Windows 10 Enterprise en Education
   description: Windows 10 Enterprise en Education volgen het moderne levenscyclusbeleid.
-  ms.date: 11/15/2021
+  ms.date: 09/09/2022
   keywords: 
-  ms.openlocfilehash: 753111f48f91c6e725fc0804de60cf4d0a9b23db
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.openlocfilehash: bc2a6f89cc2cdaaa6da73110ff83d37e6ede9bf6
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: nl-NL
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4130497"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4519076"
 name: Windows 10 Enterprise en Education
 summary: >+
   Windows 10 Enterprise en Education volgen het [moderne](/lifecycle/policies/modern) levenscyclusbeleid.
 
 
 
-  Dit is van toepassing op de volgende edities: Education, Enterprise
+  Dit is van toepassing op de volgende edities: Education, Enterprise, Enterprise multi-sessie
 
 
 
@@ -70,4 +70,4 @@ releases:
 - version: Version 1507
   startDate: 2015-07-29T00:00:00.000-08:00
   endDate: 2017-05-09T22:59:59.999-08:00
-content: "\n\n## <a name=\"links\"></a>Koppelingen \n* [Windows als een service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Productgegevens](/windows/windows-10/)\n* [Veelgestelde vragen over de levenscyclus - Windows-producten](/lifecycle/faq/windows)\n* [Windows 10 IoT Enterprise](/lifecycle/products/windows-10-iot-enterprise)\n* [Windows 10 Home en Pro](/lifecycle/products/windows-10-home-and-pro)\n\n\n> [!NOTE]\n> Tenzij uitgesteld, kunnen verdere functie-updates van Windows 10 geïnstalleerd worden vóór de vermelde einddatum van de basisondersteuning.\n\n\n## <a name=\"editions\"></a>Edities \n* Education\n* Enterprise"
+content: "\n\n## <a name=\"links\"></a>Koppelingen \n* [Windows als een service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Productgegevens](/windows/windows-10/)\n* [Veelgestelde vragen over de levenscyclus - Windows-producten](/lifecycle/faq/windows)\n* [Windows 10 IoT Enterprise](/lifecycle/products/windows-10-iot-enterprise)\n* [Windows 10 Home en Pro](/lifecycle/products/windows-10-home-and-pro)\n\n\n> [!NOTE]\n> Tenzij uitgesteld, kunnen verdere functie-updates van Windows 10 geïnstalleerd worden vóór de vermelde einddatum van de basisondersteuning.\n\n\n## <a name=\"editions\"></a>Edities \n* Education\n* Enterprise\n* Enterprise multi-sessie"

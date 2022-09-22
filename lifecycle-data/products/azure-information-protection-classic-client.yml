@@ -2,14 +2,14 @@
 metadata:
   title: Klassieke Azure Information Protection-client
   description: De klassieke Azure Information Protection-client volgt het moderne levenscyclusbeleid.
-  ms.date: 11/17/2021
+  ms.date: 2022/05/27
   keywords: 
-  ms.openlocfilehash: 440c0337f73f25c109b206264547034b1a4ece68
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.openlocfilehash: d316768b36d12f3ce3e4b70bcc7d0e26d4b432ca
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: nl-NL
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4156663"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4518632"
 name: Klassieke Azure Information Protection-client
 summary: >+
   De klassieke Azure Information Protection-client volgt het [moderne](/lifecycle/policies/modern) levenscyclusbeleid.
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 2016-10-01T00:00:00.000-08:00
   endDate: 2021-03-31T22:59:59.999-08:00
-content: "\n\n## <a name=\"links\"></a>Koppelingen \n* [Onderhoudsinformatie](/information-protection/rms-client/client-version-release-history#servicing-information-and-timelines)\n* [Richtlijnen voor migratie](https://techcommunity.microsoft.com/t5/azure-information-protection/announcing-timelines-for-sunsetting-label-management-in-the/ba-p/1226179)\n\n\n> [!NOTE]\n> Azure Information Protection-client (classic) en Label Management in de Azure Portal worden per 31 maart 2021 afgeschaft om een uniforme en gestroomlijnde klantervaring te bieden. In deze periode kunnen alle huidige Azure Information Protection-klanten overschakelen naar onze uniforme etiketteringsoplossing met behulp van het Microsoft Information Protection Unified Labeling-platform."
+content: "\n\n## <a name=\"links\"></a>Koppelingen \n* [Onderhoudsinformatie](/information-protection/rms-client/client-version-release-history#servicing-information-and-timelines)\n* [Richtlijnen voor migratie](https://techcommunity.microsoft.com/t5/azure-information-protection/announcing-timelines-for-sunsetting-label-management-in-the/ba-p/1226179)\n\n\n> [!NOTE]\n> Azure Information Protection-client (classic) en Label Management in de Azure Portal worden per 31 maart 2021 afgeschaft om een uniforme en gestroomlijnde klantervaring te bieden. In deze periode kunnen alle huidige Azure Information Protection-klanten overschakelen naar het uniforme etiketteringsplatform voor Microsoft Information Protection."

@@ -1,13 +1,13 @@
 ---
 title: Producten die de ondersteuning voor 2027 beëindigen
 description: Ontdek welke producten buiten gebruik zullen worden gesteld, het einde van de ondersteuning bereiken of worden verplaatst van de basisondersteuning naar de uitgebreide ondersteuning in 2027.
-ms.date: 03/09/2022
-ms.openlocfilehash: c9c996d5f6ea11d9d413b309dd3bb4e673b02a14
-ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+ms.date: 05/05/2022
+ms.openlocfilehash: 49ef75f723bc4d89465d14bfd395b860123516fe
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/18/2022
-ms.locfileid: "4117029"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4517901"
 ---
 # <a name="products-ending-support-in-2027"></a>Producten waarvan de ondersteuning in 2027 wordt beëindigd
 
@@ -40,4 +40,5 @@ De volgende producten zullen in 2027 van de basisondersteuning naar de uitgebrei
 
 | Product | Einde van reguliere ondersteuning |
 | --- | --- |
-| [Dynamics 365 for Customer Engagement-apps, versie 9 (on-premises-update)](/lifecycle/products/dynamics-365-for-customer-engagement-apps-version-9-onpremises-update?branch=live)<br>[Visual Studio 2022 ](/lifecycle/products/visual-studio-2022?branch=live)<br>[Windows 10 IoT Enterprise LTSC 2021](/lifecycle/products/windows-10-iot-enterprise-ltsc-2021?branch=live)<br> | dinsdag 12 januari 2027 |
+| [Dynamics 365 for Customer Engagement-apps, versie 9 (on-premises-update)](/lifecycle/products/dynamics-365-for-customer-engagement-apps-version-9-onpremises-update?branch=live)<br>[Visual Studio 2022](/lifecycle/products/visual-studio-2022?branch=live)<br>[Windows 10 IoT Enterprise LTSC 2021](/lifecycle/products/windows-10-iot-enterprise-ltsc-2021?branch=live)<br> | dinsdag 12 januari 2027 |
+| [System Center 2022 Data Protection Manager](/lifecycle/products/system-center-2022-data-protection-manager?branch=live)<br>[System Center 2022 Operations Manager](/lifecycle/products/system-center-2022-operations-manager?branch=live)<br>[System Center 2022 Orchestrator](/lifecycle/products/system-center-2022-orchestrator?branch=live)<br>[System Center 2022 Service Manager](/lifecycle/products/system-center-2022-service-manager?branch=live)<br>[System Center 2022 Virtual Machine Manager](/lifecycle/products/system-center-2022-virtual-machine-manager?branch=live)<br> | dinsdag 13 april 2027 |
