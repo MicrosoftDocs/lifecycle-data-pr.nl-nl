@@ -2,20 +2,27 @@
 metadata:
   title: Windows 8.1
   description: Windows 8.1 volgt het vaste levenscyclusbeleid.
-  ms.date: 09/10/2020
-  keywords: Enterprise,Enterprise N,N,Pro with Media Center,Professional,Professional N,SL
-  ms.openlocfilehash: a3447c6de9bea75452ae7ebf216b401eaab71833
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.date: 09/02/2022
+  keywords: 
+  ms.openlocfilehash: 2dc2e2b41fbb73cbd8456da3fa472c2289ef5c65
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: nl-NL
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4123726"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4518447"
 name: Windows 8.1
 summary: >+
   Windows 8.1 volgt het [vaste](/lifecycle/policies/fixed) levenscyclusbeleid.
 
 
+
   Dit is van toepassing op de volgende edities: Enterprise, Enterprise N, N, Pro met Media Center, Professional, Professional N, SL
+
+
+
+  > [!IMPORTANT]
+
+  > Ter herinnering: Windows 8.1 zal op 10 januari 2023 het einde van de ondersteuning bereiken. Na deze datum ontvangt dit product niet langer beveiligingsupdates, niet-beveiligingsupdates, oplossingen voor fouten, technische ondersteuning of updates van online technische inhoud.  Als apparaten niet voldoen aan de technische vereisten om een recentere versie van Windows uit te voeren, raadt Microsoft aan het apparaat te vervangen door een apparaat dat Windows 11 ondersteunt. Klik [hier](https://docs.microsoft.com/lifecycle/announcements/windows-8-1-end-support-january-2023) voor meer informatie.
 
 products:
 - windows
@@ -28,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 2013-11-13T00:00:00.000-08:00
   endDate: 2023-01-10T22:59:59.999-08:00
-content: "\n## <a name=\"links\"></a>Koppelingen \n* [Veelgestelde vragen over de levenscyclus - Windows-producten](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Edities \n* Enterprise\n* Enterprise N\n* N\n* Pro met Media Center\n* Professional\n* Professional N\n* SL"
+content: "\n\n## <a name=\"links\"></a>Koppelingen \n* [Veelgestelde vragen over de levenscyclus - Windows-producten](/lifecycle/faq/windows)\n* [Veelgestelde technische vragen over Windows 8.1](https://prod.support.services.microsoft.com/windows/windows-8-1-support-will-end-on-january-10-2023-3cfd4cde-f611-496a-8057-923fba401e93?preview=true)\n\n\n\n\n## <a name=\"editions\"></a>Edities \n* Enterprise\n* Enterprise N\n* N\n* Pro met Media Center\n* Professional\n* Professional N\n* SL"
