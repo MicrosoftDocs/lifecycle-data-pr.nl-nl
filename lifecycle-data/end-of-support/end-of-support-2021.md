@@ -1,13 +1,13 @@
 ---
 title: Producten die de ondersteuning voor 2021 beëindigen
 description: Ontdek welke producten buiten gebruik zullen worden gesteld, het einde van de ondersteuning bereiken of worden verplaatst van de basisondersteuning naar de uitgebreide ondersteuning in 2021.
-ms.date: 01/14/2022
-ms.openlocfilehash: e0be3c1d9300e53c4eb912b0f9347902948fb0f8
-ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+ms.date: 09/13/2022
+ms.openlocfilehash: d92c5d932bd58716fea6238162788a45d0dced00
+ms.sourcegitcommit: 83c4bec3ec265ce0fb67fc5dc6b134f8e011dfff
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/18/2022
-ms.locfileid: "4117473"
+ms.lasthandoff: 09/13/2022
+ms.locfileid: "4520827"
 ---
 # <a name="products-ending-support-in-2021"></a>Producten waarvan de ondersteuning in 2021 wordt beëindigd
 
@@ -37,12 +37,12 @@ De volgende productreleases, die vallen onder het [modern beleid](/lifecycle/pol
 | Product | Einde van onderhoud |
 | --- | --- |
 | [Microsoft Endpoint Configuration Manager, versie 1906](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | dinsdag 26 januari 2021 |
+| [Azure IoT Edge, versie 1.0](/lifecycle/products/azure-iot-edge?branch=live)<br> | maandag 1 februari 2021 |
 | [Dynamics 365 Business Central on-premises (modern beleid), wave 2 vrijgegeven in 2019, versie 15.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 13 april 2021 |
 | [Windows 10 Enterprise and Education, versie 1803](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Enterprise en Education, versie 1809](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Home en Pro, versie 1909](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Enterprise, versie 1803](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows 10 IoT Enterprise, versie 1809](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows Server, versie 1909](/lifecycle/products/windows-server?branch=live)<br> | 11 mei 2021 |
-| [Microsoft Endpoint Configuration Manager, versie 1511](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br>[Microsoft Endpoint Configuration Manager, versie 1910](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | zaterdag 29 mei 2021 |
+| [Microsoft Endpoint Configuration Manager, versie 1910](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | zaterdag 29 mei 2021 |
 | [.NET Core 2.1 (LTS)](/lifecycle/products/microsoft-net-and-net-core?branch=live)<br> | zaterdag 21 augustus 2021 |
 | [Microsoft Endpoint Configuration Manager, versie 2002](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | vrijdag 1 oktober 2021 |
-| [Dynamics 365 Business Central on-premises (modern beleid), wave 1 vrijgegeven in 2020, versie 16.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 12 oktober 2021 |
 | [Windows 10 Enterprise en Education, versie 2004](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Home en Pro, versie 2004](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Enterprise, versie 2004](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows Server, versie 2004](/lifecycle/products/windows-server?branch=live)<br> | dinsdag 14 december 2021 |
 
 
