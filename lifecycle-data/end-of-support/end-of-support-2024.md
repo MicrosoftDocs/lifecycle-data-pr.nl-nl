@@ -1,13 +1,13 @@
 ---
 title: Producten die de ondersteuning voor 2024 beëindigen
 description: Ontdek welke producten buiten gebruik zullen worden gesteld, het einde van de ondersteuning bereiken of worden verplaatst van de basisondersteuning naar de uitgebreide ondersteuning in 2024.
-ms.date: 08/31/2022
-ms.openlocfilehash: 810bb5ce124705b8100cfc934d14e8ebf5343554
-ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
+ms.date: 09/21/2022
+ms.openlocfilehash: a4bd0494685a8d220747b0f76b3e1ba3ea68f78a
+ms.sourcegitcommit: 56d443d7c51462b98387364440f5064d3b61139e
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/09/2022
-ms.locfileid: "4518080"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "4526935"
 ---
 # <a name="products-ending-support-in-2024"></a>Producten waarvan de ondersteuning in 2024 wordt beëindigd
 
@@ -34,8 +34,10 @@ De volgende productreleases, die vallen onder het [modern beleid](/lifecycle/pol
 
 | Product | Einde van onderhoud |
 | --- | --- |
+| [Microsoft Endpoint Configuration Manager, versie 2207](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | maandag 12 februari 2024 |
 | [Windows 10 Enterprise and Education, versie 21H2](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 IoT Enterprise, versie 21H2](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | dinsdag 11 juni 2024 |
-| [Windows 11 Enterprise en Education (versie 21H2)](/lifecycle/products/windows-11-enterprise-and-education-version-21h2?branch=live)<br>[Windows 11 IoT Enterprise (versie 21H2), oorspronkelijke release (versie 21H2)](/lifecycle/products/windows-11-iot-enterprise-version-21h2?branch=live)<br> | 8 oktober 2024 |
+| [Windows 11 Enterprise en Education, versie 21H2](/lifecycle/products/windows-11-enterprise-and-education?branch=live)<br>[Windows 11 IoT Enterprise, versie 21H2](/lifecycle/products/windows-11-iot-enterprise?branch=live)<br> | 8 oktober 2024 |
+| [Windows 11 Home en Pro, versie 22H2](/lifecycle/products/windows-11-home-and-pro?branch=live)<br> | maandag 14 oktober 2024 |
 | [PowerShell, PowerShell 7.2 (LTS-current)](/lifecycle/products/powershell?branch=live)<br> | vrijdag 8 november 2024 |
 | [Azure IoT Edge, versie 1.4 (LTS)](/lifecycle/products/azure-iot-edge?branch=live)<br>[.NET 6.0 (LTS)](/lifecycle/products/microsoft-net-and-net-core?branch=live)<br> | dinsdag 12 november 2024 |
 
